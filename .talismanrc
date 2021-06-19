@@ -1,7 +1,3 @@
 fileignoreconfig:
-- filename: build/.vagrant/machines/default/virtualbox/private_key
-  checksum: 2cadad067da187da4aa55c37856b8cac1df8e88b7269e007cdfcb179471b8ef1
-- filename: build/.vagrant/machines/default/virtualbox/index_uuid
-  checksum: 6ddf7f2b7a9fd863739999efeae6c34b7d32366c2082438f527138cdbeab6bdf
-- filename: build/.vagrant/bundler/global.sol
-  checksum: e501d5bacdf7b0ac2d8a226f7d82e188eaf86960697681f8218bbd1676ec320e
+- filename: package-lock.json
+  checksum: 6295e093e2b29736360ada97d60f05772937eef5bcab4654163f075232dd406b
