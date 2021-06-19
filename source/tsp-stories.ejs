@@ -1,0 +1,8 @@
+<section class="tsp-stories-wrapper">
+  <h2>Videos</h2>
+  <div class="testimonial-container">
+    <% for(person in public.videos._data) { %>
+      <%- partial("/partials/_video", public.videos._data[person]) %>
+    <% } %>
+  </div>
+</section>

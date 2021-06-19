@@ -1,0 +1,5 @@
+.DS_Store
+*.pdf
+www
+.vagrant
+node_modules

@@ -1,0 +1,149 @@
+.event-post {
+  padding: 1em;
+  text-align: left;
+
+  .title {
+    text-align: left;
+    text-decoration: underline;
+  }
+
+  .content {
+
+    h3 {
+      background: #dfe6e9;
+      padding: 1em;
+    }
+
+    .event__photo {
+      width: 100%;
+
+      img {
+        width: 100%;
+        height: auto;
+      }
+    }
+
+    .event__video {
+      position: relative;
+      padding-bottom: 56.25%; /* 16:9 */
+      height: 0;
+
+      iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+      }
+    }
+
+    p {
+      text-align: left;
+    }
+
+    ol { 
+
+      li {
+        text-align: left;
+        margin-top: 1.5em;
+      }
+    }
+
+
+
+    .actions {
+
+      .btn {
+        display: block;
+        width: 100%;
+        padding: 1em;
+        border: solid 1px #ccc;
+        border-radius: 10px;
+        margin-top: 20px;
+        background: #00a8ff;
+        color: #fff;
+        text-align: center;
+        
+        &:first-child {
+          
+          background: #e84118;
+        }
+      }
+    }
+
+  }
+}
+
+@media (min-width: 992px) {  
+
+  .event-post {
+    padding: 2em;
+    font-size: 20px;
+    max-width: 1000px;
+    margin: 0 auto;
+    font-weight: 300;
+
+    .title {
+      text-align: left;
+      font-size: 2rem;
+      text-decoration: underline;
+    }
+  
+    .content {
+  
+      h3 {
+        font-size: 1rem;
+        background: #dfe6e9;
+        padding: 1em;
+  
+      }
+      .event__photo {
+        width: 50%;
+  
+        img {
+          width: 100%;
+          height: auto;
+        }
+      }
+  
+      p {
+        text-align: left;
+      }
+  
+      ol { 
+  
+        li {
+          text-align: left;
+          margin-top: 1.5em;
+        }
+      }
+  
+      .actions {
+        display: flex;
+  
+        .btn {
+          width: 300px;
+          margin-left: 20px;
+          padding: 1em;
+          border: solid 1px #ccc;
+          border-radius: 10px;
+          margin-top: 20px;
+          background: #00a8ff;
+          color: #fff;
+          text-align: center;
+          text-decoration: none;
+          
+          &:first-child {
+            background: #e84118;
+          }
+
+          &:hover {
+            background: #888;
+            color: #fff;
+          }
+        }
+      }
+  
+    }
+  }
+}
