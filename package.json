@@ -1,0 +1,27 @@
+{
+  "name": "tsp-web",
+  "version": "1.0.0",
+  "description": "TSP Alumni Website",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "harp": "^0.32.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imechemi/tsp-web.git"
+  },
+  "keywords": [
+    "tsp"
+  ],
+  "author": "Tenzin Chemi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imechemi/tsp-web/issues"
+  },
+  "homepage": "https://github.com/imechemi/tsp-web#readme"
+}
