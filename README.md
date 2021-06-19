@@ -3,12 +3,12 @@
 
 ## Development
 
-This repository uses [HarpJs](http://harpjs.com/) to generate static site. 
+This repository uses [HarpJs](http://harpjs.com/) to generate static site and deploy as Github Pages
 
 
 1. Clone 
  
-        git clone git@github.com:imechemi/tsp-web.git
+        git clone https://github.com/tspalumni/tspalumni.github.io
 
 2. Install harp
 
@@ -21,23 +21,34 @@ This repository uses [HarpJs](http://harpjs.com/) to generate static site.
 4. Hit http://locahost:4000
 
 
-## Deployment 
+5. After you have made changes. Push to `master`
 
-The site is hosted at https://tspalumni.github.io 
-
-1. Clone tspalumni.github.io repository
-
-       git clone https://github.com/tspalumni/tspalumni.github.io
+        git add .
+        git commit -m "<meaningful commit message>"
+        git push origin master
 
 
-2. Change directory to tsp-web repo 
+6. Compile static sites to directory named `build` in parent 
 
-      cd tsp-web
+        harp . ../build
 
-3. Compile static sites using Harp
+7. Checkout `gh-pages` branch inside tspalumni.github.io repository
 
-      harp . ../tspalumni.github.io
+        git checkout gh-pages
 
-4. Push your changes and it will be available to users. 
+8. Copy the compiled static sites from `build` directory to `gh-pages` branch
 
+        cp -a ../build/* .
         
+9. Remove README.md
+        
+        rm README.md
+
+10. Push to `gh-pages` remote branch
+
+        git add .
+        git commit -m "<meaningful message for your change>"
+        git push origin gh-pages
+
+11. You're set. The change has gone live now. 🚀
+      
