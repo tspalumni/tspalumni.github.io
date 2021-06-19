@@ -1,0 +1,3564 @@
+{
+	"list": [
+		{
+			"name": "Pasang Tsekey",
+			"gender": "Female",
+			"batch": "2018",
+			"program": "Public Health: Publi",
+			"course": "Public Health",
+			"category": "Degree"
+		},
+		{
+			"name": "Ngawang Choezom",
+			"gender": "Female",
+			"batch": "2018",
+			"program": "Business Administrat",
+			"course": "MBA",
+			"category": "Degree"
+		},
+		{
+			"name": "Tenzin Zomkyed",
+			"gender": "Female",
+			"batch": "2018",
+			"program": "Bio Technology",
+			"course": "Botany",
+			"category": "Degree"
+		},
+		{
+			"name": "Jamphel Shonu",
+			"gender": "Male",
+			"batch": "2018",
+			"program": "International Relati",
+			"course": "International Relations",
+			"category": "Degree"
+		},
+		{
+			"name": "Tenzin Khando",
+			"gender": "Female",
+			"batch": "2018",
+			"program": "Public Health: Publi",
+			"course": "",
+			"category": "Degree"
+		},
+		{
+			"name": "Tashi Namgyal",
+			"gender": "Male",
+			"batch": "2018",
+			"program": "International Relati",
+			"course": "International Relations",
+			"category": "Degree"
+		},
+		{
+			"name": "Tenzin Choedon",
+			"gender": "Male",
+			"batch": "2018",
+			"program": "Science & Technology",
+			"course": "Computer Science",
+			"category": "Degree"
+		},
+		{
+			"name": "Tenzin Wangdak",
+			"gender": "Male",
+			"batch": "2017",
+			"program": "International Relati",
+			"course": "International Relations",
+			"category": "Degree"
+		},
+		{
+			"name": "Tenzin Chemey",
+			"gender": "Female",
+			"batch": "2017",
+			"program": "International Relati",
+			"course": "International Relations",
+			"category": "Degree"
+		},
+		{
+			"name": "Tsering Yangdol",
+			"gender": "Female",
+			"batch": "2017",
+			"program": "Psychology: School E",
+			"course": "Psychology",
+			"category": "Degree"
+		},
+		{
+			"name": "Dawa",
+			"gender": "Male",
+			"batch": "2017",
+			"program": "Science & Technology",
+			"course": "Physics",
+			"category": "Degree"
+		},
+		{
+			"name": "Tenzin Wangdu",
+			"gender": "Male",
+			"batch": "2017",
+			"program": "Business Administrat",
+			"course": "MBA",
+			"category": "Degree"
+		},
+		{
+			"name": "Lobsang Wangmo",
+			"gender": "Female",
+			"batch": "2017",
+			"program": "Science & Technology",
+			"course": "Computer Science",
+			"category": "Degree"
+		},
+		{
+			"name": "Tenzin Sangpo",
+			"gender": "Male",
+			"batch": "2017",
+			"program": "Science & Technology",
+			"course": "City and Regional Planning-Real Estate Development",
+			"category": "Degree"
+		},
+		{
+			"name": "Tenzin Tseten",
+			"gender": "Female",
+			"batch": "2016",
+			"program": "Public Health: Publi",
+			"course": "Master in Public Health",
+			"category": "Degree"
+		},
+		{
+			"name": "Tenzin Dekyi",
+			"gender": "Female",
+			"batch": "2016",
+			"program": "Education: Science E",
+			"course": "Master in Early Child Education",
+			"category": "Degree"
+		},
+		{
+			"name": "Tenzin Metok",
+			"gender": "Female",
+			"batch": "2016",
+			"program": "Women Studies: Gende",
+			"course": "Masters in Gender/Women Studies",
+			"category": "Degree"
+		},
+		{
+			"name": "Tenzin Sangmo",
+			"gender": "Female",
+			"batch": "2016",
+			"program": "Journalism",
+			"course": "Masters in Mass Communication",
+			"category": "Degree"
+		},
+		{
+			"name": "Nyima Choephell",
+			"gender": "Male",
+			"batch": "2016",
+			"program": "Education: Science E",
+			"course": "Masters in Mathematics Studies",
+			"category": "Degree"
+		},
+		{
+			"name": "Sherab Wangmo",
+			"gender": "Female",
+			"batch": "2016",
+			"program": "Education: Science E",
+			"course": "Masters in Science Education",
+			"category": "Degree"
+		},
+		{
+			"name": "Tsering Wangmo",
+			"gender": "Female",
+			"batch": "2016",
+			"program": "Journalism",
+			"course": "Masters in Mass Media",
+			"category": "Degree"
+		},
+		{
+			"name": "Tsering Kyi",
+			"gender": "Female",
+			"batch": "2016",
+			"program": "Women Studies: Gende",
+			"course": "Women\\'s &amp Gender Studies",
+			"category": "Degree"
+		},
+		{
+			"name": "Tenzin Yangchen",
+			"gender": "Female",
+			"batch": "2016",
+			"program": "Education: Science E",
+			"course": "Counselling",
+			"category": "Degree"
+		},
+		{
+			"name": "Tsering Dolma",
+			"gender": "Female",
+			"batch": "2016",
+			"program": "Science & Technology",
+			"course": "Physics",
+			"category": "Degree"
+		},
+		{
+			"name": "Thinlay Chukki",
+			"gender": "Female",
+			"batch": "2016",
+			"program": "International Relati",
+			"course": "Law",
+			"category": "Degree"
+		},
+		{
+			"name": "Tenzin Kalden",
+			"gender": "Female",
+			"batch": "2013",
+			"program": "Information Communic",
+			"course": "Digital film making",
+			"category": "Degree"
+		},
+		{
+			"name": "Tsewang Rigzin",
+			"gender": "Male",
+			"batch": "2013",
+			"program": "Development Planning",
+			"course": "Emory University",
+			"category": "Degree"
+		},
+		{
+			"name": "Norzin Dickyi",
+			"gender": "Female",
+			"batch": "2013",
+			"program": "Sinology: Sinology a",
+			"course": "Harvard University",
+			"category": "Degree"
+		},
+		{
+			"name": "Kunsang Dorjee",
+			"gender": "Male",
+			"batch": "2013",
+			"program": "Business Administrat",
+			"course": "Rochester Insitute",
+			"category": "Degree"
+		},
+		{
+			"name": "Tenzin Yangchen",
+			"gender": "Female",
+			"batch": "2013",
+			"program": "Education: Science E",
+			"course": "Univeristy ofNorthern IOWA",
+			"category": "Degree"
+		},
+		{
+			"name": "Tenzin Jamyang",
+			"gender": "Male",
+			"batch": "2013",
+			"program": "Waste management and",
+			"course": "Univerisity of SanFrancisco",
+			"category": "Degree"
+		},
+		{
+			"name": "Tenzin Norden",
+			"gender": "Male",
+			"batch": "2013",
+			"program": "Science & Technology",
+			"course": "SUNY Buffalo",
+			"category": "Degree"
+		},
+		{
+			"name": "Kelsang Tsomo",
+			"gender": "Female",
+			"batch": "2013",
+			"program": "Business Administrat",
+			"course": "SUNY Buffalo",
+			"category": "Degree"
+		},
+		{
+			"name": "Sonam Dhundup",
+			"gender": "Male",
+			"batch": "2012",
+			"program": "Public Health: Publi",
+			"course": "Public Health:Epidemiolog y",
+			"category": "Degree"
+		},
+		{
+			"name": "Phurbu Thinley",
+			"gender": "Male",
+			"batch": "2012",
+			"program": "Journalism",
+			"course": "MassCommunication",
+			"category": "Degree"
+		},
+		{
+			"name": "Tenzin Sonam",
+			"gender": "Female",
+			"batch": "2012",
+			"program": "International Relati",
+			"course": "International Law",
+			"category": "Degree"
+		},
+		{
+			"name": "Tsamchoe Dolma",
+			"gender": "Female",
+			"batch": "2012",
+			"program": "Psychology: School E",
+			"course": "Psychology",
+			"category": "Degree"
+		},
+		{
+			"name": "Tenzin Dickyi",
+			"gender": "Female",
+			"batch": "2012",
+			"program": "International Relati",
+			"course": "InternationalRelations",
+			"category": "Degree"
+		},
+		{
+			"name": "Fnu Lhakpa",
+			"gender": "Male",
+			"batch": "2012",
+			"program": "Education: Science E",
+			"course": "Language Teaching Pedagogy",
+			"category": "Non degree"
+		},
+		{
+			"name": "Kalsang Dolma",
+			"gender": "Female",
+			"batch": "2012",
+			"program": "Education: Science E",
+			"course": "School Curriculum",
+			"category": "Non degree"
+		},
+		{
+			"name": "Delek Wangmo",
+			"gender": "Female",
+			"batch": "2012",
+			"program": "Education: Science E",
+			"course": "Special Education",
+			"category": "Non degree"
+		},
+		{
+			"name": "Yeshi Palmo",
+			"gender": "Female",
+			"batch": "2011",
+			"program": "Development Planning",
+			"course": "Human Research Development",
+			"category": "Non degree"
+		},
+		{
+			"name": "Tenzin Paldon",
+			"gender": "Female",
+			"batch": "2011",
+			"program": "Education: Science E",
+			"course": "School Counselling",
+			"category": "Degree"
+		},
+		{
+			"name": "Tsering Phuntsok",
+			"gender": "Male",
+			"batch": "2011",
+			"program": "Education: Science E",
+			"course": "School counselling",
+			"category": "Non degree"
+		},
+		{
+			"name": "Chokyi",
+			"gender": "Female",
+			"batch": "2011",
+			"program": "Development Planning",
+			"course": "Development Studies",
+			"category": "Non degree"
+		},
+		{
+			"name": "Tenzin Kundhe",
+			"gender": "Male",
+			"batch": "2011",
+			"program": "Education: Science E",
+			"course": "Special Education",
+			"category": "Degree"
+		},
+		{
+			"name": "Jampa Lhawang",
+			"gender": "Male",
+			"batch": "2011",
+			"program": "International Relati",
+			"course": "Human Resource Management",
+			"category": "Non degree"
+		},
+		{
+			"name": "Tenzin Norgay",
+			"gender": "Male",
+			"batch": "2011",
+			"program": "International Relati",
+			"course": "International Law",
+			"category": "Degree"
+		},
+		{
+			"name": "Pema Tashi",
+			"gender": "Female",
+			"batch": "2011",
+			"program": "Development Planning",
+			"course": "DevelopmentStudies",
+			"category": "Non degree"
+		},
+		{
+			"name": "Dorjee Tsetan",
+			"gender": "Male",
+			"batch": "2011",
+			"program": "Sinology: Sinology a",
+			"course": "Sinology & Chinese Studies",
+			"category": "Degree"
+		},
+		{
+			"name": "Tenzin Tseyang",
+			"gender": "Female",
+			"batch": "2011",
+			"program": "Public Health: Publi",
+			"course": "Public Health",
+			"category": "Degree"
+		},
+		{
+			"name": "Kalsang Wangdue",
+			"gender": "Male",
+			"batch": "2010",
+			"program": "Education: Science E",
+			"course": "School Counselling",
+			"category": "Degree"
+		},
+		{
+			"name": "Karma Dorjee Namgyal",
+			"gender": "Male",
+			"batch": "2010",
+			"program": "International Relati",
+			"course": "LLM",
+			"category": "Degree"
+		},
+		{
+			"name": "Sonam Wangmo",
+			"gender": "Female",
+			"batch": "2010",
+			"program": "Education: Science E",
+			"course": "School Counselling",
+			"category": "Degree"
+		},
+		{
+			"name": "Tenzin Ngodup",
+			"gender": "Male",
+			"batch": "2010",
+			"program": "Psychology: School E",
+			"course": "Neuroscience",
+			"category": "Degree"
+		},
+		{
+			"name": "Tenzin Nyima",
+			"gender": "Female",
+			"batch": "2010",
+			"program": "Journalism",
+			"course": "Journalism",
+			"category": "Degree"
+		},
+		{
+			"name": "Trinlay Palmo",
+			"gender": "Female",
+			"batch": "2010",
+			"program": "Public Health: Publi",
+			"course": "MPH",
+			"category": "Degree"
+		},
+		{
+			"name": "Tsering Agloe",
+			"gender": "Male",
+			"batch": "2010",
+			"program": "Journalism",
+			"course": "Journalism",
+			"category": "Degree"
+		},
+		{
+			"name": "Nyima Ngodup",
+			"gender": "Male",
+			"batch": "2010",
+			"program": "Business Administrat",
+			"course": "Accounting",
+			"category": "Non degree"
+		},
+		{
+			"name": "Penpa Yangchen",
+			"gender": "Female",
+			"batch": "2010",
+			"program": "Public Health: Publi",
+			"course": "Public Administration",
+			"category": "Non degree"
+		},
+		{
+			"name": "Tashi Wangdu",
+			"gender": "Male",
+			"batch": "2010",
+			"program": "International Relati",
+			"course": "International Relations",
+			"category": "Non degree"
+		},
+		{
+			"name": "Tenzin Lungtok",
+			"gender": "Male",
+			"batch": "2010",
+			"program": "Journalism",
+			"course": "Film making",
+			"category": "Non degree"
+		},
+		{
+			"name": "Tenzin Wangchuk",
+			"gender": "Male",
+			"batch": "2010",
+			"program": "Information Communic",
+			"course": "Digital leterary",
+			"category": "Non degree"
+		},
+		{
+			"name": "Thupten Wangchuk",
+			"gender": "Male",
+			"batch": "2010",
+			"program": "Journalism",
+			"course": "Journalism",
+			"category": "Non degree"
+		},
+		{
+			"name": "Tsering Choekyi",
+			"gender": "Female",
+			"batch": "2010",
+			"program": "Education: Science E",
+			"course": "Special Education",
+			"category": "Non degree"
+		},
+		{
+			"name": "Tsering Dorjee",
+			"gender": "Male",
+			"batch": "2010",
+			"program": "Public Health: Publi",
+			"course": "Public Administration",
+			"category": "Non degree"
+		},
+		{
+			"name": "Tsering Paljor",
+			"gender": "Male",
+			"batch": "2010",
+			"program": "Education: Science E",
+			"course": "School Curriculum",
+			"category": "Non degree"
+		},
+		{
+			"name": "Ugyen Dolma",
+			"gender": "Female",
+			"batch": "2010",
+			"program": "Education: Science E",
+			"course": "School Counselling",
+			"category": "Non degree"
+		},
+		{
+			"name": "Tsewang Gyatso",
+			"gender": "Male",
+			"batch": "2009",
+			"program": "Agriculture: Hydropo",
+			"course": "Plant Pathology",
+			"category": "Degree"
+		},
+		{
+			"name": "Tamding Wangdak",
+			"gender": "Male",
+			"batch": "2009",
+			"program": "Education: Science E",
+			"course": "School Counseling",
+			"category": "Degree"
+		},
+		{
+			"name": "Tenzin Tsepak",
+			"gender": "Male",
+			"batch": "2009",
+			"program": "Education: Science E",
+			"course": "Central Eurasian Studies",
+			"category": "Degree"
+		},
+		{
+			"name": "Tsering Dhundup",
+			"gender": "Male",
+			"batch": "2009",
+			"program": "Waste management and",
+			"course": "Environmental Science",
+			"category": "Degree"
+		},
+		{
+			"name": "Tenzin Gocha",
+			"gender": "Male",
+			"batch": "2009",
+			"program": "Bio Technology",
+			"course": "Bio Technology",
+			"category": "Degree"
+		},
+		{
+			"name": "Tenzin Legdup",
+			"gender": "Male",
+			"batch": "2009",
+			"program": "Business Administrat",
+			"course": "MBA",
+			"category": "Degree"
+		},
+		{
+			"name": "Kunsang Dolma",
+			"gender": "Female",
+			"batch": "2009",
+			"program": "Psychology: School E",
+			"course": "Neuroscience",
+			"category": "Degree"
+		},
+		{
+			"name": "Tenzin Yangkey",
+			"gender": "Female",
+			"batch": "2009",
+			"program": "Education: Science E",
+			"course": "School Counseling",
+			"category": "Degree"
+		},
+		{
+			"name": "Yangchen Dolma",
+			"gender": "Female",
+			"batch": "2009",
+			"program": "Social Work:",
+			"course": "Social Work",
+			"category": "Degree"
+		},
+		{
+			"name": "Trinlay Choezom",
+			"gender": "Female",
+			"batch": "2009",
+			"program": "Business Administrat",
+			"course": "Accounting",
+			"category": "Degree"
+		},
+		{
+			"name": "Tenzin Tsetan",
+			"gender": "Male",
+			"batch": "2009",
+			"program": "Public Health: Publi",
+			"course": "",
+			"category": "Non degree"
+		},
+		{
+			"name": "Tsering Choetso",
+			"gender": "Female",
+			"batch": "2009",
+			"program": "Public Health: Publi",
+			"course": "Nursing",
+			"category": "Non degree"
+		},
+		{
+			"name": "Dhondup",
+			"gender": "Male",
+			"batch": "2009",
+			"program": "Education: Science E",
+			"course": "School Counseling",
+			"category": "Non degree"
+		},
+		{
+			"name": "Dawa Tsering",
+			"gender": "Male",
+			"batch": "2009",
+			"program": "Education: Science E",
+			"course": "School Curriculum",
+			"category": "Non degree"
+		},
+		{
+			"name": "Dhundul Thokmey",
+			"gender": "Male",
+			"batch": "2009",
+			"program": "Education: Science E",
+			"course": "School Counseling",
+			"category": "Non degree"
+		},
+		{
+			"name": "Ngawang Yonten",
+			"gender": "Male",
+			"batch": "2009",
+			"program": "Business Administrat",
+			"course": "Banking Management",
+			"category": "Non degree"
+		},
+		{
+			"name": "Lobsang Chojor",
+			"gender": "Male",
+			"batch": "2009",
+			"program": "Public Health: Publi",
+			"course": "Public Administration",
+			"category": "Non degree"
+		},
+		{
+			"name": "Tsering Tashi",
+			"gender": "Male",
+			"batch": "2009",
+			"program": "Business Administrat",
+			"course": "Micro Entrepreneurship",
+			"category": "Non degree"
+		},
+		{
+			"name": "Tenzin Sherab",
+			"gender": "Male",
+			"batch": "2009",
+			"program": "Business Administrat",
+			"course": "Accounting",
+			"category": "Non degree"
+		},
+		{
+			"name": "Tenzin Dhargyal",
+			"gender": "Male",
+			"batch": "2009",
+			"program": "Education: Science E",
+			"course": "Special Education",
+			"category": "Non degree"
+		},
+		{
+			"name": "Tsetan Dolkar",
+			"gender": "Female",
+			"batch": "2008",
+			"program": "Education: Science E",
+			"course": "Counselling (Education)",
+			"category": "Degree"
+		},
+		{
+			"name": "Tashi Yangzom",
+			"gender": "Female",
+			"batch": "2008",
+			"program": "Business Administrat",
+			"course": "MBA",
+			"category": "Degree"
+		},
+		{
+			"name": "Lhundup Dorjee",
+			"gender": "Male",
+			"batch": "2008",
+			"program": "Bio Technology",
+			"course": "M Sc Biology",
+			"category": "Degree"
+		},
+		{
+			"name": "Gyaltsen",
+			"gender": "Male",
+			"batch": "2008",
+			"program": "Science & Technology",
+			"course": "MSc (Chemistry)",
+			"category": "Degree"
+		},
+		{
+			"name": "Kunchok Dorjee",
+			"gender": "Male",
+			"batch": "2008",
+			"program": "Public Health: Publi",
+			"course": "MA (Public Health)",
+			"category": "Degree"
+		},
+		{
+			"name": "Tsering Dorjee",
+			"gender": "Male",
+			"batch": "2008",
+			"program": "Waste management and",
+			"course": "Environmental Studies",
+			"category": "Degree"
+		},
+		{
+			"name": "Tenzin Gelek",
+			"gender": "Male",
+			"batch": "2008",
+			"program": "Journalism",
+			"course": "Mass Communication",
+			"category": "Degree"
+		},
+		{
+			"name": "Dolma Tsering",
+			"gender": "Female",
+			"batch": "2008",
+			"program": "Education: Science E",
+			"course": "School Curriculum",
+			"category": "Degree"
+		},
+		{
+			"name": "Tsering Dorjee",
+			"gender": "Male",
+			"batch": "2008",
+			"program": "International Relati",
+			"course": "International Relations",
+			"category": "Non degree"
+		},
+		{
+			"name": "Dawa Gyatso",
+			"gender": "Male",
+			"batch": "2008",
+			"program": "Public Health: Publi",
+			"course": "Public Administration",
+			"category": "Non degree"
+		},
+		{
+			"name": "Tashi Topgyal",
+			"gender": "Male",
+			"batch": "2008",
+			"program": "Business Administrat",
+			"course": "Auditing",
+			"category": "Non degree"
+		},
+		{
+			"name": "Samten Phuntsok",
+			"gender": "Male",
+			"batch": "2008",
+			"program": "Development Planning",
+			"course": "Rural Development",
+			"category": "Non degree"
+		},
+		{
+			"name": "Yeshi Wangmo",
+			"gender": "Female",
+			"batch": "2008",
+			"program": "Education: Science E",
+			"course": "Special Education",
+			"category": "Non degree"
+		},
+		{
+			"name": "Tsetan",
+			"gender": "Male",
+			"batch": "2008",
+			"program": "Journalism",
+			"course": "Mass Communication",
+			"category": "Non degree"
+		},
+		{
+			"name": "Tsering Paldon",
+			"gender": "Female",
+			"batch": "2008",
+			"program": "Education: Science E",
+			"course": "School Curriculum",
+			"category": "Non degree"
+		},
+		{
+			"name": "Sonam Choephel",
+			"gender": "Male",
+			"batch": "2008",
+			"program": "Education: Science E",
+			"course": "Special Education",
+			"category": "Non degree"
+		},
+		{
+			"name": "Passang Tsering",
+			"gender": "Male",
+			"batch": "2008",
+			"program": "Public Health: Publi",
+			"course": "Public Administration",
+			"category": "Non degree"
+		},
+		{
+			"name": "Lhundup",
+			"gender": "Male",
+			"batch": "2008",
+			"program": "Business Administrat",
+			"course": "Auditing",
+			"category": "Non degree"
+		},
+		{
+			"name": "Karma Dolma",
+			"gender": "Female",
+			"batch": "2008",
+			"program": "Public Health: Publi",
+			"course": "Public Administration",
+			"category": "Non degree"
+		},
+		{
+			"name": "Thutop Namgyal",
+			"gender": "Male",
+			"batch": "2008",
+			"program": "Business Administrat",
+			"course": "Accounting",
+			"category": "Non degree"
+		},
+		{
+			"name": "Sangyal Phuntsok",
+			"gender": "Male",
+			"batch": "2008",
+			"program": "Science & Technology",
+			"course": "Computer Science",
+			"category": "Non degree"
+		},
+		{
+			"name": "Buchung",
+			"gender": "Male",
+			"batch": "2007",
+			"program": "Journalism",
+			"course": "Journalism",
+			"category": "Degree"
+		},
+		{
+			"name": "Dhondup Dolma",
+			"gender": "Female",
+			"batch": "2007",
+			"program": "Development Planning",
+			"course": "International Development",
+			"category": "Degree"
+		},
+		{
+			"name": "Lobsang Sherab",
+			"gender": "Male",
+			"batch": "2007",
+			"program": "International Relati",
+			"course": "Personnel Management",
+			"category": "Degree"
+		},
+		{
+			"name": "Sonam Dekyi",
+			"gender": "Female",
+			"batch": "2007",
+			"program": "Education: Science E",
+			"course": "Education: School Counseling",
+			"category": "Degree"
+		},
+		{
+			"name": "Tenzin Choekyi",
+			"gender": "Female",
+			"batch": "2007",
+			"program": "Education: Science E",
+			"course": "School Counseling",
+			"category": "Degree"
+		},
+		{
+			"name": "Tenzin Kunsang",
+			"gender": "Male",
+			"batch": "2007",
+			"program": "Education: Science E",
+			"course": "School Curriculum",
+			"category": "Degree"
+		},
+		{
+			"name": "Tenzin Ngodup",
+			"gender": "Male",
+			"batch": "2007",
+			"program": "Development Planning",
+			"course": "International Development",
+			"category": "Degree"
+		},
+		{
+			"name": "Tsering Tsomo",
+			"gender": "Female",
+			"batch": "2007",
+			"program": "Journalism",
+			"course": "Journalism",
+			"category": "Degree"
+		},
+		{
+			"name": "Dhondup Tsering",
+			"gender": "Male",
+			"batch": "2007",
+			"program": "Science & Technology",
+			"course": "Computer Science",
+			"category": "Non degree"
+		},
+		{
+			"name": "Lobsang Monlam",
+			"gender": "Male",
+			"batch": "2007",
+			"program": "Education: Science E",
+			"course": "Teacher Education",
+			"category": "Non degree"
+		},
+		{
+			"name": "Lobsang Dhondup",
+			"gender": "Male",
+			"batch": "2007",
+			"program": "Education: Science E",
+			"course": "Special Education",
+			"category": "Non degree"
+		},
+		{
+			"name": "Norbu Tenzin",
+			"gender": "Male",
+			"batch": "2007",
+			"program": "Security and Intelli",
+			"course": "Security Studies",
+			"category": "Non degree"
+		},
+		{
+			"name": "Tenzin Yeshi",
+			"gender": "Male",
+			"batch": "2007",
+			"program": "Education: Science E",
+			"course": "Education: Educational Administration",
+			"category": "Non degree"
+		},
+		{
+			"name": "Nyima Tsering",
+			"gender": "Male",
+			"batch": "2007",
+			"program": "Business Administrat",
+			"course": "Auditing",
+			"category": "Non degree"
+		},
+		{
+			"name": "Tsering Yangkey",
+			"gender": "Female",
+			"batch": "2007",
+			"program": "Inter - Religious St",
+			"course": "Religion: Inter Religious Studies",
+			"category": "Non degree"
+		},
+		{
+			"name": "Namgyal Norbu",
+			"gender": "Male",
+			"batch": "2007",
+			"program": "Business Administrat",
+			"course": "Business: Auditing",
+			"category": "Non degree"
+		},
+		{
+			"name": "Karma Choeying",
+			"gender": "Male",
+			"batch": "2007",
+			"program": "Business Administrat",
+			"course": "Auditing",
+			"category": "Non degree"
+		},
+		{
+			"name": "Dawa Ngodup",
+			"gender": "Male",
+			"batch": "2006",
+			"program": "Public Health: Publi",
+			"course": "MA in Public Affairs",
+			"category": "Degree"
+		},
+		{
+			"name": "Dorjee",
+			"gender": "Male",
+			"batch": "2006",
+			"program": "Education: Science E",
+			"course": "Special Education",
+			"category": "Degree"
+		},
+		{
+			"name": "Passang Tsering",
+			"gender": "Male",
+			"batch": "2006",
+			"program": "Development Planning",
+			"course": "Enterpreneaurship Development",
+			"category": "Degree"
+		},
+		{
+			"name": "Tsering Choemphel",
+			"gender": "Male",
+			"batch": "2006",
+			"program": "Psychology: School E",
+			"course": "Career Counselling",
+			"category": "Degree"
+		},
+		{
+			"name": "Kunchok Youdon",
+			"gender": "Male",
+			"batch": "2006",
+			"program": "Library and Informat",
+			"course": "Archival Studies",
+			"category": "Degree"
+		},
+		{
+			"name": "Lhakpa Tsering",
+			"gender": "Male",
+			"batch": "2006",
+			"program": "Education: Science E",
+			"course": "Educational Leadership",
+			"category": "Degree"
+		},
+		{
+			"name": "Urgen Norbu",
+			"gender": "Male",
+			"batch": "2006",
+			"program": "Journalism",
+			"course": "Journalism",
+			"category": "Degree"
+		},
+		{
+			"name": "Tenzin Gayden",
+			"gender": "Male",
+			"batch": "2006",
+			"program": "Bio Technology",
+			"course": "Msc Biotechnology",
+			"category": "Degree"
+		},
+		{
+			"name": "Namgyal Choezom",
+			"gender": "Female",
+			"batch": "2006",
+			"program": "Geography: Demograph",
+			"course": "Demography/Popula tion Studies",
+			"category": "Degree"
+		},
+		{
+			"name": "Tsering Phuntsok",
+			"gender": "Male",
+			"batch": "2006",
+			"program": "Public Health: Publi",
+			"course": "MA Public Health",
+			"category": "Degree"
+		},
+		{
+			"name": "Tsering Dhondup",
+			"gender": "Male",
+			"batch": "2006",
+			"program": "Public Health: Publi",
+			"course": "MA Public Health",
+			"category": "Degree"
+		},
+		{
+			"name": "Sonam Tsering",
+			"gender": "Male",
+			"batch": "2006",
+			"program": "Inter - Religious St",
+			"course": "MA Divinity Studies",
+			"category": "Degree"
+		},
+		{
+			"name": "Passang Lhamo",
+			"gender": "Female",
+			"batch": "2006",
+			"program": "Education: Science E",
+			"course": "MA Education",
+			"category": "Degree"
+		},
+		{
+			"name": "Tenzin Dhonyo",
+			"gender": "Male",
+			"batch": "2006",
+			"program": "International Relati",
+			"course": "",
+			"category": "Degree"
+		},
+		{
+			"name": "Norzin Dolma",
+			"gender": "Female",
+			"batch": "2006",
+			"program": "International Relati",
+			"course": "",
+			"category": "Degree"
+		},
+		{
+			"name": "Sonam Tsering Yangtar",
+			"gender": "Male",
+			"batch": "2006",
+			"program": "Science & Technology",
+			"course": "MA Computer Science",
+			"category": "Degree"
+		},
+		{
+			"name": "Tenzin Lekshey",
+			"gender": "Male",
+			"batch": "2006",
+			"program": "International Relati",
+			"course": "",
+			"category": "Degree"
+		},
+		{
+			"name": "Namgyal Tsekey",
+			"gender": "Male",
+			"batch": "2006",
+			"program": "Rights, Resolution,",
+			"course": "LLM Human Rights",
+			"category": "Degree"
+		},
+		{
+			"name": "Kalsang Rinchen",
+			"gender": "Male",
+			"batch": "2006",
+			"program": "Science & Technology",
+			"course": "Computer Science",
+			"category": "Degree"
+		},
+		{
+			"name": "Kunsang Rinzin",
+			"gender": "Male",
+			"batch": "2006",
+			"program": "International Relati",
+			"course": "",
+			"category": "Degree"
+		},
+		{
+			"name": "Ngawang Gelek",
+			"gender": "Male",
+			"batch": "2006",
+			"program": "Public Health: Publi",
+			"course": "Public Administration",
+			"category": "Non degree"
+		},
+		{
+			"name": "Tenzin Kunga",
+			"gender": "Male",
+			"batch": "2006",
+			"program": "Business Administrat",
+			"course": "Co-operative Management",
+			"category": "Non degree"
+		},
+		{
+			"name": "Tenzin Dolma",
+			"gender": "Female",
+			"batch": "2006",
+			"program": "Education: Science E",
+			"course": "Special Education",
+			"category": "Non degree"
+		},
+		{
+			"name": "Kalsang Tsomo",
+			"gender": "Male",
+			"batch": "2006",
+			"program": "Education: Science E",
+			"course": "Teacher Education",
+			"category": "Non degree"
+		},
+		{
+			"name": "Norbu Tsering",
+			"gender": "Male",
+			"batch": "2006",
+			"program": "Business Administrat",
+			"course": "Accounting",
+			"category": "Non degree"
+		},
+		{
+			"name": "Nawang Lhamo",
+			"gender": "Female",
+			"batch": "2005",
+			"program": "Education: Science E",
+			"course": "School Counselling",
+			"category": "Degree"
+		},
+		{
+			"name": "Tenzin Yangka",
+			"gender": "Female",
+			"batch": "2005",
+			"program": "Education: Science E",
+			"course": "Science Education",
+			"category": "Degree"
+		},
+		{
+			"name": "Sonam Dolker",
+			"gender": "Female",
+			"batch": "2005",
+			"program": "Public Health: Publi",
+			"course": "MPH",
+			"category": "Degree"
+		},
+		{
+			"name": "Lhakpa Chodon",
+			"gender": "Female",
+			"batch": "2005",
+			"program": "International Relati",
+			"course": "LLM",
+			"category": "Degree"
+		},
+		{
+			"name": "Tsering Chodon",
+			"gender": "Female",
+			"batch": "2005",
+			"program": "Library and Informat",
+			"course": "Museum Study",
+			"category": "Degree"
+		},
+		{
+			"name": "Pema Tenzin",
+			"gender": "Male",
+			"batch": "2005",
+			"program": "Business Administrat",
+			"course": "Marketing",
+			"category": "Degree"
+		},
+		{
+			"name": "Ugyen Wangyal",
+			"gender": "Male",
+			"batch": "2005",
+			"program": "Education: Science E",
+			"course": "Education Administration",
+			"category": "Degree"
+		},
+		{
+			"name": "Tsering Dhondup",
+			"gender": "Male",
+			"batch": "2005",
+			"program": "Education: Science E",
+			"course": "Maths Education",
+			"category": "Degree"
+		},
+		{
+			"name": "Tashi Wangchuk",
+			"gender": "Male",
+			"batch": "2005",
+			"program": "Business Administrat",
+			"course": "Film Production",
+			"category": "Degree"
+		},
+		{
+			"name": "Tsetan Dolker",
+			"gender": "Female",
+			"batch": "2005",
+			"program": "Bio Technology",
+			"course": "Biotechnology",
+			"category": "Degree"
+		},
+		{
+			"name": "Tsering Thayae",
+			"gender": "Male",
+			"batch": "2005",
+			"program": "Development Planning",
+			"course": "Methodology of Research and Analysis",
+			"category": "Non degree"
+		},
+		{
+			"name": "Lhamo Tsering",
+			"gender": "Female",
+			"batch": "2005",
+			"program": "International Relati",
+			"course": "Administration Information Tech.",
+			"category": "Non degree"
+		},
+		{
+			"name": "Tsering Dolkar",
+			"gender": "Female",
+			"batch": "2005",
+			"program": "Psychology: School E",
+			"course": "Child Psychology and Health",
+			"category": "Non degree"
+		},
+		{
+			"name": "Tsering Dolma",
+			"gender": "Female",
+			"batch": "2005",
+			"program": "Psychology: School E",
+			"course": "Community Counselling",
+			"category": "Non degree"
+		},
+		{
+			"name": "Yangchen Dolma",
+			"gender": "Female",
+			"batch": "2005",
+			"program": "Public Health: Publi",
+			"course": "Public Health",
+			"category": "Non degree"
+		},
+		{
+			"name": "Tenzin Deckey",
+			"gender": "Female",
+			"batch": "2005",
+			"program": "Public Health: Publi",
+			"course": "Public Administration",
+			"category": "Degree"
+		},
+		{
+			"name": "Namgyal Lekshey",
+			"gender": "Male",
+			"batch": "2005",
+			"program": "Science & Technology",
+			"course": "Computer Science",
+			"category": "Degree"
+		},
+		{
+			"name": "Tenzin Woeser",
+			"gender": "Male",
+			"batch": "2005",
+			"program": "Business Administrat",
+			"course": "MBA",
+			"category": "Degree"
+		},
+		{
+			"name": "Tsamchoe Dolma",
+			"gender": "Female",
+			"batch": "2005",
+			"program": "Education: Science E",
+			"course": "TESOL",
+			"category": "Degree"
+		},
+		{
+			"name": "Lhakpa Dolma",
+			"gender": "Female",
+			"batch": "2005",
+			"program": "Public Health: Publi",
+			"course": "Public Health",
+			"category": "Degree"
+		},
+		{
+			"name": "Phuntsok Dolma",
+			"gender": "Female",
+			"batch": "2005",
+			"program": "Journalism",
+			"course": "Journalism",
+			"category": "Degree"
+		},
+		{
+			"name": "Tenzin Woeser",
+			"gender": "Male",
+			"batch": "2005",
+			"program": "Waste management and",
+			"course": "Environmental Science",
+			"category": "Degree"
+		},
+		{
+			"name": "Pema Choden",
+			"gender": "Female",
+			"batch": "2005",
+			"program": "Business Administrat",
+			"course": "MBA",
+			"category": "Degree"
+		},
+		{
+			"name": "Dolma Yangzom",
+			"gender": "Female",
+			"batch": "2005",
+			"program": "Waste management and",
+			"course": "Environmental Science",
+			"category": "Degree"
+		},
+		{
+			"name": "Lobsang Dawa",
+			"gender": "Male",
+			"batch": "2005",
+			"program": "Business Administrat",
+			"course": "MBA",
+			"category": "Degree"
+		},
+		{
+			"name": "Sonam Wangmo",
+			"gender": "Female",
+			"batch": "2005",
+			"program": "International Relati",
+			"course": "International Relations",
+			"category": "Non degree"
+		},
+		{
+			"name": "Sherab Dolma",
+			"gender": "Female",
+			"batch": "2005",
+			"program": "Business Administrat",
+			"course": "Cooperative Management",
+			"category": "Non degree"
+		},
+		{
+			"name": "Migmar Tashi",
+			"gender": "Male",
+			"batch": "2005",
+			"program": "Public Health: Publi",
+			"course": "Public Health",
+			"category": "Non degree"
+		},
+		{
+			"name": "Kalsang Phuntsok",
+			"gender": "Male",
+			"batch": "2005",
+			"program": "Education: Science E",
+			"course": "Teaching of Mathematics",
+			"category": "Non degree"
+		},
+		{
+			"name": "Sonam Yangzom",
+			"gender": "Female",
+			"batch": "2005",
+			"program": "Psychology: School E",
+			"course": "Counselling",
+			"category": "Non degree"
+		},
+		{
+			"name": "Tamding",
+			"gender": "Male",
+			"batch": "2005",
+			"program": "Business Administrat",
+			"course": "Business Adninistration",
+			"category": "Non degree"
+		},
+		{
+			"name": "Dawa Tashi",
+			"gender": "Male",
+			"batch": "2004",
+			"program": "Education: Science E",
+			"course": "MA Educational Administration",
+			"category": "Degree"
+		},
+		{
+			"name": "Tsering Palmo",
+			"gender": "Female",
+			"batch": "2004",
+			"program": "Education: Science E",
+			"course": "MA Special Education",
+			"category": "Degree"
+		},
+		{
+			"name": "Tsering Yankee",
+			"gender": "Female",
+			"batch": "2004",
+			"program": "Psychology: School E",
+			"course": "MA Child Psychology",
+			"category": "Degree"
+		},
+		{
+			"name": "Norbu Tsering",
+			"gender": "Male",
+			"batch": "2004",
+			"program": "Education: Science E",
+			"course": "Educational Administration",
+			"category": "Degree"
+		},
+		{
+			"name": "Sonam Dorjee",
+			"gender": "Male",
+			"batch": "2004",
+			"program": "Business Administrat",
+			"course": "MA Economics",
+			"category": "Degree"
+		},
+		{
+			"name": "Kalsang Choedon",
+			"gender": "Female",
+			"batch": "2004",
+			"program": "Information Communic",
+			"course": "MA Mass Communication",
+			"category": "Degree"
+		},
+		{
+			"name": "Namgyal Nanglo",
+			"gender": "Female",
+			"batch": "2004",
+			"program": "Science & Technology",
+			"course": "MA Computer Science",
+			"category": "Degree"
+		},
+		{
+			"name": "Lobsang Tsering",
+			"gender": "Male",
+			"batch": "2004",
+			"program": "Rights, Resolution,",
+			"course": "MA Human Rights",
+			"category": "Degree"
+		},
+		{
+			"name": "Tenzin Damdul",
+			"gender": "Male",
+			"batch": "2004",
+			"program": "International Relati",
+			"course": "MA International Relations",
+			"category": "Degree"
+		},
+		{
+			"name": "Dr. Ngodup",
+			"gender": "Male",
+			"batch": "2004",
+			"program": "Public Health: Publi",
+			"course": "MPH in Epidemiology",
+			"category": "Degree"
+		},
+		{
+			"name": "Sonam Wangdu",
+			"gender": "Male",
+			"batch": "2004",
+			"program": "Science & Technology",
+			"course": "Computer Science",
+			"category": "Non degree"
+		},
+		{
+			"name": "Dorjee Dolma",
+			"gender": "Female",
+			"batch": "2004",
+			"program": "Public Health: Publi",
+			"course": "Public Administration",
+			"category": "Non degree"
+		},
+		{
+			"name": "Penpa Topgyal",
+			"gender": "Male",
+			"batch": "2004",
+			"program": "Education: Science E",
+			"course": "School Counselling",
+			"category": "Non degree"
+		},
+		{
+			"name": "Lobsang Tsomo",
+			"gender": "Female",
+			"batch": "2004",
+			"program": "Education: Science E",
+			"course": "English Literature",
+			"category": "Non degree"
+		},
+		{
+			"name": "Tenzin Choegyal",
+			"gender": "Male",
+			"batch": "2004",
+			"program": "Business Administrat",
+			"course": "Business Management .",
+			"category": "Non degree"
+		},
+		{
+			"name": "Dr. Tenzin Londhen",
+			"gender": "Male",
+			"batch": "2003",
+			"program": "Public Health: Publi",
+			"course": "Master in Public Health",
+			"category": "Degree"
+		},
+		{
+			"name": "Dorjee Damdul",
+			"gender": "Male",
+			"batch": "2003",
+			"program": "Public Health: Publi",
+			"course": "Master in Public Health",
+			"category": "Degree"
+		},
+		{
+			"name": "Phuntsok Gyaltsen",
+			"gender": "Male",
+			"batch": "2003",
+			"program": "Education: Science E",
+			"course": "Master of Science",
+			"category": "Degree"
+		},
+		{
+			"name": "Kalsang Dolker",
+			"gender": "Female",
+			"batch": "2003",
+			"program": "Business Administrat",
+			"course": "Master of Business Administration",
+			"category": "Degree"
+		},
+		{
+			"name": "Tashi Dhundup",
+			"gender": "Male",
+			"batch": "2003",
+			"program": "Journalism",
+			"course": "Journalism",
+			"category": "Degree"
+		},
+		{
+			"name": "Tenzin",
+			"gender": "Male",
+			"batch": "2003",
+			"program": "Bio Technology",
+			"course": "Master in Bio- Chemistry",
+			"category": "Degree"
+		},
+		{
+			"name": "Tsewang Chokden",
+			"gender": "Male",
+			"batch": "2003",
+			"program": "Journalism",
+			"course": "Journalism",
+			"category": "Degree"
+		},
+		{
+			"name": "Kalsang Topgyal",
+			"gender": "Male",
+			"batch": "2003",
+			"program": "Rights, Resolution,",
+			"course": "International Human Rights Law",
+			"category": "Degree"
+		},
+		{
+			"name": "Nima Dolma",
+			"gender": "Female",
+			"batch": "2003",
+			"program": "Psychology: School E",
+			"course": "Career Counseling",
+			"category": "Degree"
+		},
+		{
+			"name": "Dr.Passang Norbu",
+			"gender": "Male",
+			"batch": "2003",
+			"program": "Public Health: Publi",
+			"course": "Master in Public Health",
+			"category": "Degree"
+		},
+		{
+			"name": "Tamding Phuntsok",
+			"gender": "Male",
+			"batch": "2003",
+			"program": "Education: Science E",
+			"course": "Mathematics Education",
+			"category": "Non degree"
+		},
+		{
+			"name": "Dolma Tsering",
+			"gender": "Female",
+			"batch": "2003",
+			"program": "Education: Science E",
+			"course": "Special Education",
+			"category": "Non degree"
+		},
+		{
+			"name": "Tsamchoe",
+			"gender": "Female",
+			"batch": "2003",
+			"program": "Public Health: Publi",
+			"course": "Community Health Service",
+			"category": "Non degree"
+		},
+		{
+			"name": "Sonam Dolma",
+			"gender": "Female",
+			"batch": "2003",
+			"program": "Information Communic",
+			"course": "Secretary Practice and Computer",
+			"category": "Non degree"
+		},
+		{
+			"name": "Namgyal Dorjee",
+			"gender": "Male",
+			"batch": "2003",
+			"program": "Science & Technology",
+			"course": "Web Design",
+			"category": "Non degree"
+		},
+		{
+			"name": "Tsering Pema",
+			"gender": "Female",
+			"batch": "2002",
+			"program": "Business Administrat",
+			"course": "MBA",
+			"category": "Degree"
+		},
+		{
+			"name": "Tsetan Lhamo",
+			"gender": "Female",
+			"batch": "2002",
+			"program": "International Relati",
+			"course": "MPA",
+			"category": "Degree"
+		},
+		{
+			"name": "Tsering Topgyal",
+			"gender": "Male",
+			"batch": "2002",
+			"program": "Education: Science E",
+			"course": "M.A",
+			"category": "Degree"
+		},
+		{
+			"name": "Lhundup Passang",
+			"gender": "Male",
+			"batch": "2002",
+			"program": "Education: Science E",
+			"course": "M.A",
+			"category": "Degree"
+		},
+		{
+			"name": "Karma Lodoe",
+			"gender": "Male",
+			"batch": "2002",
+			"program": "Education: Science E",
+			"course": "M.A",
+			"category": "Degree"
+		},
+		{
+			"name": "Dr. Namgyal Lhawang Kyulo",
+			"gender": "Male",
+			"batch": "2002",
+			"program": "Public Health: Publi",
+			"course": "MPH",
+			"category": "Degree"
+		},
+		{
+			"name": "Dechen Wangmo",
+			"gender": "Female",
+			"batch": "2002",
+			"program": "Business Administrat",
+			"course": "MBA",
+			"category": "Degree"
+		},
+		{
+			"name": "Lobsang Tengye",
+			"gender": "Male",
+			"batch": "2002",
+			"program": "Library and Informat",
+			"course": "M.S degree in Library",
+			"category": "Degree"
+		},
+		{
+			"name": "Dorjee Damdul",
+			"gender": "Male",
+			"batch": "2002",
+			"program": "Business Administrat",
+			"course": "MBA in marketing",
+			"category": "Degree"
+		},
+		{
+			"name": "Dugyal Tsering",
+			"gender": "Male",
+			"batch": "2002",
+			"program": "Education: Science E",
+			"course": "M.A in education and Mathematics",
+			"category": "Degree"
+		},
+		{
+			"name": "Dorjee Tsetan",
+			"gender": "Male",
+			"batch": "2002",
+			"program": "Agriculture: Hydropo",
+			"course": "Agronomy",
+			"category": "Non degree"
+		},
+		{
+			"name": "Passang Bhuti",
+			"gender": "Female",
+			"batch": "2002",
+			"program": "Psychology: School E",
+			"course": "Counseling",
+			"category": "Non degree"
+		},
+		{
+			"name": "Sangay Chodon",
+			"gender": "Female",
+			"batch": "2002",
+			"program": "Public Health: Publi",
+			"course": "Nursing",
+			"category": "Non degree"
+		},
+		{
+			"name": "Sonam Dolker",
+			"gender": "Female",
+			"batch": "2002",
+			"program": "Public Health: Publi",
+			"course": "Nursing",
+			"category": "Non degree"
+		},
+		{
+			"name": "Tenzin Choedon",
+			"gender": "Female",
+			"batch": "2002",
+			"program": "Education: Science E",
+			"course": "English & Dance",
+			"category": "Non degree"
+		},
+		{
+			"name": "Passang Lhamo",
+			"gender": "Female",
+			"batch": "2002",
+			"program": "Education: Science E",
+			"course": "English & Dance",
+			"category": "Non degree"
+		},
+		{
+			"name": "Jigme Tsering",
+			"gender": "Male",
+			"batch": "2002",
+			"program": "Science & Technology",
+			"course": "Computer Networking",
+			"category": "Non degree"
+		},
+		{
+			"name": "Choephel",
+			"gender": "Male",
+			"batch": "2002",
+			"program": "Psychology: School E",
+			"course": "Counseling",
+			"category": "Non degree"
+		},
+		{
+			"name": "Pema Yangchen",
+			"gender": "Female",
+			"batch": "2002",
+			"program": "Education: Science E",
+			"course": "Teaching of English",
+			"category": "Non degree"
+		},
+		{
+			"name": "Tsetan Gyurme",
+			"gender": "Female",
+			"batch": "2002",
+			"program": "Development Planning",
+			"course": "Fund Raising",
+			"category": "Non degree"
+		},
+		{
+			"name": "Kargyu Dhundup",
+			"gender": "Male",
+			"batch": "2002",
+			"program": "Business Administrat",
+			"course": "Auditing",
+			"category": "Non degree"
+		},
+		{
+			"name": "Paldon Tsamchoe",
+			"gender": "Female",
+			"batch": "2002",
+			"program": "Development Planning",
+			"course": "Human Research Development",
+			"category": "Non degree"
+		},
+		{
+			"name": "Dr. Migmar",
+			"gender": "Male",
+			"batch": "2001",
+			"program": "Public Health: Publi",
+			"course": "MPH Public Health",
+			"category": "Degree"
+		},
+		{
+			"name": "Pema Dhondup",
+			"gender": "Male",
+			"batch": "2001",
+			"program": "Information Communic",
+			"course": "MA Film Vedio",
+			"category": "Degree"
+		},
+		{
+			"name": "Dickyi Dolker",
+			"gender": "Female",
+			"batch": "2001",
+			"program": "Geography: Demograph",
+			"course": "MA demography",
+			"category": "Degree"
+		},
+		{
+			"name": "Rinchen",
+			"gender": "Male",
+			"batch": "2001",
+			"program": "Education: Science E",
+			"course": "MA coomputer ediucation",
+			"category": "Degree"
+		},
+		{
+			"name": "Sonam Dolma",
+			"gender": "Female",
+			"batch": "2001",
+			"program": "Bio Technology",
+			"course": "M.S.molecular biology",
+			"category": "Degree"
+		},
+		{
+			"name": "Dokar Wamgmo",
+			"gender": "Female",
+			"batch": "2001",
+			"program": "Education: Science E",
+			"course": "M.Ed Career Counselling",
+			"category": "Degree"
+		},
+		{
+			"name": "Tenzin Dekyi",
+			"gender": "Female",
+			"batch": "2001",
+			"program": "Business Administrat",
+			"course": "MBA HRD",
+			"category": "Degree"
+		},
+		{
+			"name": "Pema Choephel",
+			"gender": "Male",
+			"batch": "2001",
+			"program": "Business Administrat",
+			"course": "MBA Financial marketing",
+			"category": "Degree"
+		},
+		{
+			"name": "Tsering Palden",
+			"gender": "Male",
+			"batch": "2001",
+			"program": "Education: Science E",
+			"course": "M.Ed.Maths",
+			"category": "Degree"
+		},
+		{
+			"name": "Karma S. Gyaltsen",
+			"gender": "Male",
+			"batch": "2001",
+			"program": "Education: Science E",
+			"course": "Cert.English edu.",
+			"category": "Degree"
+		},
+		{
+			"name": "Tashi Tsering",
+			"gender": "Male",
+			"batch": "2001",
+			"program": "Education: Science E",
+			"course": "Cert. Fine arts",
+			"category": "Degree"
+		},
+		{
+			"name": "Bava Damdul",
+			"gender": "Male",
+			"batch": "2001",
+			"program": "Education: Science E",
+			"course": "Certificate in school Administration",
+			"category": "Non degree"
+		},
+		{
+			"name": "Lobsang Dhondup",
+			"gender": "Male",
+			"batch": "2001",
+			"program": "Education: Science E",
+			"course": "Certificate in Mathematic education",
+			"category": "Non degree"
+		},
+		{
+			"name": "Phurbu Dorjee",
+			"gender": "Male",
+			"batch": "2001",
+			"program": "International Relati",
+			"course": "LLM",
+			"category": "Non degree"
+		},
+		{
+			"name": "Ngawang",
+			"gender": "Male",
+			"batch": "2001",
+			"program": "International Relati",
+			"course": "Certificate in International relations",
+			"category": "Non degree"
+		},
+		{
+			"name": "Ugyen Tsering",
+			"gender": "Male",
+			"batch": "2001",
+			"program": "Business Administrat",
+			"course": "Certificate in financial management",
+			"category": "Non degree"
+		},
+		{
+			"name": "Tsetan Dhargyal",
+			"gender": "Male",
+			"batch": "2001",
+			"program": "Business Administrat",
+			"course": "Hotel Management",
+			"category": "Non degree"
+		},
+		{
+			"name": "Sonam Tsewang",
+			"gender": "Male",
+			"batch": "2001",
+			"program": "Business Administrat",
+			"course": "Hotel Management",
+			"category": "Non degree"
+		},
+		{
+			"name": "Tsering Chodon",
+			"gender": "Female",
+			"batch": "2001",
+			"program": "Development Planning",
+			"course": "Research method",
+			"category": "Non degree"
+		},
+		{
+			"name": "Lobsang",
+			"gender": "Male",
+			"batch": "2001",
+			"program": "Development Planning",
+			"course": "Research method",
+			"category": "Non degree"
+		},
+		{
+			"name": "Bumo Tsering Yeshi",
+			"gender": "Female",
+			"batch": "2001",
+			"program": "Development Planning",
+			"course": "Research method",
+			"category": "Non degree"
+		},
+		{
+			"name": "Thutop Dorjee",
+			"gender": "Male",
+			"batch": "2001",
+			"program": "Agriculture: Hydropo",
+			"course": "Agriculture",
+			"category": "Non degree"
+		},
+		{
+			"name": "Lhakpa Tsering",
+			"gender": "Male",
+			"batch": "2001",
+			"program": "Agriculture: Hydropo",
+			"course": "Agriculture",
+			"category": "Non degree"
+		},
+		{
+			"name": "Sonam Tsering",
+			"gender": "Male",
+			"batch": "2001",
+			"program": "Library and Informat",
+			"course": "Stage Management/Theatr e",
+			"category": "Non degree"
+		},
+		{
+			"name": "Sangye Shastri",
+			"gender": "Male",
+			"batch": "2001",
+			"program": "Development Planning",
+			"course": "Perspective Development Plan",
+			"category": "Non degree"
+		},
+		{
+			"name": "Dawa Gyaltsen",
+			"gender": "Male",
+			"batch": "2000",
+			"program": "Education: Science E",
+			"course": "Masters in career counselling",
+			"category": "Non degree"
+		},
+		{
+			"name": "Sonam Phuntsok",
+			"gender": "Male",
+			"batch": "2000",
+			"program": "Education: Science E",
+			"course": "M.Ed Career Counselling",
+			"category": "Degree"
+		},
+		{
+			"name": "Dawa Norbu",
+			"gender": "Male",
+			"batch": "2000",
+			"program": "Business Administrat",
+			"course": "MA financial mgt.",
+			"category": "Degree"
+		},
+		{
+			"name": "Tenzin Dolma",
+			"gender": "Female",
+			"batch": "2000",
+			"program": "Public Health: Publi",
+			"course": "M.S.Nursing",
+			"category": "Degree"
+		},
+		{
+			"name": "Tselha Namdol",
+			"gender": "Female",
+			"batch": "2000",
+			"program": "Education: Science E",
+			"course": "MA teaching eng",
+			"category": "Degree"
+		},
+		{
+			"name": "Jamyang Dorjee",
+			"gender": "Male",
+			"batch": "2000",
+			"program": "Education: Science E",
+			"course": "M.S teaching bio.",
+			"category": "Degree"
+		},
+		{
+			"name": "Pema Lhakey",
+			"gender": "Female",
+			"batch": "2000",
+			"program": "Education: Science E",
+			"course": "M.Ed Maths edu.",
+			"category": "Degree"
+		},
+		{
+			"name": "Phuntsok",
+			"gender": "Male",
+			"batch": "2000",
+			"program": "Business Administrat",
+			"course": "MA economic/sustainabl e development",
+			"category": "Degree"
+		},
+		{
+			"name": "Namgyal Chokdrup",
+			"gender": "Male",
+			"batch": "2000",
+			"program": "Business Administrat",
+			"course": "MA economic/sustainabl e development",
+			"category": "Degree"
+		},
+		{
+			"name": "Tenzin Dolma",
+			"gender": "Female",
+			"batch": "2000",
+			"program": "Education: Science E",
+			"course": "M.Ed Career Counselling",
+			"category": "Degree"
+		},
+		{
+			"name": "Pema Yangdon",
+			"gender": "Female",
+			"batch": "2000",
+			"program": "Education: Science E",
+			"course": "Cert.special edu.",
+			"category": "Non degree"
+		},
+		{
+			"name": "Tsering Topgyal",
+			"gender": "Male",
+			"batch": "2000",
+			"program": "Education: Science E",
+			"course": "Cert.sch.Organi.",
+			"category": "Non degree"
+		},
+		{
+			"name": "Tenzin Dawa",
+			"gender": "Male",
+			"batch": "2000",
+			"program": "International Relati",
+			"course": "",
+			"category": "Non degree"
+		},
+		{
+			"name": "Sonam Rinchen",
+			"gender": "Female",
+			"batch": "2000",
+			"program": "Education: Science E",
+			"course": "Cert.career councelling",
+			"category": "Non degree"
+		},
+		{
+			"name": "Masood Butt",
+			"gender": "Male",
+			"batch": "2000",
+			"program": "International Relati",
+			"course": "InternationalRelations",
+			"category": "Non degree"
+		},
+		{
+			"name": "Topden Tserring",
+			"gender": "Male",
+			"batch": "2000",
+			"program": "Journalism",
+			"course": "Journalism",
+			"category": "Non degree"
+		},
+		{
+			"name": "Pempa Tsering",
+			"gender": "Male",
+			"batch": "2000",
+			"program": "Science & Technology",
+			"course": "Computer study",
+			"category": "Non degree"
+		},
+		{
+			"name": "Lobsang Choephel",
+			"gender": "Male",
+			"batch": "2000",
+			"program": "Science & Technology",
+			"course": "Computer study",
+			"category": "Non degree"
+		},
+		{
+			"name": "Sonam Palmo",
+			"gender": "Female",
+			"batch": "2000",
+			"program": "Public Health: Publi",
+			"course": "Nursing",
+			"category": "Non degree"
+		},
+		{
+			"name": "Sonam Chokey",
+			"gender": "Female",
+			"batch": "2000",
+			"program": "Public Health: Publi",
+			"course": "Nursing",
+			"category": "Non degree"
+		},
+		{
+			"name": "Nangsa Chodon",
+			"gender": "Female",
+			"batch": "1999",
+			"program": "International Relati",
+			"course": "IPA",
+			"category": "Degree"
+		},
+		{
+			"name": "Kalsang Phuntsok",
+			"gender": "Male",
+			"batch": "1999",
+			"program": "International Relati",
+			"course": "HRD",
+			"category": "Degree"
+		},
+		{
+			"name": "Lobsang Galak",
+			"gender": "Male",
+			"batch": "1999",
+			"program": "Development Planning",
+			"course": "Masters Intnl.Sustainable dev",
+			"category": "Degree"
+		},
+		{
+			"name": "Doma Tsomo",
+			"gender": "Female",
+			"batch": "1999",
+			"program": "Journalism",
+			"course": "Edu.bedia/computer",
+			"category": "Degree"
+		},
+		{
+			"name": "Lobsang Khenrap",
+			"gender": "Male",
+			"batch": "1999",
+			"program": "Inter - Religious St",
+			"course": "Comparitive Buddhist Stu.",
+			"category": "Degree"
+		},
+		{
+			"name": "Bumo Tsering Yeshi",
+			"gender": "Female",
+			"batch": "1999",
+			"program": "Education: Science E",
+			"course": "Sch.adm./science teaching",
+			"category": "Degree"
+		},
+		{
+			"name": "Penpa Dorjee",
+			"gender": "Male",
+			"batch": "1999",
+			"program": "Science & Technology",
+			"course": "MA computer animation",
+			"category": "Degree"
+		},
+		{
+			"name": "Dechen Chodon",
+			"gender": "Female",
+			"batch": "1999",
+			"program": "Education: Science E",
+			"course": "TESOL",
+			"category": "Degree"
+		},
+		{
+			"name": "Dr. Tsewang Ngodup",
+			"gender": "Male",
+			"batch": "1999",
+			"program": "Psychology: School E",
+			"course": "MA Child Psychology",
+			"category": "Degree"
+		},
+		{
+			"name": "Dhondup Dorjee",
+			"gender": "Male",
+			"batch": "1999",
+			"program": "Education: Science E",
+			"course": "Cert.school sdm.",
+			"category": "Non degree"
+		},
+		{
+			"name": "Ngodup Dorjee",
+			"gender": "Male",
+			"batch": "1999",
+			"program": "Education: Science E",
+			"course": "Cert.school sdm.",
+			"category": "Non degree"
+		},
+		{
+			"name": "Pema Topgyal",
+			"gender": "Male",
+			"batch": "1999",
+			"program": "Business Administrat",
+			"course": "Cert.export mgt.",
+			"category": "Non degree"
+		},
+		{
+			"name": "Konchok Tsering",
+			"gender": "Male",
+			"batch": "1999",
+			"program": "Education: Science E",
+			"course": "Cert.career councelling",
+			"category": "Non degree"
+		},
+		{
+			"name": "Yeshi Dolker",
+			"gender": "Female",
+			"batch": "1999",
+			"program": "Education: Science E",
+			"course": "Cert.Eng.Edu.",
+			"category": "Non degree"
+		},
+		{
+			"name": "Tsewang Phuntso",
+			"gender": "Male",
+			"batch": "1998",
+			"program": "International Relati",
+			"course": "",
+			"category": "Degree"
+		},
+		{
+			"name": "Dr. Tsering Dolma",
+			"gender": "Female",
+			"batch": "1998",
+			"program": "Science & Technology",
+			"course": "M.S radiology",
+			"category": "Degree"
+		},
+		{
+			"name": "Youdon Aukatsang",
+			"gender": "Female",
+			"batch": "1998",
+			"program": "International Relati",
+			"course": "",
+			"category": "Degree"
+		},
+		{
+			"name": "Tenzin Phuntsok Atisha",
+			"gender": "Male",
+			"batch": "1998",
+			"program": "International Relati",
+			"course": "",
+			"category": "Degree"
+		},
+		{
+			"name": "Samten Choephel",
+			"gender": "Male",
+			"batch": "1998",
+			"program": "Information Communic",
+			"course": "MA printing/publishing",
+			"category": "Degree"
+		},
+		{
+			"name": "Passang Tahkchoe",
+			"gender": "Male",
+			"batch": "1998",
+			"program": "Library and Informat",
+			"course": "M.S.Library Science/computer",
+			"category": "Degree"
+		},
+		{
+			"name": "Ngodup Tsering",
+			"gender": "Male",
+			"batch": "1998",
+			"program": "Education: Science E",
+			"course": "M.ED school Adm",
+			"category": "Degree"
+		},
+		{
+			"name": "Gompo Tsering",
+			"gender": "Male",
+			"batch": "1998",
+			"program": "Education: Science E",
+			"course": "M.Ed child psych",
+			"category": "Degree"
+		},
+		{
+			"name": "Kalsang Tsewang Rikha",
+			"gender": "Male",
+			"batch": "1998",
+			"program": "Journalism",
+			"course": "Mass comm",
+			"category": "Non degree"
+		},
+		{
+			"name": "Tashi Lhamo Rubling",
+			"gender": "Female",
+			"batch": "1998",
+			"program": "Education: Science E",
+			"course": "English",
+			"category": "Non degree"
+		},
+		{
+			"name": "Kalsang Youdon Dagpo",
+			"gender": "Female",
+			"batch": "1998",
+			"program": "Public Health: Publi",
+			"course": "Public health",
+			"category": "Non degree"
+		},
+		{
+			"name": "Thupten Chodak",
+			"gender": "Male",
+			"batch": "1998",
+			"program": "Education: Science E",
+			"course": "Master in Edu.leadership & technology",
+			"category": "Non degree"
+		},
+		{
+			"name": "Tenzin Losal",
+			"gender": "Male",
+			"batch": "1998",
+			"program": "Business Administrat",
+			"course": "MBA marketing",
+			"category": "Degree"
+		},
+		{
+			"name": "Dr. Lobsang Tsering",
+			"gender": "Male",
+			"batch": "1997",
+			"program": "Public Health: Publi",
+			"course": "MPH Public Health",
+			"category": "Degree"
+		},
+		{
+			"name": "Choeying",
+			"gender": "Female",
+			"batch": "1997",
+			"program": "Business Administrat",
+			"course": "Accounting",
+			"category": "Degree"
+		},
+		{
+			"name": "Lobsang Tsering",
+			"gender": "Male",
+			"batch": "1997",
+			"program": "Business Administrat",
+			"course": "MA Economics",
+			"category": "Degree"
+		},
+		{
+			"name": "Kunchok Tsering",
+			"gender": "Male",
+			"batch": "1997",
+			"program": "Science & Technology",
+			"course": "Computer sc",
+			"category": "Degree"
+		},
+		{
+			"name": "Tsewang Tamdin",
+			"gender": "Male",
+			"batch": "1997",
+			"program": "Business Administrat",
+			"course": "MBA Business Mgt",
+			"category": "Degree"
+		},
+		{
+			"name": "Sangay Choedak",
+			"gender": "Male",
+			"batch": "1997",
+			"program": "Agriculture: Hydropo",
+			"course": "M.S.Animal sci.",
+			"category": "Degree"
+		},
+		{
+			"name": "Tenzin Norbu",
+			"gender": "Male",
+			"batch": "1997",
+			"program": "Education: Science E",
+			"course": "English as second language",
+			"category": "Non degree"
+		},
+		{
+			"name": "Norbu Tsering",
+			"gender": "Male",
+			"batch": "1997",
+			"program": "Education: Science E",
+			"course": "School adm.",
+			"category": "Non degree"
+		},
+		{
+			"name": "Tsering Phuntsok",
+			"gender": "Male",
+			"batch": "1997",
+			"program": "Education: Science E",
+			"course": "School adm.",
+			"category": "Non degree"
+		},
+		{
+			"name": "Jigme Ugyen",
+			"gender": "Male",
+			"batch": "1997",
+			"program": "Psychology: School E",
+			"course": "Career counselling",
+			"category": "Non degree"
+		},
+		{
+			"name": "Gompo Phuntsok",
+			"gender": "Male",
+			"batch": "1997",
+			"program": "Business Administrat",
+			"course": "Business export",
+			"category": "Non degree"
+		},
+		{
+			"name": "Tsering Namgyal",
+			"gender": "Male",
+			"batch": "1997",
+			"program": "Information Communic",
+			"course": "Desktop publ.",
+			"category": "Non degree"
+		},
+		{
+			"name": "Pema Dorjee",
+			"gender": "Male",
+			"batch": "1997",
+			"program": "Development Planning",
+			"course": "ResearchMythodology",
+			"category": "Degree"
+		},
+		{
+			"name": "Tsewang Shelling",
+			"gender": "Male",
+			"batch": "1996",
+			"program": "Sinology: Sinology a",
+			"course": "Research Linguistics",
+			"category": "Degree"
+		},
+		{
+			"name": "Ngodup Tsering",
+			"gender": "Male",
+			"batch": "1996",
+			"program": "International Relati",
+			"course": "Personnel Mgt.",
+			"category": "Non degree"
+		},
+		{
+			"name": "Tashi Phuntsok",
+			"gender": "Male",
+			"batch": "1996",
+			"program": "Bio Technology",
+			"course": "M.S.bio-technology & animal husbandry",
+			"category": "Degree"
+		},
+		{
+			"name": "Dawa Bhuti",
+			"gender": "Female",
+			"batch": "1996",
+			"program": "Education: Science E",
+			"course": "M.Ed biology",
+			"category": "Degree"
+		},
+		{
+			"name": "Yeshi Chodon",
+			"gender": "Female",
+			"batch": "1996",
+			"program": "Education: Science E",
+			"course": "M.Ed",
+			"category": "Degree"
+		},
+		{
+			"name": "Phuntsok Namgyal",
+			"gender": "Male",
+			"batch": "1996",
+			"program": "Education: Science E",
+			"course": "School org& adm.",
+			"category": "Degree"
+		},
+		{
+			"name": "Tenzin Sangpo",
+			"gender": "Male",
+			"batch": "1996",
+			"program": "Education: Science E",
+			"course": "English Edu.",
+			"category": "Degree"
+		},
+		{
+			"name": "Karma T. Ngodup",
+			"gender": "Male",
+			"batch": "1996",
+			"program": "Education: Science E",
+			"course": "Education Adm",
+			"category": "Degree"
+		},
+		{
+			"name": "Tashi Dhondup",
+			"gender": "Male",
+			"batch": "1996",
+			"program": "Education: Science E",
+			"course": "Education Adm",
+			"category": "Degree"
+		},
+		{
+			"name": "Wangdu",
+			"gender": "Male",
+			"batch": "1996",
+			"program": "Education: Science E",
+			"course": "Sceince education",
+			"category": "Degree"
+		},
+		{
+			"name": "Tashi Norgyal",
+			"gender": "Male",
+			"batch": "1996",
+			"program": "Journalism",
+			"course": "MA Jounalism",
+			"category": "Degree"
+		},
+		{
+			"name": "Tenzin Choephel",
+			"gender": "Male",
+			"batch": "1996",
+			"program": "International Relati",
+			"course": "MA pub.adm Intl.",
+			"category": "Degree"
+		},
+		{
+			"name": "Tsering Paldon",
+			"gender": "Female",
+			"batch": "1996",
+			"program": "Public Health: Publi",
+			"course": "Comm.Health",
+			"category": "Degree"
+		},
+		{
+			"name": "Sonam Chodon",
+			"gender": "Female",
+			"batch": "1996",
+			"program": "Public Health: Publi",
+			"course": "Pre-Med science",
+			"category": "Degree"
+		},
+		{
+			"name": "Karma Sither",
+			"gender": "Male",
+			"batch": "1996",
+			"program": "Education: Science E",
+			"course": "School adm",
+			"category": "Non degree"
+		},
+		{
+			"name": "Lobsang Yonten",
+			"gender": "Male",
+			"batch": "1996",
+			"program": "Education: Science E",
+			"course": "Cert.in English lang.",
+			"category": "Non degree"
+		},
+		{
+			"name": "Lobsang Sangay",
+			"gender": "Male",
+			"batch": "1996",
+			"program": "International Relati",
+			"course": "LLM",
+			"category": "Degree"
+		},
+		{
+			"name": "Lobsang Dorjee",
+			"gender": "Male",
+			"batch": "1996",
+			"program": "Education: Science E",
+			"course": "Cert.Edu.adm",
+			"category": "Non degree"
+		},
+		{
+			"name": "Dhondup Dorjee",
+			"gender": "Male",
+			"batch": "1996",
+			"program": "International Relati",
+			"course": "Cert.pub.adm& personnel mgt.",
+			"category": "Non degree"
+		},
+		{
+			"name": "Thupten Dorjee",
+			"gender": "Male",
+			"batch": "1996",
+			"program": "International Relati",
+			"course": "Cert.pub.adm& personnel mgt.",
+			"category": "Non degree"
+		},
+		{
+			"name": "Tashi Tsetan",
+			"gender": "Male",
+			"batch": "1996",
+			"program": "Waste management and",
+			"course": "Cert.env.science",
+			"category": "Non degree"
+		},
+		{
+			"name": "Gyatso Tsering",
+			"gender": "Male",
+			"batch": "1996",
+			"program": "Education: Science E",
+			"course": "Cert.Edu.adm",
+			"category": "Non degree"
+		},
+		{
+			"name": "Lobsang Tsether",
+			"gender": "Male",
+			"batch": "1996",
+			"program": "Library and Informat",
+			"course": "Library science",
+			"category": "Degree"
+		},
+		{
+			"name": "Pema Gyaltsen",
+			"gender": "Male",
+			"batch": "1995",
+			"program": "Education: Science E",
+			"course": "M.Ed Maths & Computer",
+			"category": "Degree"
+		},
+		{
+			"name": "Lobsang Tashi",
+			"gender": "Male",
+			"batch": "1995",
+			"program": "Education: Science E",
+			"course": "M.Ed teaching English",
+			"category": "Degree"
+		},
+		{
+			"name": "Namgyal Dorjee",
+			"gender": "Male",
+			"batch": "1995",
+			"program": "Education: Science E",
+			"course": "M.Ed Career Counselling",
+			"category": "Degree"
+		},
+		{
+			"name": "Kalsang Norbu",
+			"gender": "Male",
+			"batch": "1995",
+			"program": "Public Health: Publi",
+			"course": "M.A.Public Health",
+			"category": "Degree"
+		},
+		{
+			"name": "Karma Tensum",
+			"gender": "Male",
+			"batch": "1995",
+			"program": "Education: Science E",
+			"course": "M.ED school Adm",
+			"category": "Non degree"
+		},
+		{
+			"name": "Tsewang Yeshi",
+			"gender": "Male",
+			"batch": "1995",
+			"program": "International Relati",
+			"course": "Administration",
+			"category": "Non degree"
+		},
+		{
+			"name": "Tenpa Samkhar",
+			"gender": "Male",
+			"batch": "1995",
+			"program": "International Relati",
+			"course": "",
+			"category": "Non degree"
+		},
+		{
+			"name": "Ngawang Choephel",
+			"gender": "Male",
+			"batch": "1995",
+			"program": "International Relati",
+			"course": "",
+			"category": "Non degree"
+		},
+		{
+			"name": "Tsering Phuntsok",
+			"gender": "Male",
+			"batch": "1995",
+			"program": "International Relati",
+			"course": "Pub.Adm.",
+			"category": "Non degree"
+		},
+		{
+			"name": "D.N.Choedak",
+			"gender": "Male",
+			"batch": "1995",
+			"program": "International Relati",
+			"course": "Pub.Adm.",
+			"category": "Non degree"
+		},
+		{
+			"name": "Kunchok Pelgye",
+			"gender": "Male",
+			"batch": "1995",
+			"program": "Education: Science E",
+			"course": "Education Adm",
+			"category": "Non degree"
+		},
+		{
+			"name": "Nawang Tsultrim",
+			"gender": "Male",
+			"batch": "1995",
+			"program": "International Relati",
+			"course": "Cert.in adm.",
+			"category": "Non degree"
+		},
+		{
+			"name": "Dawa Shonu",
+			"gender": "Male",
+			"batch": "1995",
+			"program": "Education: Science E",
+			"course": "M.ED school Adm",
+			"category": "Non degree"
+		},
+		{
+			"name": "Lobsang Yeshi",
+			"gender": "Male",
+			"batch": "1995",
+			"program": "International Relati",
+			"course": "",
+			"category": "Degree"
+		},
+		{
+			"name": "Lhawang Ngodup",
+			"gender": "Male",
+			"batch": "1995",
+			"program": "Education: Science E",
+			"course": "Edu.guidance andcounselling",
+			"category": "Non degree"
+		},
+		{
+			"name": "Pema Wangdak",
+			"gender": "Male",
+			"batch": "1994",
+			"program": "Education: Science E",
+			"course": "2nd B.S Chemistry",
+			"category": "Degree"
+		},
+		{
+			"name": "Tenzin Dhampa Sharchok",
+			"gender": "Male",
+			"batch": "1994",
+			"program": "Business Administrat",
+			"course": "MBA Finance",
+			"category": "Degree"
+		},
+		{
+			"name": "Yarphel Ghani",
+			"gender": "Male",
+			"batch": "1994",
+			"program": "Education: Science E",
+			"course": "M.ED school Adm",
+			"category": "Degree"
+		},
+		{
+			"name": "Kalsang Phuntsok",
+			"gender": "Male",
+			"batch": "1994",
+			"program": "Food Technology",
+			"course": "M.S.Food Chemistry",
+			"category": "Degree"
+		},
+		{
+			"name": "Sonam Dhargye",
+			"gender": "Male",
+			"batch": "1994",
+			"program": "Library and Informat",
+			"course": "M.S.Library Science",
+			"category": "Degree"
+		},
+		{
+			"name": "Duk Tsering",
+			"gender": "Male",
+			"batch": "1994",
+			"program": "Waste management and",
+			"course": "Environmental science",
+			"category": "Degree"
+		},
+		{
+			"name": "Tsetan Dorjee",
+			"gender": "Male",
+			"batch": "1994",
+			"program": "Education: Science E",
+			"course": "Maths education",
+			"category": "Degree"
+		},
+		{
+			"name": "Tsering Wangyal",
+			"gender": "Male",
+			"batch": "1994",
+			"program": "Business Administrat",
+			"course": "MBA Bussiness",
+			"category": "Degree"
+		},
+		{
+			"name": "Tenzin Kongtsa",
+			"gender": "Male",
+			"batch": "1994",
+			"program": "Business Administrat",
+			"course": "Hotel.Mgt",
+			"category": "Degree"
+		},
+		{
+			"name": "Tsechang Gonpo",
+			"gender": "Male",
+			"batch": "1994",
+			"program": "Science & Technology",
+			"course": "Mechanical Engg",
+			"category": "Degree"
+		},
+		{
+			"name": "Pema Tsewang",
+			"gender": "Male",
+			"batch": "1994",
+			"program": "Education: Science E",
+			"course": "Tibetan History",
+			"category": "Degree"
+		},
+		{
+			"name": "Tsering Dhondup",
+			"gender": "Male",
+			"batch": "1994",
+			"program": "Business Administrat",
+			"course": "Bussiness Mgt.",
+			"category": "Non degree"
+		},
+		{
+			"name": "Tsering Lhamo",
+			"gender": "Female",
+			"batch": "1994",
+			"program": "Public Health: Publi",
+			"course": "Public & comm.health",
+			"category": "Non degree"
+		},
+		{
+			"name": "Tsering Paldon",
+			"gender": "Female",
+			"batch": "1994",
+			"program": "Public Health: Publi",
+			"course": "Public & comm.health",
+			"category": "Non degree"
+		},
+		{
+			"name": "Tsering Wangmo",
+			"gender": "Female",
+			"batch": "1994",
+			"program": "Public Health: Publi",
+			"course": "Public & comm.health",
+			"category": "Non degree"
+		},
+		{
+			"name": "Dechen Tsomo",
+			"gender": "Female",
+			"batch": "1994",
+			"program": "Public Health: Publi",
+			"course": "Nursing",
+			"category": "Non degree"
+		},
+		{
+			"name": "Tsering Dhondup",
+			"gender": "Male",
+			"batch": "1994",
+			"program": "Education: Science E",
+			"course": "School Adm",
+			"category": "Non degree"
+		},
+		{
+			"name": "Sonam N.Dagpo",
+			"gender": "Male",
+			"batch": "1994",
+			"program": "Public Health: Publi",
+			"course": "MA govt & Public adm",
+			"category": "Non degree"
+		},
+		{
+			"name": "Kunjo Tashi",
+			"gender": "Male",
+			"batch": "1994",
+			"program": "International Relati",
+			"course": "Pub.Adm.",
+			"category": "Non degree"
+		},
+		{
+			"name": "Sonam Passang",
+			"gender": "Male",
+			"batch": "1994",
+			"program": "International Relati",
+			"course": "Pub.Adm.",
+			"category": "Non degree"
+		},
+		{
+			"name": "Tsering Wangyal",
+			"gender": "Male",
+			"batch": "1994",
+			"program": "Journalism",
+			"course": "Journalism",
+			"category": "Non degree"
+		},
+		{
+			"name": "Dorjee Kunthup",
+			"gender": "Male",
+			"batch": "1994",
+			"program": "International Relati",
+			"course": "Pub.Adm.",
+			"category": "Non degree"
+		},
+		{
+			"name": "Ngawang Choephel",
+			"gender": "Male",
+			"batch": "1994",
+			"program": "Education: Science E",
+			"course": "Dance & Music",
+			"category": "Non degree"
+		},
+		{
+			"name": "Sonam Phuntsok",
+			"gender": "Male",
+			"batch": "1994",
+			"program": "Education: Science E",
+			"course": "Dance & Music",
+			"category": "Non degree"
+		},
+		{
+			"name": "Yonten Chophel",
+			"gender": "Male",
+			"batch": "1994",
+			"program": "Education: Science E",
+			"course": "Dance & Music",
+			"category": "Non degree"
+		},
+		{
+			"name": "Tenzin Dolma",
+			"gender": "Female",
+			"batch": "1993",
+			"program": "Education: Science E",
+			"course": "M.Ed",
+			"category": "Degree"
+		},
+		{
+			"name": "Tsultrim Palden",
+			"gender": "Male",
+			"batch": "1993",
+			"program": "Waste management and",
+			"course": "Masters in Environmental Studies",
+			"category": "Degree"
+		},
+		{
+			"name": "Tsultrim Chomphel",
+			"gender": "Male",
+			"batch": "1993",
+			"program": "Business Administrat",
+			"course": "MBA Bussiness Adm",
+			"category": "Degree"
+		},
+		{
+			"name": "Dhondup Samten",
+			"gender": "Male",
+			"batch": "1993",
+			"program": "Education: Science E",
+			"course": "M.Ed",
+			"category": "Degree"
+		},
+		{
+			"name": "Tenzin Tsetan",
+			"gender": "Male",
+			"batch": "1993",
+			"program": "Education: Science E",
+			"course": "2nd B.S Chemistry",
+			"category": "Degree"
+		},
+		{
+			"name": "Tsering Dorjee",
+			"gender": "Male",
+			"batch": "1993",
+			"program": "Business Administrat",
+			"course": "2nd BA Economics",
+			"category": "Degree"
+		},
+		{
+			"name": "Tenzin",
+			"gender": "Male",
+			"batch": "1993",
+			"program": "Education: Science E",
+			"course": "English as secong language",
+			"category": "Degree"
+		},
+		{
+			"name": "Rigzin Choephel",
+			"gender": "Male",
+			"batch": "1993",
+			"program": "Business Administrat",
+			"course": "Accounting",
+			"category": "Non degree"
+		},
+		{
+			"name": "Lobsang Wangchuk",
+			"gender": "Male",
+			"batch": "1993",
+			"program": "International Relati",
+			"course": "Peronal Mgt",
+			"category": "Non degree"
+		},
+		{
+			"name": "Ugyen Tsering",
+			"gender": "Male",
+			"batch": "1993",
+			"program": "Business Administrat",
+			"course": "Economic Dev.",
+			"category": "Non degree"
+		},
+		{
+			"name": "Lobsang Jeshong",
+			"gender": "Male",
+			"batch": "1993",
+			"program": "Information Communic",
+			"course": "Sound recording",
+			"category": "Non degree"
+		},
+		{
+			"name": "Pema Tsultrim",
+			"gender": "Male",
+			"batch": "1993",
+			"program": "Business Administrat",
+			"course": "Bussiness Adm.",
+			"category": "Non degree"
+		},
+		{
+			"name": "Phurbu Sither",
+			"gender": "Male",
+			"batch": "1993",
+			"program": "Public Health: Publi",
+			"course": "Public Adm.",
+			"category": "Non degree"
+		},
+		{
+			"name": "Penpa Sither",
+			"gender": "Male",
+			"batch": "1993",
+			"program": "Social Work:",
+			"course": "Social Work/Intership",
+			"category": "Non degree"
+		},
+		{
+			"name": "Karma Dorjee",
+			"gender": "Male",
+			"batch": "1993",
+			"program": "Education: Science E",
+			"course": "M.ED School Adm",
+			"category": "Degree"
+		},
+		{
+			"name": "Tenzin Donyo",
+			"gender": "Male",
+			"batch": "1992",
+			"program": "Business Administrat",
+			"course": "MBA",
+			"category": "Degree"
+		},
+		{
+			"name": "Passang Lhawang",
+			"gender": "Male",
+			"batch": "1992",
+			"program": "Education: Science E",
+			"course": "M.Ed",
+			"category": "Degree"
+		},
+		{
+			"name": "Tsewang Migyur Khangsar",
+			"gender": "Male",
+			"batch": "1992",
+			"program": "Education: Science E",
+			"course": "M.Ed",
+			"category": "Degree"
+		},
+		{
+			"name": "Dorjee",
+			"gender": "Male",
+			"batch": "1992",
+			"program": "Journalism",
+			"course": "Photo Journalism",
+			"category": "Degree"
+		},
+		{
+			"name": "Namgyal Choedak",
+			"gender": "Male",
+			"batch": "1992",
+			"program": "Education: Science E",
+			"course": "B.A Education",
+			"category": "Degree"
+		},
+		{
+			"name": "Norbu Sangpo",
+			"gender": "Male",
+			"batch": "1992",
+			"program": "Education: Science E",
+			"course": "B.A Education",
+			"category": "Degree"
+		},
+		{
+			"name": "Tsetan Namgyal",
+			"gender": "Male",
+			"batch": "1992",
+			"program": "Journalism",
+			"course": "Journalism",
+			"category": "Non degree"
+		},
+		{
+			"name": "Wangchuk Tsering",
+			"gender": "Male",
+			"batch": "1992",
+			"program": "International Relati",
+			"course": "Peronal Mgt",
+			"category": "Non degree"
+		},
+		{
+			"name": "Sonam Topgyal",
+			"gender": "Male",
+			"batch": "1992",
+			"program": "Business Administrat",
+			"course": "M.A.Economic Planning",
+			"category": "Non degree"
+		},
+		{
+			"name": "Sonam Norbu",
+			"gender": "Male",
+			"batch": "1992",
+			"program": "Public Health: Publi",
+			"course": "Public Adm.",
+			"category": "Non degree"
+		},
+		{
+			"name": "Sonam Choephel",
+			"gender": "Male",
+			"batch": "1992",
+			"program": "Public Health: Publi",
+			"course": "Public Adm.",
+			"category": "Non degree"
+		},
+		{
+			"name": "Lobsang Ngawang",
+			"gender": "Male",
+			"batch": "1992",
+			"program": "Public Health: Publi",
+			"course": "Public Adm.",
+			"category": "Non degree"
+		},
+		{
+			"name": "Tashi Rikka",
+			"gender": "Male",
+			"batch": "1991",
+			"program": "Education: Science E",
+			"course": "M.Ed",
+			"category": "Degree"
+		},
+		{
+			"name": "Karma Tsering",
+			"gender": "Male",
+			"batch": "1991",
+			"program": "Science & Technology",
+			"course": "Computer Science",
+			"category": "Degree"
+		},
+		{
+			"name": "Phuntsok Namgyal",
+			"gender": "Male",
+			"batch": "1991",
+			"program": "Science & Technology",
+			"course": "Computer Science",
+			"category": "Degree"
+		},
+		{
+			"name": "Nyima Tsondue",
+			"gender": "Male",
+			"batch": "1991",
+			"program": "Science & Technology",
+			"course": "M.Engg",
+			"category": "Degree"
+		},
+		{
+			"name": "Tsewang Ngodup",
+			"gender": "Male",
+			"batch": "1991",
+			"program": "Public Health: Publi",
+			"course": "Eng & Public Administration",
+			"category": "Non degree"
+		},
+		{
+			"name": "Tsetan Dorjee Sadhustang",
+			"gender": "Male",
+			"batch": "1991",
+			"program": "Public Health: Publi",
+			"course": "MA in Public Health",
+			"category": "Non degree"
+		},
+		{
+			"name": "Nawang Dorjee",
+			"gender": "Male",
+			"batch": "1991",
+			"program": "Education: Science E",
+			"course": "M.Ed",
+			"category": "Degree"
+		},
+		{
+			"name": "Sonam Tenzin",
+			"gender": "Male",
+			"batch": "1990",
+			"program": "Sinology: Sinology a",
+			"course": "MA in Sino-Tibetan Relations",
+			"category": "Degree"
+		},
+		{
+			"name": "Jampal Chosang",
+			"gender": "Male",
+			"batch": "1990",
+			"program": "International Relati",
+			"course": "MA Pol.Science",
+			"category": "Degree"
+		},
+		{
+			"name": "Lhundup Tsering",
+			"gender": "Male",
+			"batch": "1990",
+			"program": "Education: Science E",
+			"course": "BA Humanities",
+			"category": "Degree"
+		},
+		{
+			"name": "Tsering Tashi",
+			"gender": "Male",
+			"batch": "1990",
+			"program": "Journalism",
+			"course": "MA Journalism",
+			"category": "Degree"
+		},
+		{
+			"name": "Migyur Samkhar",
+			"gender": "Male",
+			"batch": "1990",
+			"program": "International Relati",
+			"course": "MA Pol. Science",
+			"category": "Degree"
+		},
+		{
+			"name": "Lhundup Dorjee",
+			"gender": "Male",
+			"batch": "1990",
+			"program": "Business Administrat",
+			"course": "MA in Business",
+			"category": "Degree"
+		},
+		{
+			"name": "Thondup Tsering",
+			"gender": "Male",
+			"batch": "1990",
+			"program": "Education: Science E",
+			"course": "M.Ed",
+			"category": "Degree"
+		},
+		{
+			"name": "Dhondup Namgyal",
+			"gender": "Male",
+			"batch": "1990",
+			"program": "Education: Science E",
+			"course": "M.Ed",
+			"category": "Degree"
+		},
+		{
+			"name": "Tsering Tsomo",
+			"gender": "Female",
+			"batch": "1990",
+			"program": "Geography: Demograph",
+			"course": "MA Geography",
+			"category": "Degree"
+		},
+		{
+			"name": "Migyur Dorjee",
+			"gender": "Male",
+			"batch": "1990",
+			"program": "Public Health: Publi",
+			"course": "Training in Public Adm",
+			"category": "6 Months"
+		},
+		{
+			"name": "Tashi Gyaltsen",
+			"gender": "Male",
+			"batch": "1990",
+			"program": "Public Health: Publi",
+			"course": "Training in Public Adm",
+			"category": "6 Months"
+		},
+		{
+			"name": "Sonam Topgyal",
+			"gender": "Male",
+			"batch": "1990",
+			"program": "Public Health: Publi",
+			"course": "Training in Public Adm",
+			"category": "6 Months"
+		},
+		{
+			"name": "Dhamcho",
+			"gender": "Male",
+			"batch": "1990",
+			"program": "Science & Technology",
+			"course": "Computer Edu/Adm",
+			"category": "Non degree"
+		},
+		{
+			"name": "Sonam Palmo",
+			"gender": "Female",
+			"batch": "1989",
+			"program": "Education: Science E",
+			"course": "Science Education",
+			"category": "Degree"
+		},
+		{
+			"name": "Mingyur Samkhar",
+			"gender": "Male",
+			"batch": "1989",
+			"program": "International Relati",
+			"course": "Political Science",
+			"category": "Degree"
+		},
+		{
+			"name": "Tashi Rikha",
+			"gender": "Male",
+			"batch": "1989",
+			"program": "Education: Science E",
+			"course": "M. Ed",
+			"category": "Degree"
+		},
+		{
+			"name": "Tsering Tashi",
+			"gender": "Male",
+			"batch": "1989",
+			"program": "Journalism",
+			"course": "MA Journalism",
+			"category": "Degree"
+		},
+		{
+			"name": "Phuntsok Namgyal",
+			"gender": "Male",
+			"batch": "1989",
+			"program": "Science & Technology",
+			"course": "Computer Science",
+			"category": "Non degree"
+		},
+		{
+			"name": "Tsering Tsomo",
+			"gender": "Female",
+			"batch": "1989",
+			"program": "Geography: Demograph",
+			"course": "MA Geography",
+			"category": "Degree"
+		},
+		{
+			"name": "Karma Tsering",
+			"gender": "Male",
+			"batch": "1989",
+			"program": "Science & Technology",
+			"course": "Computer Science",
+			"category": "Non degree"
+		},
+		{
+			"name": "Lhundrup Dorjee",
+			"gender": "Male",
+			"batch": "1989",
+			"program": "Business Administrat",
+			"course": "MBA",
+			"category": "Degree"
+		},
+		{
+			"name": "Nyima Tsundu",
+			"gender": "Male",
+			"batch": "1989",
+			"program": "Science & Technology",
+			"course": "MS Engineering",
+			"category": "Degree"
+		},
+		{
+			"name": "Thondup Tsering",
+			"gender": "Male",
+			"batch": "1989",
+			"program": "Education: Science E",
+			"course": "M. Ed",
+			"category": "Degree"
+		},
+		{
+			"name": "Tsewang Ngodup",
+			"gender": "Male",
+			"batch": "1989",
+			"program": "Science & Technology",
+			"course": "Engineering & Public Administration",
+			"category": "Non degree"
+		},
+		{
+			"name": "Dhondup Namgyal",
+			"gender": "Male",
+			"batch": "1989",
+			"program": "Education: Science E",
+			"course": "M. Ed",
+			"category": "Non degree"
+		},
+		{
+			"name": "Jampel Choesang",
+			"gender": "Male",
+			"batch": "1988",
+			"program": "International Relati",
+			"course": "Political Science",
+			"category": "Non degree"
+		},
+		{
+			"name": "Sonam Tenzing",
+			"gender": "Male",
+			"batch": "1988",
+			"program": "Sinology: Sinology a",
+			"course": "Chinese Studies",
+			"category": "Degree"
+		},
+		{
+			"name": "Thupten Samphel",
+			"gender": "Male",
+			"batch": "1988",
+			"program": "Journalism",
+			"course": "Journalism/Science",
+			"category": "Degree"
+		},
+		{
+			"name": "Lhundup Tsering",
+			"gender": "Male",
+			"batch": "1988",
+			"program": "International Relati",
+			"course": "BA Humanities",
+			"category": "Non degree"
+		}
+	]
+}

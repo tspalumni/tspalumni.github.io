@@ -1,0 +1,148 @@
+
+.about-wrapper {
+  
+  aside {
+    display: none;
+  }
+
+  .content {
+    padding: 0.5em;
+
+    h2 {
+      text-align: center;
+      text-decoration: underline;
+    }
+  
+    h3 {
+      text-decoration: underline;
+    }
+
+    p, ul{
+      font-weight: 300;
+    }
+
+    .sub-content {
+      display: block;
+      width: 100%;
+      background: #fff;
+      padding-bottom: 1em;
+
+      h3 {
+        text-align: center;
+      }
+
+      &.active {
+        z-index: 1000;
+      }
+
+      .members {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+        .member {
+          margin-top: 2em;
+          
+          .photo {
+            width: 250px;
+            height: 250px;
+            overflow: hidden;
+            border-radius: 100%;
+
+            img {
+              width: 100%;
+              height: auto;
+            }
+          }
+
+          .description {
+            padding: 0;
+            text-align: center;
+
+            p {
+              margin: 0;
+
+              &.role {
+                font-weight: 700;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+@media (min-width: 576px) {  }
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) {  }
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) {  
+
+  .about-wrapper {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: grid;
+    
+    grid-template-columns: 1.5fr 50px 5fr;
+    grid-template-areas: "sidebar . content";
+
+
+    aside {
+      display: block;
+      padding-top: 2em;
+      border-right: solid 1px #ccc;
+
+      nav {
+        position: fixed;
+        padding: 1em 2em;
+
+        ul {
+          padding: 1em;
+          display: inline-block;
+          border-radius: 10px;
+  
+          li {
+  
+            a {
+              text-decoration: none;
+              color: #000;
+              font-size: 1.2rem;
+              font-weight: 300;
+  
+              &:hover {
+                text-decoration: underline;
+              }
+            }
+          }
+        }
+      }
+
+    }
+    
+    .content {
+      grid-area: content;
+
+      .sub-content {
+
+        h3 {
+          text-align: left;
+        }
+
+        .members {
+          display: grid;
+          grid-template-columns: 1fr 1fr 1fr;
+
+          .member {
+            margin: 0;
+            padding: 1.5em;
+          }
+        }
+      }
+    }
+
+  }
+}
+
