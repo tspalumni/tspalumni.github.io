@@ -1,17 +1,33 @@
 {
-  "4th-yop": {
-    "title": "4th Youth Outreach Programme session",
-    "date": "31st",
-    "month": "Oct"
-  },
-  "yop": {
-    "title": "3rd Youth Outreach Programme Session",
-    "date": "24th",
-    "month": "Oct"
+    "handbook": {
+    "title": "A Handbook on Graduate Studies in the United States",
+    "date": "06th",
+    "month": "July",
+    "year": "2021"
   },
   "tcgf": {
     "title": "Announcement: The Tibetan Community Grants Fund (TCGF) is here.",
     "date": "30th",
-    "month": "Sept"
+    "month": "May",
+    "year": "2021"
+  },
+  "5th-yop": {
+    "title": "5th Youth Outreach Programme Session",
+    "date": "30th",
+    "month": "June",
+    "year": "2021"
+  },
+  "4th-yop": {
+    "title": "4th Youth Outreach Programme session",
+    "date": "31st",
+    "month": "Oct",
+    "year": "2020"
+  },
+  "3rd-yop": {
+    "title": "3rd Youth Outreach Programme Session",
+    "date": "24th",
+    "month": "Oct",
+    "year": "2020"
   }
+  
 }

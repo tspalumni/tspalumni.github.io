@@ -11,18 +11,23 @@
     </p>
   </div>
 
-  <h3>Programs & Events</h3>
+  <h3>Services and Resources</h3>
   <div class="sub-content">
-    <div class="event__item">
-      <div class="event__date">
-        <span>12th May, 8:00 PM</span>
-      </div>
-
-      <div class="event__summary">
-        <a href="events/workshop-on-effective-communication">
-          <h4>WORKSHOP ON EFFECTIVE COMMUNICATION</h4>
+      <% for (postName in public.services._data) { %>
+      <div class="event__item">
+        <div class="event__date">
+          <span><%= public.services._data[postName].date %> <%= public.services._data[postName].month %> <%= public.services._data[postName].year %></span>
+        </div>
+        <a href="<%= public.services._data[postName].link %>">
+        <div class="event__summary">
+        <h4>
+          <%= public.services._data[postName].title %>
+        <h4>
+        </div>
         </a>
       </div>
+      <% } %>
     </div>
   </div>
+
 </section>
