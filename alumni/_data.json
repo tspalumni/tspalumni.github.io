@@ -1,10 +1,75 @@
 {
 	"list": [
 		{
+			"name": "Tsering Lodhen",
+			"gender": "Male",
+			"batch": "2019",
+			"program": "Masters in Physics",
+			"course": "",
+			"category": "Degree"
+		},
+		{
+			"name": "Tenzin Tashi",
+			"gender": "Male",
+			"batch": "2019",
+			"program": "Microbiology and Immunology",
+			"course": "",
+			"category": "Degree"
+		},		
+		{
+			"name": "Dechen Sangmo",
+			"gender": "Female",
+			"batch": "2019",
+			"program": "Masters in Public health",
+			"course": " Indiana University Bloomington",
+			"category": "Degree"
+		},
+		{
+			"name": "Kelsang Wangmo",
+			"gender": "Female",
+			"batch": "2019",
+			"program": "Masters in Human Resource management",
+			"course": "Rutgers, NJ, School of Management and Labor Relation (SMLR)",
+			"category": "Degree"
+		},
+		{
+			"name": "Dhondup Wangmo",
+			"gender": "Female",
+			"batch": "2019",
+			"program": "Masters in Education",
+			"course": "UMass, Amherst",
+			"category": "Degree"
+		},		
+		{
+			"name": "Yangchen Lhamo",
+			"gender": "Female",
+			"batch": "2019",
+			"program": "Masters in Public Health",
+			"course": "University of Missouri, Columbia",
+			"category": "Degree"
+		},
+		{
+			"name": "Tsering Dolma",
+			"gender": "Female",
+			"batch": "2019",
+			"program": "Masters in Education",
+			"course": "University of Arkansas",
+			"category": "Degree"
+		},
+		
+		{
+			"name": "Sonam Phuntsog",
+			"gender": "Male",
+			"batch": "2019",
+			"program": "MS in Computer Science",
+			"course": "University of Missouri, Columbia",
+			"category": "Degree"
+		},
+		{
 			"name": "Pasang Tsekey",
 			"gender": "Female",
 			"batch": "2018",
-			"program": "Public Health: Publi",
+			"program": "Public Health",
 			"course": "Public Health",
 			"category": "Degree"
 		},
@@ -12,7 +77,7 @@
 			"name": "Ngawang Choezom",
 			"gender": "Female",
 			"batch": "2018",
-			"program": "Business Administrat",
+			"program": "Business Administration",
 			"course": "MBA",
 			"category": "Degree"
 		},
@@ -28,15 +93,15 @@
 			"name": "Jamphel Shonu",
 			"gender": "Male",
 			"batch": "2018",
-			"program": "International Relati",
-			"course": "International Relations",
+			"program": "International Relations",
+			"course":  "International Relations",
 			"category": "Degree"
 		},
 		{
 			"name": "Tenzin Khando",
 			"gender": "Female",
 			"batch": "2018",
-			"program": "Public Health: Publi",
+			"program": "Public Health",
 			"course": "",
 			"category": "Degree"
 		},
@@ -44,7 +109,7 @@
 			"name": "Tashi Namgyal",
 			"gender": "Male",
 			"batch": "2018",
-			"program": "International Relati",
+			"program": "International Relations",
 			"course": "International Relations",
 			"category": "Degree"
 		},
@@ -60,7 +125,7 @@
 			"name": "Tenzin Wangdak",
 			"gender": "Male",
 			"batch": "2017",
-			"program": "International Relati",
+			"program": "International Relations",
 			"course": "International Relations",
 			"category": "Degree"
 		},
@@ -68,7 +133,7 @@
 			"name": "Tenzin Chemey",
 			"gender": "Female",
 			"batch": "2017",
-			"program": "International Relati",
+			"program": "International Relations",
 			"course": "International Relations",
 			"category": "Degree"
 		},
@@ -76,7 +141,7 @@
 			"name": "Tsering Yangdol",
 			"gender": "Female",
 			"batch": "2017",
-			"program": "Psychology: School E",
+			"program": "Psychology: School E", //?
 			"course": "Psychology",
 			"category": "Degree"
 		},
@@ -92,7 +157,7 @@
 			"name": "Tenzin Wangdu",
 			"gender": "Male",
 			"batch": "2017",
-			"program": "Business Administrat",
+			"program": "Business Administration",
 			"course": "MBA",
 			"category": "Degree"
 		},
@@ -116,7 +181,7 @@
 			"name": "Tenzin Tseten",
 			"gender": "Female",
 			"batch": "2016",
-			"program": "Public Health: Publi",
+			"program": "Public Health",
 			"course": "Master in Public Health",
 			"category": "Degree"
 		},
@@ -124,7 +189,7 @@
 			"name": "Tenzin Dekyi",
 			"gender": "Female",
 			"batch": "2016",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "Master in Early Child Education",
 			"category": "Degree"
 		},
@@ -148,7 +213,7 @@
 			"name": "Nyima Choephell",
 			"gender": "Male",
 			"batch": "2016",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "Masters in Mathematics Studies",
 			"category": "Degree"
 		},
@@ -156,7 +221,7 @@
 			"name": "Sherab Wangmo",
 			"gender": "Female",
 			"batch": "2016",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "Masters in Science Education",
 			"category": "Degree"
 		},
@@ -180,7 +245,7 @@
 			"name": "Tenzin Yangchen",
 			"gender": "Female",
 			"batch": "2016",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "Counselling",
 			"category": "Degree"
 		},
@@ -196,7 +261,7 @@
 			"name": "Thinlay Chukki",
 			"gender": "Female",
 			"batch": "2016",
-			"program": "International Relati",
+			"program": "International Relations",
 			"course": "Law",
 			"category": "Degree"
 		},
@@ -220,7 +285,7 @@
 			"name": "Norzin Dickyi",
 			"gender": "Female",
 			"batch": "2013",
-			"program": "Sinology: Sinology a",
+			"program": "Sinology: Sinology a", // ?
 			"course": "Harvard University",
 			"category": "Degree"
 		},
@@ -228,7 +293,7 @@
 			"name": "Kunsang Dorjee",
 			"gender": "Male",
 			"batch": "2013",
-			"program": "Business Administrat",
+			"program": "Business Administration",
 			"course": "Rochester Insitute",
 			"category": "Degree"
 		},
@@ -236,8 +301,8 @@
 			"name": "Tenzin Yangchen",
 			"gender": "Female",
 			"batch": "2013",
-			"program": "Education: Science E",
-			"course": "Univeristy ofNorthern IOWA",
+			"program": "Science Education",
+			"course": "Univeristy of Northern IOWA",
 			"category": "Degree"
 		},
 		{
@@ -260,7 +325,7 @@
 			"name": "Kelsang Tsomo",
 			"gender": "Female",
 			"batch": "2013",
-			"program": "Business Administrat",
+			"program": "Business Administration",
 			"course": "SUNY Buffalo",
 			"category": "Degree"
 		},
@@ -268,8 +333,8 @@
 			"name": "Sonam Dhundup",
 			"gender": "Male",
 			"batch": "2012",
-			"program": "Public Health: Publi",
-			"course": "Public Health:Epidemiolog y",
+			"program": "Public Health",
+			"course": "Public Health: Epidemiolog y", // ? 
 			"category": "Degree"
 		},
 		{
@@ -284,7 +349,7 @@
 			"name": "Tenzin Sonam",
 			"gender": "Female",
 			"batch": "2012",
-			"program": "International Relati",
+			"program": "International Relations",
 			"course": "International Law",
 			"category": "Degree"
 		},
@@ -300,7 +365,7 @@
 			"name": "Tenzin Dickyi",
 			"gender": "Female",
 			"batch": "2012",
-			"program": "International Relati",
+			"program": "International Relations",
 			"course": "InternationalRelations",
 			"category": "Degree"
 		},
@@ -308,7 +373,7 @@
 			"name": "Fnu Lhakpa",
 			"gender": "Male",
 			"batch": "2012",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "Language Teaching Pedagogy",
 			"category": "Non degree"
 		},
@@ -316,7 +381,7 @@
 			"name": "Kalsang Dolma",
 			"gender": "Female",
 			"batch": "2012",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "School Curriculum",
 			"category": "Non degree"
 		},
@@ -324,7 +389,7 @@
 			"name": "Delek Wangmo",
 			"gender": "Female",
 			"batch": "2012",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "Special Education",
 			"category": "Non degree"
 		},
@@ -340,7 +405,7 @@
 			"name": "Tenzin Paldon",
 			"gender": "Female",
 			"batch": "2011",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "School Counselling",
 			"category": "Degree"
 		},
@@ -348,7 +413,7 @@
 			"name": "Tsering Phuntsok",
 			"gender": "Male",
 			"batch": "2011",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "School counselling",
 			"category": "Non degree"
 		},
@@ -364,7 +429,7 @@
 			"name": "Tenzin Kundhe",
 			"gender": "Male",
 			"batch": "2011",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "Special Education",
 			"category": "Degree"
 		},
@@ -372,7 +437,7 @@
 			"name": "Jampa Lhawang",
 			"gender": "Male",
 			"batch": "2011",
-			"program": "International Relati",
+			"program": "International Relations",
 			"course": "Human Resource Management",
 			"category": "Non degree"
 		},
@@ -380,7 +445,7 @@
 			"name": "Tenzin Norgay",
 			"gender": "Male",
 			"batch": "2011",
-			"program": "International Relati",
+			"program": "International Relations",
 			"course": "International Law",
 			"category": "Degree"
 		},
@@ -404,7 +469,7 @@
 			"name": "Tenzin Tseyang",
 			"gender": "Female",
 			"batch": "2011",
-			"program": "Public Health: Publi",
+			"program": "Public Health",
 			"course": "Public Health",
 			"category": "Degree"
 		},
@@ -412,7 +477,7 @@
 			"name": "Kalsang Wangdue",
 			"gender": "Male",
 			"batch": "2010",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "School Counselling",
 			"category": "Degree"
 		},
@@ -420,7 +485,7 @@
 			"name": "Karma Dorjee Namgyal",
 			"gender": "Male",
 			"batch": "2010",
-			"program": "International Relati",
+			"program": "International Relations",
 			"course": "LLM",
 			"category": "Degree"
 		},
@@ -428,7 +493,7 @@
 			"name": "Sonam Wangmo",
 			"gender": "Female",
 			"batch": "2010",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "School Counselling",
 			"category": "Degree"
 		},
@@ -452,7 +517,7 @@
 			"name": "Trinlay Palmo",
 			"gender": "Female",
 			"batch": "2010",
-			"program": "Public Health: Publi",
+			"program": "Public Health",
 			"course": "MPH",
 			"category": "Degree"
 		},
@@ -468,7 +533,7 @@
 			"name": "Nyima Ngodup",
 			"gender": "Male",
 			"batch": "2010",
-			"program": "Business Administrat",
+			"program": "Business Administration",
 			"course": "Accounting",
 			"category": "Non degree"
 		},
@@ -476,7 +541,7 @@
 			"name": "Penpa Yangchen",
 			"gender": "Female",
 			"batch": "2010",
-			"program": "Public Health: Publi",
+			"program": "Public Health",
 			"course": "Public Administration",
 			"category": "Non degree"
 		},
@@ -484,7 +549,7 @@
 			"name": "Tashi Wangdu",
 			"gender": "Male",
 			"batch": "2010",
-			"program": "International Relati",
+			"program": "International Relations",
 			"course": "International Relations",
 			"category": "Non degree"
 		},
@@ -516,7 +581,7 @@
 			"name": "Tsering Choekyi",
 			"gender": "Female",
 			"batch": "2010",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "Special Education",
 			"category": "Non degree"
 		},
@@ -524,7 +589,7 @@
 			"name": "Tsering Dorjee",
 			"gender": "Male",
 			"batch": "2010",
-			"program": "Public Health: Publi",
+			"program": "Public Health",
 			"course": "Public Administration",
 			"category": "Non degree"
 		},
@@ -532,7 +597,7 @@
 			"name": "Tsering Paljor",
 			"gender": "Male",
 			"batch": "2010",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "School Curriculum",
 			"category": "Non degree"
 		},
@@ -540,7 +605,7 @@
 			"name": "Ugyen Dolma",
 			"gender": "Female",
 			"batch": "2010",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "School Counselling",
 			"category": "Non degree"
 		},
@@ -556,7 +621,7 @@
 			"name": "Tamding Wangdak",
 			"gender": "Male",
 			"batch": "2009",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "School Counseling",
 			"category": "Degree"
 		},
@@ -564,7 +629,7 @@
 			"name": "Tenzin Tsepak",
 			"gender": "Male",
 			"batch": "2009",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "Central Eurasian Studies",
 			"category": "Degree"
 		},
@@ -588,7 +653,7 @@
 			"name": "Tenzin Legdup",
 			"gender": "Male",
 			"batch": "2009",
-			"program": "Business Administrat",
+			"program": "Business Administration",
 			"course": "MBA",
 			"category": "Degree"
 		},
@@ -604,7 +669,7 @@
 			"name": "Tenzin Yangkey",
 			"gender": "Female",
 			"batch": "2009",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "School Counseling",
 			"category": "Degree"
 		},
@@ -620,7 +685,7 @@
 			"name": "Trinlay Choezom",
 			"gender": "Female",
 			"batch": "2009",
-			"program": "Business Administrat",
+			"program": "Business Administration",
 			"course": "Accounting",
 			"category": "Degree"
 		},
@@ -628,7 +693,7 @@
 			"name": "Tenzin Tsetan",
 			"gender": "Male",
 			"batch": "2009",
-			"program": "Public Health: Publi",
+			"program": "Public Health",
 			"course": "",
 			"category": "Non degree"
 		},
@@ -636,7 +701,7 @@
 			"name": "Tsering Choetso",
 			"gender": "Female",
 			"batch": "2009",
-			"program": "Public Health: Publi",
+			"program": "Public Health",
 			"course": "Nursing",
 			"category": "Non degree"
 		},
@@ -644,7 +709,7 @@
 			"name": "Dhondup",
 			"gender": "Male",
 			"batch": "2009",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "School Counseling",
 			"category": "Non degree"
 		},
@@ -652,7 +717,7 @@
 			"name": "Dawa Tsering",
 			"gender": "Male",
 			"batch": "2009",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "School Curriculum",
 			"category": "Non degree"
 		},
@@ -660,7 +725,7 @@
 			"name": "Dhundul Thokmey",
 			"gender": "Male",
 			"batch": "2009",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "School Counseling",
 			"category": "Non degree"
 		},
@@ -668,7 +733,7 @@
 			"name": "Ngawang Yonten",
 			"gender": "Male",
 			"batch": "2009",
-			"program": "Business Administrat",
+			"program": "Business Administration",
 			"course": "Banking Management",
 			"category": "Non degree"
 		},
@@ -676,7 +741,7 @@
 			"name": "Lobsang Chojor",
 			"gender": "Male",
 			"batch": "2009",
-			"program": "Public Health: Publi",
+			"program": "Public Health",
 			"course": "Public Administration",
 			"category": "Non degree"
 		},
@@ -684,7 +749,7 @@
 			"name": "Tsering Tashi",
 			"gender": "Male",
 			"batch": "2009",
-			"program": "Business Administrat",
+			"program": "Business Administration",
 			"course": "Micro Entrepreneurship",
 			"category": "Non degree"
 		},
@@ -692,7 +757,7 @@
 			"name": "Tenzin Sherab",
 			"gender": "Male",
 			"batch": "2009",
-			"program": "Business Administrat",
+			"program": "Business Administration",
 			"course": "Accounting",
 			"category": "Non degree"
 		},
@@ -700,7 +765,7 @@
 			"name": "Tenzin Dhargyal",
 			"gender": "Male",
 			"batch": "2009",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "Special Education",
 			"category": "Non degree"
 		},
@@ -708,7 +773,7 @@
 			"name": "Tsetan Dolkar",
 			"gender": "Female",
 			"batch": "2008",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "Counselling (Education)",
 			"category": "Degree"
 		},
@@ -716,7 +781,7 @@
 			"name": "Tashi Yangzom",
 			"gender": "Female",
 			"batch": "2008",
-			"program": "Business Administrat",
+			"program": "Business Administration",
 			"course": "MBA",
 			"category": "Degree"
 		},
@@ -740,7 +805,7 @@
 			"name": "Kunchok Dorjee",
 			"gender": "Male",
 			"batch": "2008",
-			"program": "Public Health: Publi",
+			"program": "Public Health",
 			"course": "MA (Public Health)",
 			"category": "Degree"
 		},
@@ -764,7 +829,7 @@
 			"name": "Dolma Tsering",
 			"gender": "Female",
 			"batch": "2008",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "School Curriculum",
 			"category": "Degree"
 		},
@@ -772,7 +837,7 @@
 			"name": "Tsering Dorjee",
 			"gender": "Male",
 			"batch": "2008",
-			"program": "International Relati",
+			"program": "International Relations",
 			"course": "International Relations",
 			"category": "Non degree"
 		},
@@ -780,7 +845,7 @@
 			"name": "Dawa Gyatso",
 			"gender": "Male",
 			"batch": "2008",
-			"program": "Public Health: Publi",
+			"program": "Public Health",
 			"course": "Public Administration",
 			"category": "Non degree"
 		},
@@ -788,7 +853,7 @@
 			"name": "Tashi Topgyal",
 			"gender": "Male",
 			"batch": "2008",
-			"program": "Business Administrat",
+			"program": "Business Administration",
 			"course": "Auditing",
 			"category": "Non degree"
 		},
@@ -804,7 +869,7 @@
 			"name": "Yeshi Wangmo",
 			"gender": "Female",
 			"batch": "2008",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "Special Education",
 			"category": "Non degree"
 		},
@@ -820,7 +885,7 @@
 			"name": "Tsering Paldon",
 			"gender": "Female",
 			"batch": "2008",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "School Curriculum",
 			"category": "Non degree"
 		},
@@ -828,7 +893,7 @@
 			"name": "Sonam Choephel",
 			"gender": "Male",
 			"batch": "2008",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "Special Education",
 			"category": "Non degree"
 		},
@@ -836,7 +901,7 @@
 			"name": "Passang Tsering",
 			"gender": "Male",
 			"batch": "2008",
-			"program": "Public Health: Publi",
+			"program": "Public Health",
 			"course": "Public Administration",
 			"category": "Non degree"
 		},
@@ -844,7 +909,7 @@
 			"name": "Lhundup",
 			"gender": "Male",
 			"batch": "2008",
-			"program": "Business Administrat",
+			"program": "Business Administration",
 			"course": "Auditing",
 			"category": "Non degree"
 		},
@@ -852,7 +917,7 @@
 			"name": "Karma Dolma",
 			"gender": "Female",
 			"batch": "2008",
-			"program": "Public Health: Publi",
+			"program": "Public Health",
 			"course": "Public Administration",
 			"category": "Non degree"
 		},
@@ -860,7 +925,7 @@
 			"name": "Thutop Namgyal",
 			"gender": "Male",
 			"batch": "2008",
-			"program": "Business Administrat",
+			"program": "Business Administration",
 			"course": "Accounting",
 			"category": "Non degree"
 		},
@@ -892,7 +957,7 @@
 			"name": "Lobsang Sherab",
 			"gender": "Male",
 			"batch": "2007",
-			"program": "International Relati",
+			"program": "International Relations",
 			"course": "Personnel Management",
 			"category": "Degree"
 		},
@@ -900,7 +965,7 @@
 			"name": "Sonam Dekyi",
 			"gender": "Female",
 			"batch": "2007",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "Education: School Counseling",
 			"category": "Degree"
 		},
@@ -908,7 +973,7 @@
 			"name": "Tenzin Choekyi",
 			"gender": "Female",
 			"batch": "2007",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "School Counseling",
 			"category": "Degree"
 		},
@@ -916,7 +981,7 @@
 			"name": "Tenzin Kunsang",
 			"gender": "Male",
 			"batch": "2007",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "School Curriculum",
 			"category": "Degree"
 		},
@@ -948,7 +1013,7 @@
 			"name": "Lobsang Monlam",
 			"gender": "Male",
 			"batch": "2007",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "Teacher Education",
 			"category": "Non degree"
 		},
@@ -956,7 +1021,7 @@
 			"name": "Lobsang Dhondup",
 			"gender": "Male",
 			"batch": "2007",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "Special Education",
 			"category": "Non degree"
 		},
@@ -972,7 +1037,7 @@
 			"name": "Tenzin Yeshi",
 			"gender": "Male",
 			"batch": "2007",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "Education: Educational Administration",
 			"category": "Non degree"
 		},
@@ -980,7 +1045,7 @@
 			"name": "Nyima Tsering",
 			"gender": "Male",
 			"batch": "2007",
-			"program": "Business Administrat",
+			"program": "Business Administration",
 			"course": "Auditing",
 			"category": "Non degree"
 		},
@@ -996,7 +1061,7 @@
 			"name": "Namgyal Norbu",
 			"gender": "Male",
 			"batch": "2007",
-			"program": "Business Administrat",
+			"program": "Business Administration",
 			"course": "Business: Auditing",
 			"category": "Non degree"
 		},
@@ -1004,7 +1069,7 @@
 			"name": "Karma Choeying",
 			"gender": "Male",
 			"batch": "2007",
-			"program": "Business Administrat",
+			"program": "Business Administration",
 			"course": "Auditing",
 			"category": "Non degree"
 		},
@@ -1012,7 +1077,7 @@
 			"name": "Dawa Ngodup",
 			"gender": "Male",
 			"batch": "2006",
-			"program": "Public Health: Publi",
+			"program": "Public Health",
 			"course": "MA in Public Affairs",
 			"category": "Degree"
 		},
@@ -1020,7 +1085,7 @@
 			"name": "Dorjee",
 			"gender": "Male",
 			"batch": "2006",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "Special Education",
 			"category": "Degree"
 		},
@@ -1052,7 +1117,7 @@
 			"name": "Lhakpa Tsering",
 			"gender": "Male",
 			"batch": "2006",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "Educational Leadership",
 			"category": "Degree"
 		},
@@ -1084,7 +1149,7 @@
 			"name": "Tsering Phuntsok",
 			"gender": "Male",
 			"batch": "2006",
-			"program": "Public Health: Publi",
+			"program": "Public Health",
 			"course": "MA Public Health",
 			"category": "Degree"
 		},
@@ -1092,7 +1157,7 @@
 			"name": "Tsering Dhondup",
 			"gender": "Male",
 			"batch": "2006",
-			"program": "Public Health: Publi",
+			"program": "Public Health",
 			"course": "MA Public Health",
 			"category": "Degree"
 		},
@@ -1108,7 +1173,7 @@
 			"name": "Passang Lhamo",
 			"gender": "Female",
 			"batch": "2006",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "MA Education",
 			"category": "Degree"
 		},
@@ -1116,7 +1181,7 @@
 			"name": "Tenzin Dhonyo",
 			"gender": "Male",
 			"batch": "2006",
-			"program": "International Relati",
+			"program": "International Relations",
 			"course": "",
 			"category": "Degree"
 		},
@@ -1124,7 +1189,7 @@
 			"name": "Norzin Dolma",
 			"gender": "Female",
 			"batch": "2006",
-			"program": "International Relati",
+			"program": "International Relations",
 			"course": "",
 			"category": "Degree"
 		},
@@ -1140,7 +1205,7 @@
 			"name": "Tenzin Lekshey",
 			"gender": "Male",
 			"batch": "2006",
-			"program": "International Relati",
+			"program": "International Relations",
 			"course": "",
 			"category": "Degree"
 		},
@@ -1164,7 +1229,7 @@
 			"name": "Kunsang Rinzin",
 			"gender": "Male",
 			"batch": "2006",
-			"program": "International Relati",
+			"program": "International Relations",
 			"course": "",
 			"category": "Degree"
 		},
@@ -1172,7 +1237,7 @@
 			"name": "Ngawang Gelek",
 			"gender": "Male",
 			"batch": "2006",
-			"program": "Public Health: Publi",
+			"program": "Public Health",
 			"course": "Public Administration",
 			"category": "Non degree"
 		},
@@ -1180,7 +1245,7 @@
 			"name": "Tenzin Kunga",
 			"gender": "Male",
 			"batch": "2006",
-			"program": "Business Administrat",
+			"program": "Business Administration",
 			"course": "Co-operative Management",
 			"category": "Non degree"
 		},
@@ -1188,7 +1253,7 @@
 			"name": "Tenzin Dolma",
 			"gender": "Female",
 			"batch": "2006",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "Special Education",
 			"category": "Non degree"
 		},
@@ -1196,7 +1261,7 @@
 			"name": "Kalsang Tsomo",
 			"gender": "Male",
 			"batch": "2006",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "Teacher Education",
 			"category": "Non degree"
 		},
@@ -1204,7 +1269,7 @@
 			"name": "Norbu Tsering",
 			"gender": "Male",
 			"batch": "2006",
-			"program": "Business Administrat",
+			"program": "Business Administration",
 			"course": "Accounting",
 			"category": "Non degree"
 		},
@@ -1212,7 +1277,7 @@
 			"name": "Nawang Lhamo",
 			"gender": "Female",
 			"batch": "2005",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "School Counselling",
 			"category": "Degree"
 		},
@@ -1220,7 +1285,7 @@
 			"name": "Tenzin Yangka",
 			"gender": "Female",
 			"batch": "2005",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "Science Education",
 			"category": "Degree"
 		},
@@ -1228,7 +1293,7 @@
 			"name": "Sonam Dolker",
 			"gender": "Female",
 			"batch": "2005",
-			"program": "Public Health: Publi",
+			"program": "Public Health",
 			"course": "MPH",
 			"category": "Degree"
 		},
@@ -1236,7 +1301,7 @@
 			"name": "Lhakpa Chodon",
 			"gender": "Female",
 			"batch": "2005",
-			"program": "International Relati",
+			"program": "International Relations",
 			"course": "LLM",
 			"category": "Degree"
 		},
@@ -1252,7 +1317,7 @@
 			"name": "Pema Tenzin",
 			"gender": "Male",
 			"batch": "2005",
-			"program": "Business Administrat",
+			"program": "Business Administration",
 			"course": "Marketing",
 			"category": "Degree"
 		},
@@ -1260,7 +1325,7 @@
 			"name": "Ugyen Wangyal",
 			"gender": "Male",
 			"batch": "2005",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "Education Administration",
 			"category": "Degree"
 		},
@@ -1268,7 +1333,7 @@
 			"name": "Tsering Dhondup",
 			"gender": "Male",
 			"batch": "2005",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "Maths Education",
 			"category": "Degree"
 		},
@@ -1276,7 +1341,7 @@
 			"name": "Tashi Wangchuk",
 			"gender": "Male",
 			"batch": "2005",
-			"program": "Business Administrat",
+			"program": "Business Administration",
 			"course": "Film Production",
 			"category": "Degree"
 		},
@@ -1300,7 +1365,7 @@
 			"name": "Lhamo Tsering",
 			"gender": "Female",
 			"batch": "2005",
-			"program": "International Relati",
+			"program": "International Relations",
 			"course": "Administration Information Tech.",
 			"category": "Non degree"
 		},
@@ -1324,7 +1389,7 @@
 			"name": "Yangchen Dolma",
 			"gender": "Female",
 			"batch": "2005",
-			"program": "Public Health: Publi",
+			"program": "Public Health",
 			"course": "Public Health",
 			"category": "Non degree"
 		},
@@ -1332,7 +1397,7 @@
 			"name": "Tenzin Deckey",
 			"gender": "Female",
 			"batch": "2005",
-			"program": "Public Health: Publi",
+			"program": "Public Health",
 			"course": "Public Administration",
 			"category": "Degree"
 		},
@@ -1348,7 +1413,7 @@
 			"name": "Tenzin Woeser",
 			"gender": "Male",
 			"batch": "2005",
-			"program": "Business Administrat",
+			"program": "Business Administration",
 			"course": "MBA",
 			"category": "Degree"
 		},
@@ -1356,7 +1421,7 @@
 			"name": "Tsamchoe Dolma",
 			"gender": "Female",
 			"batch": "2005",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "TESOL",
 			"category": "Degree"
 		},
@@ -1364,7 +1429,7 @@
 			"name": "Lhakpa Dolma",
 			"gender": "Female",
 			"batch": "2005",
-			"program": "Public Health: Publi",
+			"program": "Public Health",
 			"course": "Public Health",
 			"category": "Degree"
 		},
@@ -1388,7 +1453,7 @@
 			"name": "Pema Choden",
 			"gender": "Female",
 			"batch": "2005",
-			"program": "Business Administrat",
+			"program": "Business Administration",
 			"course": "MBA",
 			"category": "Degree"
 		},
@@ -1404,7 +1469,7 @@
 			"name": "Lobsang Dawa",
 			"gender": "Male",
 			"batch": "2005",
-			"program": "Business Administrat",
+			"program": "Business Administration",
 			"course": "MBA",
 			"category": "Degree"
 		},
@@ -1412,7 +1477,7 @@
 			"name": "Sonam Wangmo",
 			"gender": "Female",
 			"batch": "2005",
-			"program": "International Relati",
+			"program": "International Relations",
 			"course": "International Relations",
 			"category": "Non degree"
 		},
@@ -1420,7 +1485,7 @@
 			"name": "Sherab Dolma",
 			"gender": "Female",
 			"batch": "2005",
-			"program": "Business Administrat",
+			"program": "Business Administration",
 			"course": "Cooperative Management",
 			"category": "Non degree"
 		},
@@ -1428,7 +1493,7 @@
 			"name": "Migmar Tashi",
 			"gender": "Male",
 			"batch": "2005",
-			"program": "Public Health: Publi",
+			"program": "Public Health",
 			"course": "Public Health",
 			"category": "Non degree"
 		},
@@ -1436,7 +1501,7 @@
 			"name": "Kalsang Phuntsok",
 			"gender": "Male",
 			"batch": "2005",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "Teaching of Mathematics",
 			"category": "Non degree"
 		},
@@ -1452,7 +1517,7 @@
 			"name": "Tamding",
 			"gender": "Male",
 			"batch": "2005",
-			"program": "Business Administrat",
+			"program": "Business Administration",
 			"course": "Business Adninistration",
 			"category": "Non degree"
 		},
@@ -1460,7 +1525,7 @@
 			"name": "Dawa Tashi",
 			"gender": "Male",
 			"batch": "2004",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "MA Educational Administration",
 			"category": "Degree"
 		},
@@ -1468,7 +1533,7 @@
 			"name": "Tsering Palmo",
 			"gender": "Female",
 			"batch": "2004",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "MA Special Education",
 			"category": "Degree"
 		},
@@ -1484,7 +1549,7 @@
 			"name": "Norbu Tsering",
 			"gender": "Male",
 			"batch": "2004",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "Educational Administration",
 			"category": "Degree"
 		},
@@ -1492,7 +1557,7 @@
 			"name": "Sonam Dorjee",
 			"gender": "Male",
 			"batch": "2004",
-			"program": "Business Administrat",
+			"program": "Business Administration",
 			"course": "MA Economics",
 			"category": "Degree"
 		},
@@ -1524,7 +1589,7 @@
 			"name": "Tenzin Damdul",
 			"gender": "Male",
 			"batch": "2004",
-			"program": "International Relati",
+			"program": "International Relations",
 			"course": "MA International Relations",
 			"category": "Degree"
 		},
@@ -1532,7 +1597,7 @@
 			"name": "Dr. Ngodup",
 			"gender": "Male",
 			"batch": "2004",
-			"program": "Public Health: Publi",
+			"program": "Public Health",
 			"course": "MPH in Epidemiology",
 			"category": "Degree"
 		},
@@ -1548,7 +1613,7 @@
 			"name": "Dorjee Dolma",
 			"gender": "Female",
 			"batch": "2004",
-			"program": "Public Health: Publi",
+			"program": "Public Health",
 			"course": "Public Administration",
 			"category": "Non degree"
 		},
@@ -1556,7 +1621,7 @@
 			"name": "Penpa Topgyal",
 			"gender": "Male",
 			"batch": "2004",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "School Counselling",
 			"category": "Non degree"
 		},
@@ -1564,7 +1629,7 @@
 			"name": "Lobsang Tsomo",
 			"gender": "Female",
 			"batch": "2004",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "English Literature",
 			"category": "Non degree"
 		},
@@ -1572,7 +1637,7 @@
 			"name": "Tenzin Choegyal",
 			"gender": "Male",
 			"batch": "2004",
-			"program": "Business Administrat",
+			"program": "Business Administration",
 			"course": "Business Management .",
 			"category": "Non degree"
 		},
@@ -1580,7 +1645,7 @@
 			"name": "Dr. Tenzin Londhen",
 			"gender": "Male",
 			"batch": "2003",
-			"program": "Public Health: Publi",
+			"program": "Public Health",
 			"course": "Master in Public Health",
 			"category": "Degree"
 		},
@@ -1588,7 +1653,7 @@
 			"name": "Dorjee Damdul",
 			"gender": "Male",
 			"batch": "2003",
-			"program": "Public Health: Publi",
+			"program": "Public Health",
 			"course": "Master in Public Health",
 			"category": "Degree"
 		},
@@ -1596,7 +1661,7 @@
 			"name": "Phuntsok Gyaltsen",
 			"gender": "Male",
 			"batch": "2003",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "Master of Science",
 			"category": "Degree"
 		},
@@ -1604,7 +1669,7 @@
 			"name": "Kalsang Dolker",
 			"gender": "Female",
 			"batch": "2003",
-			"program": "Business Administrat",
+			"program": "Business Administration",
 			"course": "Master of Business Administration",
 			"category": "Degree"
 		},
@@ -1652,7 +1717,7 @@
 			"name": "Dr.Passang Norbu",
 			"gender": "Male",
 			"batch": "2003",
-			"program": "Public Health: Publi",
+			"program": "Public Health",
 			"course": "Master in Public Health",
 			"category": "Degree"
 		},
@@ -1660,7 +1725,7 @@
 			"name": "Tamding Phuntsok",
 			"gender": "Male",
 			"batch": "2003",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "Mathematics Education",
 			"category": "Non degree"
 		},
@@ -1668,7 +1733,7 @@
 			"name": "Dolma Tsering",
 			"gender": "Female",
 			"batch": "2003",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "Special Education",
 			"category": "Non degree"
 		},
@@ -1676,7 +1741,7 @@
 			"name": "Tsamchoe",
 			"gender": "Female",
 			"batch": "2003",
-			"program": "Public Health: Publi",
+			"program": "Public Health",
 			"course": "Community Health Service",
 			"category": "Non degree"
 		},
@@ -1700,7 +1765,7 @@
 			"name": "Tsering Pema",
 			"gender": "Female",
 			"batch": "2002",
-			"program": "Business Administrat",
+			"program": "Business Administration",
 			"course": "MBA",
 			"category": "Degree"
 		},
@@ -1708,7 +1773,7 @@
 			"name": "Tsetan Lhamo",
 			"gender": "Female",
 			"batch": "2002",
-			"program": "International Relati",
+			"program": "International Relations",
 			"course": "MPA",
 			"category": "Degree"
 		},
@@ -1716,7 +1781,7 @@
 			"name": "Tsering Topgyal",
 			"gender": "Male",
 			"batch": "2002",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "M.A",
 			"category": "Degree"
 		},
@@ -1724,7 +1789,7 @@
 			"name": "Lhundup Passang",
 			"gender": "Male",
 			"batch": "2002",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "M.A",
 			"category": "Degree"
 		},
@@ -1732,7 +1797,7 @@
 			"name": "Karma Lodoe",
 			"gender": "Male",
 			"batch": "2002",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "M.A",
 			"category": "Degree"
 		},
@@ -1740,7 +1805,7 @@
 			"name": "Dr. Namgyal Lhawang Kyulo",
 			"gender": "Male",
 			"batch": "2002",
-			"program": "Public Health: Publi",
+			"program": "Public Health",
 			"course": "MPH",
 			"category": "Degree"
 		},
@@ -1748,7 +1813,7 @@
 			"name": "Dechen Wangmo",
 			"gender": "Female",
 			"batch": "2002",
-			"program": "Business Administrat",
+			"program": "Business Administration",
 			"course": "MBA",
 			"category": "Degree"
 		},
@@ -1764,7 +1829,7 @@
 			"name": "Dorjee Damdul",
 			"gender": "Male",
 			"batch": "2002",
-			"program": "Business Administrat",
+			"program": "Business Administration",
 			"course": "MBA in marketing",
 			"category": "Degree"
 		},
@@ -1772,7 +1837,7 @@
 			"name": "Dugyal Tsering",
 			"gender": "Male",
 			"batch": "2002",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "M.A in education and Mathematics",
 			"category": "Degree"
 		},
@@ -1796,7 +1861,7 @@
 			"name": "Sangay Chodon",
 			"gender": "Female",
 			"batch": "2002",
-			"program": "Public Health: Publi",
+			"program": "Public Health",
 			"course": "Nursing",
 			"category": "Non degree"
 		},
@@ -1804,7 +1869,7 @@
 			"name": "Sonam Dolker",
 			"gender": "Female",
 			"batch": "2002",
-			"program": "Public Health: Publi",
+			"program": "Public Health",
 			"course": "Nursing",
 			"category": "Non degree"
 		},
@@ -1812,7 +1877,7 @@
 			"name": "Tenzin Choedon",
 			"gender": "Female",
 			"batch": "2002",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "English & Dance",
 			"category": "Non degree"
 		},
@@ -1820,7 +1885,7 @@
 			"name": "Passang Lhamo",
 			"gender": "Female",
 			"batch": "2002",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "English & Dance",
 			"category": "Non degree"
 		},
@@ -1844,7 +1909,7 @@
 			"name": "Pema Yangchen",
 			"gender": "Female",
 			"batch": "2002",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "Teaching of English",
 			"category": "Non degree"
 		},
@@ -1860,7 +1925,7 @@
 			"name": "Kargyu Dhundup",
 			"gender": "Male",
 			"batch": "2002",
-			"program": "Business Administrat",
+			"program": "Business Administration",
 			"course": "Auditing",
 			"category": "Non degree"
 		},
@@ -1876,7 +1941,7 @@
 			"name": "Dr. Migmar",
 			"gender": "Male",
 			"batch": "2001",
-			"program": "Public Health: Publi",
+			"program": "Public Health",
 			"course": "MPH Public Health",
 			"category": "Degree"
 		},
@@ -1900,7 +1965,7 @@
 			"name": "Rinchen",
 			"gender": "Male",
 			"batch": "2001",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "MA coomputer ediucation",
 			"category": "Degree"
 		},
@@ -1916,7 +1981,7 @@
 			"name": "Dokar Wamgmo",
 			"gender": "Female",
 			"batch": "2001",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "M.Ed Career Counselling",
 			"category": "Degree"
 		},
@@ -1924,7 +1989,7 @@
 			"name": "Tenzin Dekyi",
 			"gender": "Female",
 			"batch": "2001",
-			"program": "Business Administrat",
+			"program": "Business Administration",
 			"course": "MBA HRD",
 			"category": "Degree"
 		},
@@ -1932,7 +1997,7 @@
 			"name": "Pema Choephel",
 			"gender": "Male",
 			"batch": "2001",
-			"program": "Business Administrat",
+			"program": "Business Administration",
 			"course": "MBA Financial marketing",
 			"category": "Degree"
 		},
@@ -1940,7 +2005,7 @@
 			"name": "Tsering Palden",
 			"gender": "Male",
 			"batch": "2001",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "M.Ed.Maths",
 			"category": "Degree"
 		},
@@ -1948,7 +2013,7 @@
 			"name": "Karma S. Gyaltsen",
 			"gender": "Male",
 			"batch": "2001",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "Cert.English edu.",
 			"category": "Degree"
 		},
@@ -1956,7 +2021,7 @@
 			"name": "Tashi Tsering",
 			"gender": "Male",
 			"batch": "2001",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "Cert. Fine arts",
 			"category": "Degree"
 		},
@@ -1964,7 +2029,7 @@
 			"name": "Bava Damdul",
 			"gender": "Male",
 			"batch": "2001",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "Certificate in school Administration",
 			"category": "Non degree"
 		},
@@ -1972,7 +2037,7 @@
 			"name": "Lobsang Dhondup",
 			"gender": "Male",
 			"batch": "2001",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "Certificate in Mathematic education",
 			"category": "Non degree"
 		},
@@ -1980,7 +2045,7 @@
 			"name": "Phurbu Dorjee",
 			"gender": "Male",
 			"batch": "2001",
-			"program": "International Relati",
+			"program": "International Relations",
 			"course": "LLM",
 			"category": "Non degree"
 		},
@@ -1988,15 +2053,15 @@
 			"name": "Ngawang",
 			"gender": "Male",
 			"batch": "2001",
-			"program": "International Relati",
-			"course": "Certificate in International relations",
+			"program": "International Relations",
+			"course": "Certificate in International Relations",
 			"category": "Non degree"
 		},
 		{
 			"name": "Ugyen Tsering",
 			"gender": "Male",
 			"batch": "2001",
-			"program": "Business Administrat",
+			"program": "Business Administration",
 			"course": "Certificate in financial management",
 			"category": "Non degree"
 		},
@@ -2004,7 +2069,7 @@
 			"name": "Tsetan Dhargyal",
 			"gender": "Male",
 			"batch": "2001",
-			"program": "Business Administrat",
+			"program": "Business Administration",
 			"course": "Hotel Management",
 			"category": "Non degree"
 		},
@@ -2012,7 +2077,7 @@
 			"name": "Sonam Tsewang",
 			"gender": "Male",
 			"batch": "2001",
-			"program": "Business Administrat",
+			"program": "Business Administration",
 			"course": "Hotel Management",
 			"category": "Non degree"
 		},
@@ -2076,7 +2141,7 @@
 			"name": "Dawa Gyaltsen",
 			"gender": "Male",
 			"batch": "2000",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "Masters in career counselling",
 			"category": "Non degree"
 		},
@@ -2084,7 +2149,7 @@
 			"name": "Sonam Phuntsok",
 			"gender": "Male",
 			"batch": "2000",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "M.Ed Career Counselling",
 			"category": "Degree"
 		},
@@ -2092,7 +2157,7 @@
 			"name": "Dawa Norbu",
 			"gender": "Male",
 			"batch": "2000",
-			"program": "Business Administrat",
+			"program": "Business Administration",
 			"course": "MA financial mgt.",
 			"category": "Degree"
 		},
@@ -2100,7 +2165,7 @@
 			"name": "Tenzin Dolma",
 			"gender": "Female",
 			"batch": "2000",
-			"program": "Public Health: Publi",
+			"program": "Public Health",
 			"course": "M.S.Nursing",
 			"category": "Degree"
 		},
@@ -2108,7 +2173,7 @@
 			"name": "Tselha Namdol",
 			"gender": "Female",
 			"batch": "2000",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "MA teaching eng",
 			"category": "Degree"
 		},
@@ -2116,7 +2181,7 @@
 			"name": "Jamyang Dorjee",
 			"gender": "Male",
 			"batch": "2000",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "M.S teaching bio.",
 			"category": "Degree"
 		},
@@ -2124,7 +2189,7 @@
 			"name": "Pema Lhakey",
 			"gender": "Female",
 			"batch": "2000",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "M.Ed Maths edu.",
 			"category": "Degree"
 		},
@@ -2132,7 +2197,7 @@
 			"name": "Phuntsok",
 			"gender": "Male",
 			"batch": "2000",
-			"program": "Business Administrat",
+			"program": "Business Administration",
 			"course": "MA economic/sustainabl e development",
 			"category": "Degree"
 		},
@@ -2140,7 +2205,7 @@
 			"name": "Namgyal Chokdrup",
 			"gender": "Male",
 			"batch": "2000",
-			"program": "Business Administrat",
+			"program": "Business Administration",
 			"course": "MA economic/sustainabl e development",
 			"category": "Degree"
 		},
@@ -2148,7 +2213,7 @@
 			"name": "Tenzin Dolma",
 			"gender": "Female",
 			"batch": "2000",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "M.Ed Career Counselling",
 			"category": "Degree"
 		},
@@ -2156,7 +2221,7 @@
 			"name": "Pema Yangdon",
 			"gender": "Female",
 			"batch": "2000",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "Cert.special edu.",
 			"category": "Non degree"
 		},
@@ -2164,7 +2229,7 @@
 			"name": "Tsering Topgyal",
 			"gender": "Male",
 			"batch": "2000",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "Cert.sch.Organi.",
 			"category": "Non degree"
 		},
@@ -2172,7 +2237,7 @@
 			"name": "Tenzin Dawa",
 			"gender": "Male",
 			"batch": "2000",
-			"program": "International Relati",
+			"program": "International Relations",
 			"course": "",
 			"category": "Non degree"
 		},
@@ -2180,7 +2245,7 @@
 			"name": "Sonam Rinchen",
 			"gender": "Female",
 			"batch": "2000",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "Cert.career councelling",
 			"category": "Non degree"
 		},
@@ -2188,7 +2253,7 @@
 			"name": "Masood Butt",
 			"gender": "Male",
 			"batch": "2000",
-			"program": "International Relati",
+			"program": "International Relations",
 			"course": "InternationalRelations",
 			"category": "Non degree"
 		},
@@ -2220,7 +2285,7 @@
 			"name": "Sonam Palmo",
 			"gender": "Female",
 			"batch": "2000",
-			"program": "Public Health: Publi",
+			"program": "Public Health",
 			"course": "Nursing",
 			"category": "Non degree"
 		},
@@ -2228,7 +2293,7 @@
 			"name": "Sonam Chokey",
 			"gender": "Female",
 			"batch": "2000",
-			"program": "Public Health: Publi",
+			"program": "Public Health",
 			"course": "Nursing",
 			"category": "Non degree"
 		},
@@ -2236,7 +2301,7 @@
 			"name": "Nangsa Chodon",
 			"gender": "Female",
 			"batch": "1999",
-			"program": "International Relati",
+			"program": "International Relations",
 			"course": "IPA",
 			"category": "Degree"
 		},
@@ -2244,7 +2309,7 @@
 			"name": "Kalsang Phuntsok",
 			"gender": "Male",
 			"batch": "1999",
-			"program": "International Relati",
+			"program": "International Relations",
 			"course": "HRD",
 			"category": "Degree"
 		},
@@ -2276,7 +2341,7 @@
 			"name": "Bumo Tsering Yeshi",
 			"gender": "Female",
 			"batch": "1999",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "Sch.adm./science teaching",
 			"category": "Degree"
 		},
@@ -2292,7 +2357,7 @@
 			"name": "Dechen Chodon",
 			"gender": "Female",
 			"batch": "1999",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "TESOL",
 			"category": "Degree"
 		},
@@ -2308,7 +2373,7 @@
 			"name": "Dhondup Dorjee",
 			"gender": "Male",
 			"batch": "1999",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "Cert.school sdm.",
 			"category": "Non degree"
 		},
@@ -2316,7 +2381,7 @@
 			"name": "Ngodup Dorjee",
 			"gender": "Male",
 			"batch": "1999",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "Cert.school sdm.",
 			"category": "Non degree"
 		},
@@ -2324,7 +2389,7 @@
 			"name": "Pema Topgyal",
 			"gender": "Male",
 			"batch": "1999",
-			"program": "Business Administrat",
+			"program": "Business Administration",
 			"course": "Cert.export mgt.",
 			"category": "Non degree"
 		},
@@ -2332,7 +2397,7 @@
 			"name": "Konchok Tsering",
 			"gender": "Male",
 			"batch": "1999",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "Cert.career councelling",
 			"category": "Non degree"
 		},
@@ -2340,7 +2405,7 @@
 			"name": "Yeshi Dolker",
 			"gender": "Female",
 			"batch": "1999",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "Cert.Eng.Edu.",
 			"category": "Non degree"
 		},
@@ -2348,7 +2413,7 @@
 			"name": "Tsewang Phuntso",
 			"gender": "Male",
 			"batch": "1998",
-			"program": "International Relati",
+			"program": "International Relations",
 			"course": "",
 			"category": "Degree"
 		},
@@ -2364,7 +2429,7 @@
 			"name": "Youdon Aukatsang",
 			"gender": "Female",
 			"batch": "1998",
-			"program": "International Relati",
+			"program": "International Relations",
 			"course": "",
 			"category": "Degree"
 		},
@@ -2372,7 +2437,7 @@
 			"name": "Tenzin Phuntsok Atisha",
 			"gender": "Male",
 			"batch": "1998",
-			"program": "International Relati",
+			"program": "International Relations",
 			"course": "",
 			"category": "Degree"
 		},
@@ -2396,7 +2461,7 @@
 			"name": "Ngodup Tsering",
 			"gender": "Male",
 			"batch": "1998",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "M.ED school Adm",
 			"category": "Degree"
 		},
@@ -2404,7 +2469,7 @@
 			"name": "Gompo Tsering",
 			"gender": "Male",
 			"batch": "1998",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "M.Ed child psych",
 			"category": "Degree"
 		},
@@ -2420,7 +2485,7 @@
 			"name": "Tashi Lhamo Rubling",
 			"gender": "Female",
 			"batch": "1998",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "English",
 			"category": "Non degree"
 		},
@@ -2428,7 +2493,7 @@
 			"name": "Kalsang Youdon Dagpo",
 			"gender": "Female",
 			"batch": "1998",
-			"program": "Public Health: Publi",
+			"program": "Public Health",
 			"course": "Public health",
 			"category": "Non degree"
 		},
@@ -2436,7 +2501,7 @@
 			"name": "Thupten Chodak",
 			"gender": "Male",
 			"batch": "1998",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "Master in Edu.leadership & technology",
 			"category": "Non degree"
 		},
@@ -2444,7 +2509,7 @@
 			"name": "Tenzin Losal",
 			"gender": "Male",
 			"batch": "1998",
-			"program": "Business Administrat",
+			"program": "Business Administration",
 			"course": "MBA marketing",
 			"category": "Degree"
 		},
@@ -2452,7 +2517,7 @@
 			"name": "Dr. Lobsang Tsering",
 			"gender": "Male",
 			"batch": "1997",
-			"program": "Public Health: Publi",
+			"program": "Public Health",
 			"course": "MPH Public Health",
 			"category": "Degree"
 		},
@@ -2460,7 +2525,7 @@
 			"name": "Choeying",
 			"gender": "Female",
 			"batch": "1997",
-			"program": "Business Administrat",
+			"program": "Business Administration",
 			"course": "Accounting",
 			"category": "Degree"
 		},
@@ -2468,7 +2533,7 @@
 			"name": "Lobsang Tsering",
 			"gender": "Male",
 			"batch": "1997",
-			"program": "Business Administrat",
+			"program": "Business Administration",
 			"course": "MA Economics",
 			"category": "Degree"
 		},
@@ -2484,8 +2549,8 @@
 			"name": "Tsewang Tamdin",
 			"gender": "Male",
 			"batch": "1997",
-			"program": "Business Administrat",
-			"course": "MBA Business Mgt",
+			"program": "Business Administration",
+			"course": "MBA Business Management",
 			"category": "Degree"
 		},
 		{
@@ -2500,7 +2565,7 @@
 			"name": "Tenzin Norbu",
 			"gender": "Male",
 			"batch": "1997",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "English as second language",
 			"category": "Non degree"
 		},
@@ -2508,7 +2573,7 @@
 			"name": "Norbu Tsering",
 			"gender": "Male",
 			"batch": "1997",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "School adm.",
 			"category": "Non degree"
 		},
@@ -2516,7 +2581,7 @@
 			"name": "Tsering Phuntsok",
 			"gender": "Male",
 			"batch": "1997",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "School adm.",
 			"category": "Non degree"
 		},
@@ -2532,7 +2597,7 @@
 			"name": "Gompo Phuntsok",
 			"gender": "Male",
 			"batch": "1997",
-			"program": "Business Administrat",
+			"program": "Business Administration",
 			"course": "Business export",
 			"category": "Non degree"
 		},
@@ -2564,7 +2629,7 @@
 			"name": "Ngodup Tsering",
 			"gender": "Male",
 			"batch": "1996",
-			"program": "International Relati",
+			"program": "International Relations",
 			"course": "Personnel Mgt.",
 			"category": "Non degree"
 		},
@@ -2580,7 +2645,7 @@
 			"name": "Dawa Bhuti",
 			"gender": "Female",
 			"batch": "1996",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "M.Ed biology",
 			"category": "Degree"
 		},
@@ -2588,7 +2653,7 @@
 			"name": "Yeshi Chodon",
 			"gender": "Female",
 			"batch": "1996",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "M.Ed",
 			"category": "Degree"
 		},
@@ -2596,15 +2661,15 @@
 			"name": "Phuntsok Namgyal",
 			"gender": "Male",
 			"batch": "1996",
-			"program": "Education: Science E",
-			"course": "School org& adm.",
+			"program": "Science Education",
+			"course": "School org & adm.",
 			"category": "Degree"
 		},
 		{
 			"name": "Tenzin Sangpo",
 			"gender": "Male",
 			"batch": "1996",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "English Edu.",
 			"category": "Degree"
 		},
@@ -2612,7 +2677,7 @@
 			"name": "Karma T. Ngodup",
 			"gender": "Male",
 			"batch": "1996",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "Education Adm",
 			"category": "Degree"
 		},
@@ -2620,7 +2685,7 @@
 			"name": "Tashi Dhondup",
 			"gender": "Male",
 			"batch": "1996",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "Education Adm",
 			"category": "Degree"
 		},
@@ -2628,7 +2693,7 @@
 			"name": "Wangdu",
 			"gender": "Male",
 			"batch": "1996",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "Sceince education",
 			"category": "Degree"
 		},
@@ -2644,7 +2709,7 @@
 			"name": "Tenzin Choephel",
 			"gender": "Male",
 			"batch": "1996",
-			"program": "International Relati",
+			"program": "International Relations",
 			"course": "MA pub.adm Intl.",
 			"category": "Degree"
 		},
@@ -2652,7 +2717,7 @@
 			"name": "Tsering Paldon",
 			"gender": "Female",
 			"batch": "1996",
-			"program": "Public Health: Publi",
+			"program": "Public Health",
 			"course": "Comm.Health",
 			"category": "Degree"
 		},
@@ -2660,7 +2725,7 @@
 			"name": "Sonam Chodon",
 			"gender": "Female",
 			"batch": "1996",
-			"program": "Public Health: Publi",
+			"program": "Public Health",
 			"course": "Pre-Med science",
 			"category": "Degree"
 		},
@@ -2668,7 +2733,7 @@
 			"name": "Karma Sither",
 			"gender": "Male",
 			"batch": "1996",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "School adm",
 			"category": "Non degree"
 		},
@@ -2676,7 +2741,7 @@
 			"name": "Lobsang Yonten",
 			"gender": "Male",
 			"batch": "1996",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "Cert.in English lang.",
 			"category": "Non degree"
 		},
@@ -2684,7 +2749,7 @@
 			"name": "Lobsang Sangay",
 			"gender": "Male",
 			"batch": "1996",
-			"program": "International Relati",
+			"program": "International Relations",
 			"course": "LLM",
 			"category": "Degree"
 		},
@@ -2692,7 +2757,7 @@
 			"name": "Lobsang Dorjee",
 			"gender": "Male",
 			"batch": "1996",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "Cert.Edu.adm",
 			"category": "Non degree"
 		},
@@ -2700,7 +2765,7 @@
 			"name": "Dhondup Dorjee",
 			"gender": "Male",
 			"batch": "1996",
-			"program": "International Relati",
+			"program": "International Relations",
 			"course": "Cert.pub.adm& personnel mgt.",
 			"category": "Non degree"
 		},
@@ -2708,7 +2773,7 @@
 			"name": "Thupten Dorjee",
 			"gender": "Male",
 			"batch": "1996",
-			"program": "International Relati",
+			"program": "International Relations",
 			"course": "Cert.pub.adm& personnel mgt.",
 			"category": "Non degree"
 		},
@@ -2724,7 +2789,7 @@
 			"name": "Gyatso Tsering",
 			"gender": "Male",
 			"batch": "1996",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "Cert.Edu.adm",
 			"category": "Non degree"
 		},
@@ -2740,7 +2805,7 @@
 			"name": "Pema Gyaltsen",
 			"gender": "Male",
 			"batch": "1995",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "M.Ed Maths & Computer",
 			"category": "Degree"
 		},
@@ -2748,7 +2813,7 @@
 			"name": "Lobsang Tashi",
 			"gender": "Male",
 			"batch": "1995",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "M.Ed teaching English",
 			"category": "Degree"
 		},
@@ -2756,7 +2821,7 @@
 			"name": "Namgyal Dorjee",
 			"gender": "Male",
 			"batch": "1995",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "M.Ed Career Counselling",
 			"category": "Degree"
 		},
@@ -2764,7 +2829,7 @@
 			"name": "Kalsang Norbu",
 			"gender": "Male",
 			"batch": "1995",
-			"program": "Public Health: Publi",
+			"program": "Public Health",
 			"course": "M.A.Public Health",
 			"category": "Degree"
 		},
@@ -2772,7 +2837,7 @@
 			"name": "Karma Tensum",
 			"gender": "Male",
 			"batch": "1995",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "M.ED school Adm",
 			"category": "Non degree"
 		},
@@ -2780,7 +2845,7 @@
 			"name": "Tsewang Yeshi",
 			"gender": "Male",
 			"batch": "1995",
-			"program": "International Relati",
+			"program": "International Relations",
 			"course": "Administration",
 			"category": "Non degree"
 		},
@@ -2788,7 +2853,7 @@
 			"name": "Tenpa Samkhar",
 			"gender": "Male",
 			"batch": "1995",
-			"program": "International Relati",
+			"program": "International Relations",
 			"course": "",
 			"category": "Non degree"
 		},
@@ -2796,7 +2861,7 @@
 			"name": "Ngawang Choephel",
 			"gender": "Male",
 			"batch": "1995",
-			"program": "International Relati",
+			"program": "International Relations",
 			"course": "",
 			"category": "Non degree"
 		},
@@ -2804,7 +2869,7 @@
 			"name": "Tsering Phuntsok",
 			"gender": "Male",
 			"batch": "1995",
-			"program": "International Relati",
+			"program": "International Relations",
 			"course": "Pub.Adm.",
 			"category": "Non degree"
 		},
@@ -2812,7 +2877,7 @@
 			"name": "D.N.Choedak",
 			"gender": "Male",
 			"batch": "1995",
-			"program": "International Relati",
+			"program": "International Relations",
 			"course": "Pub.Adm.",
 			"category": "Non degree"
 		},
@@ -2820,7 +2885,7 @@
 			"name": "Kunchok Pelgye",
 			"gender": "Male",
 			"batch": "1995",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "Education Adm",
 			"category": "Non degree"
 		},
@@ -2828,7 +2893,7 @@
 			"name": "Nawang Tsultrim",
 			"gender": "Male",
 			"batch": "1995",
-			"program": "International Relati",
+			"program": "International Relations",
 			"course": "Cert.in adm.",
 			"category": "Non degree"
 		},
@@ -2836,7 +2901,7 @@
 			"name": "Dawa Shonu",
 			"gender": "Male",
 			"batch": "1995",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "M.ED school Adm",
 			"category": "Non degree"
 		},
@@ -2844,7 +2909,7 @@
 			"name": "Lobsang Yeshi",
 			"gender": "Male",
 			"batch": "1995",
-			"program": "International Relati",
+			"program": "International Relations",
 			"course": "",
 			"category": "Degree"
 		},
@@ -2852,7 +2917,7 @@
 			"name": "Lhawang Ngodup",
 			"gender": "Male",
 			"batch": "1995",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "Edu.guidance andcounselling",
 			"category": "Non degree"
 		},
@@ -2860,7 +2925,7 @@
 			"name": "Pema Wangdak",
 			"gender": "Male",
 			"batch": "1994",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "2nd B.S Chemistry",
 			"category": "Degree"
 		},
@@ -2868,7 +2933,7 @@
 			"name": "Tenzin Dhampa Sharchok",
 			"gender": "Male",
 			"batch": "1994",
-			"program": "Business Administrat",
+			"program": "Business Administration",
 			"course": "MBA Finance",
 			"category": "Degree"
 		},
@@ -2876,7 +2941,7 @@
 			"name": "Yarphel Ghani",
 			"gender": "Male",
 			"batch": "1994",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "M.ED school Adm",
 			"category": "Degree"
 		},
@@ -2908,7 +2973,7 @@
 			"name": "Tsetan Dorjee",
 			"gender": "Male",
 			"batch": "1994",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "Maths education",
 			"category": "Degree"
 		},
@@ -2916,7 +2981,7 @@
 			"name": "Tsering Wangyal",
 			"gender": "Male",
 			"batch": "1994",
-			"program": "Business Administrat",
+			"program": "Business Administration",
 			"course": "MBA Bussiness",
 			"category": "Degree"
 		},
@@ -2924,7 +2989,7 @@
 			"name": "Tenzin Kongtsa",
 			"gender": "Male",
 			"batch": "1994",
-			"program": "Business Administrat",
+			"program": "Business Administration",
 			"course": "Hotel.Mgt",
 			"category": "Degree"
 		},
@@ -2940,7 +3005,7 @@
 			"name": "Pema Tsewang",
 			"gender": "Male",
 			"batch": "1994",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "Tibetan History",
 			"category": "Degree"
 		},
@@ -2948,7 +3013,7 @@
 			"name": "Tsering Dhondup",
 			"gender": "Male",
 			"batch": "1994",
-			"program": "Business Administrat",
+			"program": "Business Administration",
 			"course": "Bussiness Mgt.",
 			"category": "Non degree"
 		},
@@ -2956,7 +3021,7 @@
 			"name": "Tsering Lhamo",
 			"gender": "Female",
 			"batch": "1994",
-			"program": "Public Health: Publi",
+			"program": "Public Health",
 			"course": "Public & comm.health",
 			"category": "Non degree"
 		},
@@ -2964,7 +3029,7 @@
 			"name": "Tsering Paldon",
 			"gender": "Female",
 			"batch": "1994",
-			"program": "Public Health: Publi",
+			"program": "Public Health",
 			"course": "Public & comm.health",
 			"category": "Non degree"
 		},
@@ -2972,7 +3037,7 @@
 			"name": "Tsering Wangmo",
 			"gender": "Female",
 			"batch": "1994",
-			"program": "Public Health: Publi",
+			"program": "Public Health",
 			"course": "Public & comm.health",
 			"category": "Non degree"
 		},
@@ -2980,7 +3045,7 @@
 			"name": "Dechen Tsomo",
 			"gender": "Female",
 			"batch": "1994",
-			"program": "Public Health: Publi",
+			"program": "Public Health",
 			"course": "Nursing",
 			"category": "Non degree"
 		},
@@ -2988,7 +3053,7 @@
 			"name": "Tsering Dhondup",
 			"gender": "Male",
 			"batch": "1994",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "School Adm",
 			"category": "Non degree"
 		},
@@ -2996,7 +3061,7 @@
 			"name": "Sonam N.Dagpo",
 			"gender": "Male",
 			"batch": "1994",
-			"program": "Public Health: Publi",
+			"program": "Public Health",
 			"course": "MA govt & Public adm",
 			"category": "Non degree"
 		},
@@ -3004,7 +3069,7 @@
 			"name": "Kunjo Tashi",
 			"gender": "Male",
 			"batch": "1994",
-			"program": "International Relati",
+			"program": "International Relations",
 			"course": "Pub.Adm.",
 			"category": "Non degree"
 		},
@@ -3012,7 +3077,7 @@
 			"name": "Sonam Passang",
 			"gender": "Male",
 			"batch": "1994",
-			"program": "International Relati",
+			"program": "International Relations",
 			"course": "Pub.Adm.",
 			"category": "Non degree"
 		},
@@ -3028,7 +3093,7 @@
 			"name": "Dorjee Kunthup",
 			"gender": "Male",
 			"batch": "1994",
-			"program": "International Relati",
+			"program": "International Relations",
 			"course": "Pub.Adm.",
 			"category": "Non degree"
 		},
@@ -3036,7 +3101,7 @@
 			"name": "Ngawang Choephel",
 			"gender": "Male",
 			"batch": "1994",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "Dance & Music",
 			"category": "Non degree"
 		},
@@ -3044,7 +3109,7 @@
 			"name": "Sonam Phuntsok",
 			"gender": "Male",
 			"batch": "1994",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "Dance & Music",
 			"category": "Non degree"
 		},
@@ -3052,7 +3117,7 @@
 			"name": "Yonten Chophel",
 			"gender": "Male",
 			"batch": "1994",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "Dance & Music",
 			"category": "Non degree"
 		},
@@ -3060,7 +3125,7 @@
 			"name": "Tenzin Dolma",
 			"gender": "Female",
 			"batch": "1993",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "M.Ed",
 			"category": "Degree"
 		},
@@ -3076,7 +3141,7 @@
 			"name": "Tsultrim Chomphel",
 			"gender": "Male",
 			"batch": "1993",
-			"program": "Business Administrat",
+			"program": "Business Administration",
 			"course": "MBA Bussiness Adm",
 			"category": "Degree"
 		},
@@ -3084,7 +3149,7 @@
 			"name": "Dhondup Samten",
 			"gender": "Male",
 			"batch": "1993",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "M.Ed",
 			"category": "Degree"
 		},
@@ -3092,7 +3157,7 @@
 			"name": "Tenzin Tsetan",
 			"gender": "Male",
 			"batch": "1993",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "2nd B.S Chemistry",
 			"category": "Degree"
 		},
@@ -3100,7 +3165,7 @@
 			"name": "Tsering Dorjee",
 			"gender": "Male",
 			"batch": "1993",
-			"program": "Business Administrat",
+			"program": "Business Administration",
 			"course": "2nd BA Economics",
 			"category": "Degree"
 		},
@@ -3108,7 +3173,7 @@
 			"name": "Tenzin",
 			"gender": "Male",
 			"batch": "1993",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "English as secong language",
 			"category": "Degree"
 		},
@@ -3116,7 +3181,7 @@
 			"name": "Rigzin Choephel",
 			"gender": "Male",
 			"batch": "1993",
-			"program": "Business Administrat",
+			"program": "Business Administration",
 			"course": "Accounting",
 			"category": "Non degree"
 		},
@@ -3124,7 +3189,7 @@
 			"name": "Lobsang Wangchuk",
 			"gender": "Male",
 			"batch": "1993",
-			"program": "International Relati",
+			"program": "International Relations",
 			"course": "Peronal Mgt",
 			"category": "Non degree"
 		},
@@ -3132,7 +3197,7 @@
 			"name": "Ugyen Tsering",
 			"gender": "Male",
 			"batch": "1993",
-			"program": "Business Administrat",
+			"program": "Business Administration",
 			"course": "Economic Dev.",
 			"category": "Non degree"
 		},
@@ -3148,7 +3213,7 @@
 			"name": "Pema Tsultrim",
 			"gender": "Male",
 			"batch": "1993",
-			"program": "Business Administrat",
+			"program": "Business Administration",
 			"course": "Bussiness Adm.",
 			"category": "Non degree"
 		},
@@ -3156,7 +3221,7 @@
 			"name": "Phurbu Sither",
 			"gender": "Male",
 			"batch": "1993",
-			"program": "Public Health: Publi",
+			"program": "Public Health",
 			"course": "Public Adm.",
 			"category": "Non degree"
 		},
@@ -3172,7 +3237,7 @@
 			"name": "Karma Dorjee",
 			"gender": "Male",
 			"batch": "1993",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "M.ED School Adm",
 			"category": "Degree"
 		},
@@ -3180,7 +3245,7 @@
 			"name": "Tenzin Donyo",
 			"gender": "Male",
 			"batch": "1992",
-			"program": "Business Administrat",
+			"program": "Business Administration",
 			"course": "MBA",
 			"category": "Degree"
 		},
@@ -3188,7 +3253,7 @@
 			"name": "Passang Lhawang",
 			"gender": "Male",
 			"batch": "1992",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "M.Ed",
 			"category": "Degree"
 		},
@@ -3196,7 +3261,7 @@
 			"name": "Tsewang Migyur Khangsar",
 			"gender": "Male",
 			"batch": "1992",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "M.Ed",
 			"category": "Degree"
 		},
@@ -3212,7 +3277,7 @@
 			"name": "Namgyal Choedak",
 			"gender": "Male",
 			"batch": "1992",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "B.A Education",
 			"category": "Degree"
 		},
@@ -3220,7 +3285,7 @@
 			"name": "Norbu Sangpo",
 			"gender": "Male",
 			"batch": "1992",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "B.A Education",
 			"category": "Degree"
 		},
@@ -3236,7 +3301,7 @@
 			"name": "Wangchuk Tsering",
 			"gender": "Male",
 			"batch": "1992",
-			"program": "International Relati",
+			"program": "International Relations",
 			"course": "Peronal Mgt",
 			"category": "Non degree"
 		},
@@ -3244,7 +3309,7 @@
 			"name": "Sonam Topgyal",
 			"gender": "Male",
 			"batch": "1992",
-			"program": "Business Administrat",
+			"program": "Business Administration",
 			"course": "M.A.Economic Planning",
 			"category": "Non degree"
 		},
@@ -3252,7 +3317,7 @@
 			"name": "Sonam Norbu",
 			"gender": "Male",
 			"batch": "1992",
-			"program": "Public Health: Publi",
+			"program": "Public Health",
 			"course": "Public Adm.",
 			"category": "Non degree"
 		},
@@ -3260,7 +3325,7 @@
 			"name": "Sonam Choephel",
 			"gender": "Male",
 			"batch": "1992",
-			"program": "Public Health: Publi",
+			"program": "Public Health",
 			"course": "Public Adm.",
 			"category": "Non degree"
 		},
@@ -3268,7 +3333,7 @@
 			"name": "Lobsang Ngawang",
 			"gender": "Male",
 			"batch": "1992",
-			"program": "Public Health: Publi",
+			"program": "Public Health",
 			"course": "Public Adm.",
 			"category": "Non degree"
 		},
@@ -3276,7 +3341,7 @@
 			"name": "Tashi Rikka",
 			"gender": "Male",
 			"batch": "1991",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "M.Ed",
 			"category": "Degree"
 		},
@@ -3308,7 +3373,7 @@
 			"name": "Tsewang Ngodup",
 			"gender": "Male",
 			"batch": "1991",
-			"program": "Public Health: Publi",
+			"program": "Public Health",
 			"course": "Eng & Public Administration",
 			"category": "Non degree"
 		},
@@ -3316,7 +3381,7 @@
 			"name": "Tsetan Dorjee Sadhustang",
 			"gender": "Male",
 			"batch": "1991",
-			"program": "Public Health: Publi",
+			"program": "Public Health",
 			"course": "MA in Public Health",
 			"category": "Non degree"
 		},
@@ -3324,7 +3389,7 @@
 			"name": "Nawang Dorjee",
 			"gender": "Male",
 			"batch": "1991",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "M.Ed",
 			"category": "Degree"
 		},
@@ -3340,7 +3405,7 @@
 			"name": "Jampal Chosang",
 			"gender": "Male",
 			"batch": "1990",
-			"program": "International Relati",
+			"program": "International Relations",
 			"course": "MA Pol.Science",
 			"category": "Degree"
 		},
@@ -3348,7 +3413,7 @@
 			"name": "Lhundup Tsering",
 			"gender": "Male",
 			"batch": "1990",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "BA Humanities",
 			"category": "Degree"
 		},
@@ -3364,7 +3429,7 @@
 			"name": "Migyur Samkhar",
 			"gender": "Male",
 			"batch": "1990",
-			"program": "International Relati",
+			"program": "International Relations",
 			"course": "MA Pol. Science",
 			"category": "Degree"
 		},
@@ -3372,7 +3437,7 @@
 			"name": "Lhundup Dorjee",
 			"gender": "Male",
 			"batch": "1990",
-			"program": "Business Administrat",
+			"program": "Business Administration",
 			"course": "MA in Business",
 			"category": "Degree"
 		},
@@ -3380,7 +3445,7 @@
 			"name": "Thondup Tsering",
 			"gender": "Male",
 			"batch": "1990",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "M.Ed",
 			"category": "Degree"
 		},
@@ -3388,7 +3453,7 @@
 			"name": "Dhondup Namgyal",
 			"gender": "Male",
 			"batch": "1990",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "M.Ed",
 			"category": "Degree"
 		},
@@ -3404,7 +3469,7 @@
 			"name": "Migyur Dorjee",
 			"gender": "Male",
 			"batch": "1990",
-			"program": "Public Health: Publi",
+			"program": "Public Health",
 			"course": "Training in Public Adm",
 			"category": "6 Months"
 		},
@@ -3412,7 +3477,7 @@
 			"name": "Tashi Gyaltsen",
 			"gender": "Male",
 			"batch": "1990",
-			"program": "Public Health: Publi",
+			"program": "Public Health",
 			"course": "Training in Public Adm",
 			"category": "6 Months"
 		},
@@ -3420,7 +3485,7 @@
 			"name": "Sonam Topgyal",
 			"gender": "Male",
 			"batch": "1990",
-			"program": "Public Health: Publi",
+			"program": "Public Health",
 			"course": "Training in Public Adm",
 			"category": "6 Months"
 		},
@@ -3436,7 +3501,7 @@
 			"name": "Sonam Palmo",
 			"gender": "Female",
 			"batch": "1989",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "Science Education",
 			"category": "Degree"
 		},
@@ -3444,7 +3509,7 @@
 			"name": "Mingyur Samkhar",
 			"gender": "Male",
 			"batch": "1989",
-			"program": "International Relati",
+			"program": "International Relations",
 			"course": "Political Science",
 			"category": "Degree"
 		},
@@ -3452,7 +3517,7 @@
 			"name": "Tashi Rikha",
 			"gender": "Male",
 			"batch": "1989",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "M. Ed",
 			"category": "Degree"
 		},
@@ -3492,7 +3557,7 @@
 			"name": "Lhundrup Dorjee",
 			"gender": "Male",
 			"batch": "1989",
-			"program": "Business Administrat",
+			"program": "Business Administration",
 			"course": "MBA",
 			"category": "Degree"
 		},
@@ -3508,7 +3573,7 @@
 			"name": "Thondup Tsering",
 			"gender": "Male",
 			"batch": "1989",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "M. Ed",
 			"category": "Degree"
 		},
@@ -3524,7 +3589,7 @@
 			"name": "Dhondup Namgyal",
 			"gender": "Male",
 			"batch": "1989",
-			"program": "Education: Science E",
+			"program": "Science Education",
 			"course": "M. Ed",
 			"category": "Non degree"
 		},
@@ -3532,7 +3597,7 @@
 			"name": "Jampel Choesang",
 			"gender": "Male",
 			"batch": "1988",
-			"program": "International Relati",
+			"program": "International Relations",
 			"course": "Political Science",
 			"category": "Non degree"
 		},
@@ -3556,7 +3621,7 @@
 			"name": "Lhundup Tsering",
 			"gender": "Male",
 			"batch": "1988",
-			"program": "International Relati",
+			"program": "International Relations",
 			"course": "BA Humanities",
 			"category": "Non degree"
 		}
