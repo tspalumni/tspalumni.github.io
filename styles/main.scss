@@ -350,6 +350,13 @@ main {
   }
 }
 
+.socialmedia{
+  a {
+    text-decoration: none;
+    color: #264992;
+  }
+}
+
 footer {
   
   padding: 1em;
@@ -374,7 +381,7 @@ footer {
           a {
             font-weight: 300;
             text-decoration: none;
-            color: #000;
+            color: #000;            
 
             &:hover {
               text-decoration: underline;
@@ -384,12 +391,7 @@ footer {
       }
     }
   }
-
-  .copyright {
-    margin-top: 1em;
-    text-align: center;
-    border: solid 2px;
-  }
+  
 }
 
 
