@@ -61,7 +61,7 @@
 			"name": "Sonam Phuntsog",
 			"gender": "Male",
 			"batch": "2019",
-			"program": "MS in Computer Science",
+			"program": "Masters in Computer Science",
 			"course": "University of Missouri, Columbia",
 			"category": "Degree"
 		},
@@ -70,23 +70,23 @@
 			"gender": "Female",
 			"batch": "2018",
 			"program": "Public Health",
-			"course": "Public Health",
+			"course": "Stony Brook university",
 			"category": "Degree"
 		},
 		{
 			"name": "Ngawang Choezom",
 			"gender": "Female",
 			"batch": "2018",
-			"program": "Business Administration",
-			"course": "MBA",
+			"program": "MBA",
+			"course": "University of Incarnate Word",
 			"category": "Degree"
 		},
 		{
 			"name": "Tenzin Zomkyed",
 			"gender": "Female",
 			"batch": "2018",
-			"program": "Bio Technology",
-			"course": "Botany",
+			"program": "Botany",
+			"course": "New York University",
 			"category": "Degree"
 		},
 		{
@@ -94,7 +94,7 @@
 			"gender": "Male",
 			"batch": "2018",
 			"program": "International Relations",
-			"course":  "International Relations",
+			"course":  "New York University",
 			"category": "Degree"
 		},
 		{
@@ -102,7 +102,7 @@
 			"gender": "Female",
 			"batch": "2018",
 			"program": "Public Health",
-			"course": "",
+			"course": "George Washington University",
 			"category": "Degree"
 		},
 		{
@@ -110,15 +110,15 @@
 			"gender": "Male",
 			"batch": "2018",
 			"program": "International Relations",
-			"course": "International Relations",
+			"course": "George Washington University",
 			"category": "Degree"
 		},
 		{
-			"name": "Tenzin Choedon",
+			"name": "Tenzin Choedhen",
 			"gender": "Male",
 			"batch": "2018",
-			"program": "Science & Technology",
-			"course": "Computer Science",
+			"program": "Masters in Computer Science",
+			"course": "Indiana University",
 			"category": "Degree"
 		},
 		{
