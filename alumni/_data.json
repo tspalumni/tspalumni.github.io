@@ -141,7 +141,7 @@
 			"name": "Tsering Yangdol",
 			"gender": "Female",
 			"batch": "2017",
-			"program": "Psychology: School E", //?
+			"program": "Psychology: School E",
 			"course": "Psychology",
 			"category": "Degree"
 		},
@@ -285,7 +285,7 @@
 			"name": "Norzin Dickyi",
 			"gender": "Female",
 			"batch": "2013",
-			"program": "Sinology: Sinology a", // ?
+			"program": "Sinology: Sinology a", 
 			"course": "Harvard University",
 			"category": "Degree"
 		},
@@ -334,7 +334,7 @@
 			"gender": "Male",
 			"batch": "2012",
 			"program": "Public Health",
-			"course": "Public Health: Epidemiolog y", // ? 
+			"course": "Public Health: Epidemiolog y", 
 			"category": "Degree"
 		},
 		{
