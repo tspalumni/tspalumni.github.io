@@ -121,9 +121,7 @@ main {
   margin: 0;
 
   .featured {
-    margin: 0;
-    padding: 1em;
-    padding-bottom: 2em;
+    margin-top: 20px;    
     background: #e2f0f9;
 
     .announcement {
@@ -133,15 +131,19 @@ main {
       }
 
       a.action {
-        background: #df4c73;
+        background: #264992;
         padding: 5px 1em;
         text-decoration: none;
-        text-transform: uppercase;
-        background: #df4c73;
+        text-transform: uppercase;        
         color: #fff;
         font-size: 1.5rem;
         border-radius: 5px;
-      }
+        &:hover {
+          transition: ease-in 200ms;
+          box-shadow: 0px 0px 10px 2px #888;
+          background: #202a77;
+        }
+      }      
     }
   }
 
@@ -348,9 +350,9 @@ main {
 }
 
 footer {
-  background: 
-    linear-gradient(180deg, #fff, #e2e1e1);
+  
   padding: 1em;
+  border-top: 4px solid #DDD;
   font-size: 0.9rem;
 
   .link-groups {
