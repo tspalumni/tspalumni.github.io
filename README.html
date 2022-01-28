@@ -30,67 +30,68 @@
 <ul>
 <li><a class="" href="/about-us">About Us</a></li>
 <li><a class="" href="/alumni-services">Alumni Services</a></li>
-<li><a class="active" href="/tsp-stories">TSP Stories</a></li>
+<li><a class="" href="/tsp-stories">TSP Stories</a></li>
 <li><a class="" href="/alumni">Alumni database</a></li>
 <li><a class="" href="/contact">Contact</a></li>
 </ul>
 </nav>
 </header>
 <main>
-<section class="tsp-stories-wrapper">
-<h2>Videos</h2>
-<div class="testimonial-container">
+<h1>TSP Alumni Association Web</h1><h2>Development</h2><p>This repository uses <a href="http://harpjs.com/">HarpJs</a> to generate static site and deploy as Github Pages</p>
+<ol>
+<li><p>Clone </p>
+<pre><code> git clone https://github.com/tspalumni/tspalumni.github.io
+</code></pre>
+</li>
+<li><p>Install harp</p>
+<pre><code> npm install -g harp 
+ 
+</code></pre>
+</li>
+<li><p>Run</p>
+<pre><code> harp . --port 4000
+ 
+</code></pre>
+</li>
+<li><p>Hit <a href="http://locahost:4000">http://locahost:4000</a></p>
+</li>
+</ol>
+<ol start="5">
+<li><p>After you have made changes. Push to <code>master</code></p>
+<pre><code> git add .
+ git commit -m &quot;&lt;meaningful commit message&gt;&quot;
+ git push origin master
+</code></pre>
+</li>
+</ol>
+<ol start="6">
+<li><p>Compile static sites to directory named <code>build</code> in parent </p>
+<pre><code> harp . ../build
+</code></pre>
+</li>
+<li><p>Checkout <code>gh-pages</code> branch inside tspalumni.github.io repository</p>
+<pre><code> git checkout gh-pages
+</code></pre>
+</li>
+<li><p>Copy the compiled static sites from <code>build</code> directory to <code>gh-pages</code> branch</p>
+<pre><code> cp -a ../build/* .
+ 
+</code></pre>
+</li>
+<li><p>Remove README.md</p>
+<pre><code> rm README.md
+</code></pre>
+</li>
+<li><p>Push to <code>gh-pages</code> remote branch</p>
+<pre><code>git add .
+git commit -m &quot;&lt;meaningful message for your change&gt;&quot;
+git push origin gh-pages
+</code></pre>
+</li>
+<li><p>You&#39;re set. The change has gone live now. 🚀</p>
+</li>
+</ol>
 
-<div class="testimonial video">
-<div class="media">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iS632hoNUVc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-<div class="description">
-<p>
-<b>Dr. Lobsang Sangay</b>
-<i>TSP 1995, Political Leader, Central Tibetan Administration</i>
-</p>
-</div>
-</div>
-
-<div class="testimonial video">
-<div class="media">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dd289UBK2Tw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-<div class="description">
-<p>
-<b>Ms. Tsering Tsomo, TSP 2007</b>
-<i>Director, Tibetan Centre for Human Rights and Democracy</i>
-</p>
-</div>
-</div>
-
-<div class="testimonial video">
-<div class="media">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WqlsgQ5Jkt4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-<div class="description">
-<p>
-<b>Mr. Thupten Samphel, TSP 1988</b>
-<i>Director, Tibetan Policy Institute</i>
-</p>
-</div>
-</div>
-
-<div class="testimonial video">
-<div class="media">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZmdV0R1Dhfg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-<div class="description">
-<p>
-<b>Mr. Tsewang Rigzin, TSP 2013</b>
-<i>Development Specialist, Tibet Fund President, TSPAA</i>
-</p>
-</div>
-</div>
-
-</div>
-</section>
 </main>
 <footer>
 <div class="link-groups">
