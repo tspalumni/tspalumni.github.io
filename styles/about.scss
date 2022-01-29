@@ -1,71 +1,71 @@
+html {
+  scroll-behavior: smooth;
+}
 
 .about-wrapper {
-  
-  aside {
-    display: none;
-  }
-
   .content {
-    padding: 0.5em;
+    padding: 1em;
+    font-size: 1.2rem;
+    line-height: 1.5;
 
-    h2 {
-      text-align: center;
-      text-decoration: underline;
-    }
-  
     h3 {
       text-decoration: underline;
+      text-align: left;
+      padding: 0.5em 1em;
+      padding-left: 0;
     }
 
-    p, ul{
+    p {
       font-weight: 300;
     }
 
-    .sub-content {
-      display: block;
-      width: 100%;
-      background: #fff;
-      padding-bottom: 1em;
+    ul {
+      font-weight: 300;
+      margin: 0;
+      padding: 0;
+      padding-left: 1em;
 
-      h3 {
-        text-align: center;
+      li {
+        margin-top: 1em;
       }
+    }
 
-      &.active {
-        z-index: 1000;
-      }
+    .members {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
 
-      .members {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
+      .member {
+        overflow: hidden;
+        padding-bottom: 0.5em;
 
-        .member {
-          margin-top: 2em;
-          
-          .photo {
-            width: 250px;
-            height: 250px;
-            overflow: hidden;
-            border-radius: 100%;
+        .photo {
+          width: 100px;
+          height: 100px;
+          overflow: hidden;
+          margin: 0 auto;
+          border: solid 2px #ccc;
+          border-radius: 100%;
 
-            img {
-              width: 100%;
-              height: auto;
-            }
+          img {
+            width: 100%;
+            height: auto;
+            object-fit: cover;
+          }
+        }
+
+        .description {
+          padding: 0;
+          text-align: center;
+          padding: 0.5em;
+
+          p {
+            margin: 0;
+            font-size: 1rem;
           }
 
-          .description {
-            padding: 0;
-            text-align: center;
-
-            p {
-              margin: 0;
-
-              &.role {
-                font-weight: 700;
-              }
-            }
+          p.role {
+            font-weight: 400;
+            font-size: 0.8rem;
           }
         }
       }
@@ -73,76 +73,41 @@
   }
 }
 
-@media (min-width: 576px) {  }
+@media (min-width: 576px) {
+}
 
 // Medium devices (tablets, 768px and up)
-@media (min-width: 768px) {  }
+@media (min-width: 768px) {
+}
 
 // Large devices (desktops, 992px and up)
-@media (min-width: 992px) {  
-
+@media (min-width: 992px) {
   .about-wrapper {
-    max-width: 1200px;
+    max-width: 900px;
     margin: 0 auto;
-    display: grid;
-    
-    grid-template-columns: 1.5fr 50px 5fr;
-    grid-template-areas: "sidebar . content";
+    overflow: hidden;
 
-
-    aside {
-      display: block;
-      padding-top: 2em;
-      border-right: solid 1px #ccc;
-
-      nav {
-        position: fixed;
-        padding: 1em 2em;
-
-        ul {
-          padding: 1em;
-          display: inline-block;
-          border-radius: 10px;
-  
-          li {
-  
-            a {
-              text-decoration: none;
-              color: #000;
-              font-size: 1.2rem;
-              font-weight: 300;
-  
-              &:hover {
-                text-decoration: underline;
-              }
-            }
-          }
-        }
-      }
-
-    }
-    
     .content {
       grid-area: content;
 
-      .sub-content {
+      .members {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
 
-        h3 {
-          text-align: left;
-        }
+        .member {
+          margin: 0;
+          padding: 1.5em;
 
-        .members {
-          display: grid;
-          grid-template-columns: 1fr 1fr 1fr;
+          .photo {
+            width: 200px;
+            height: 200px;
 
-          .member {
-            margin: 0;
-            padding: 1.5em;
+            img {
+       
+            }
           }
         }
       }
     }
-
   }
 }
-
