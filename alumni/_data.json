@@ -1,6 +1,119 @@
 {
 	"list": [
 		{
+			"name": "Tenzin Chokden",
+			"gender": "Male",
+			"batch": "2021",
+			"program": "Masters in Cybersecurity",
+			"course": "Georgia Institute of Technology",
+			"category": "Degree"
+		},
+		{
+			"name": "Tenzin Choesang",
+			"gender": "Male",
+			"batch": "2021",
+			"program": "Masters in Regulatory Affairs",
+			"course": "Northeastern University",
+			"category": "Degree"
+		},
+		{
+			"name": "Tenzin Choedar",
+			"gender": "Male",
+			"batch": "2021",
+			"program": "Masters in Biology",
+			"course": "NYU Graduate School of Arts and Science",
+			"category": "Degree"
+		},
+		{
+			"name": "Sonam Choedon",
+			"gender": "Female",
+			"batch": "2021",
+			"program": "Masters in Environmental Science",
+			"course": " Rutgers University",
+			"category": "Degree"
+		},
+		{
+			"name": "Pema Dolkar",
+			"gender": "Female",
+			"batch": "2021",
+			"program": "Masters in Education",
+			"course": "University of Arkansas",
+			"category": "Degree"
+		},	
+		{
+			"name": "Tenzin Nyima",
+			"gender": "Female",
+			"batch": "2021",
+			"program": "Masters in Psychology",
+			"course": "Univeristy of Northern IOWA",
+			"category": "Degree"
+		},	
+		{
+			"name": "Ngawang Tenzin",
+			"gender": "Female",
+			"batch": "2021",
+			"program": "Masters in Public Health",
+			"course": " Indiana University Bloomington",
+			"category": "Degree"
+		},
+		{
+			"name": "Yeshi Paljor",
+			"gender": "Male",
+			"batch": "2020",
+			"program": "Masters in Computer Science",
+			"course": "SUNY Buffalo",
+			"category": "Degree"
+		},
+		
+		{
+			"name": "Tenzin Urgyen",
+			"gender": "Female",
+			"batch": "2020",
+			"program": "Masters in Psychology",
+			"course": " University of Northern IOWA",
+			"category": "Degree"
+		},			
+		{
+			"name": "Tenzin Topjor",
+			"gender": "Male",
+			"batch": "2020",
+			"program": "Masters in Analytics",
+			"course": " University of Kansas",
+			"category": "Degree"
+		},		
+		{
+			"name": "Lobsang Kyizom",
+			"gender": "Female",
+			"batch": "2020",
+			"program": "International Relations",
+			"course": "New York University",
+			"category": "Degree"
+		},		
+		{
+			"name": "Thupten Rinzin",
+			"gender": "Male",
+			"batch": "2020",
+			"program": "MBA",
+			"course": " University of Arkansas", 
+			"category": "Degree"
+		},		
+		{
+			"name": "Tenzin Norzin",
+			"gender": "Female",
+			"batch": "2020",
+			"program": "Masters in Education",
+			"course": "University of Massachusetts — Amherst's (UMASS)",
+			"category": "Degree"
+		},		
+		{
+			"name": "Jigme Tselha",
+			"gender": "Female",
+			"batch": "2020",
+			"program": "Masters in Education",
+			"course": "University of Massachusetts — Amherst's (UMASS)",
+			"category": "Degree"
+		},
+		{
 			"name": "Tsering Lodhen",
 			"gender": "Male",
 			"batch": "2019",
@@ -8,6 +121,7 @@
 			"course": "Stony Brook University, NY",
 			"category": "Degree"
 		},
+
 		{
 			"name": "Tenzin Tashi",
 			"gender": "Male",
