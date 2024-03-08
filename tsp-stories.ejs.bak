@@ -1,0 +1,145 @@
+<section class="tsp-stories-wrapper">
+  <div class="tabbed-pill">
+    <span class="tab active" id="videos">Videos</span>
+    <span class="tab" id="spotlight-series">Spotlight Series</span>
+  </div>
+
+  <div class="tab-wrapper">
+    <div class="tabbed-container active" id="videos">
+      <div class="testimonial-container">
+        <% for(person in public.videos._data) { %>
+          <%- partial("/partials/_video", public.videos._data[person]) %>
+        <% } %>
+      </div>
+    </div>  
+    
+    <div class="tabbed-container" id="spotlight-series">    
+      <div class="spotlight">
+        <h2>Tenzin Chemey</h2>
+        
+        <div class="profile">
+          <div class="portrait">
+            <img src="/assets/chemey_spotlight.jpeg" alt="Tenzin Chemey">
+          </div>
+
+          <p class="intro">
+            Tenzin Chemey currently serves as the Director of Tibet TV, the official media channel of the Central Tibetan Administration. Chemey was selected to complete her master’s degree in the United States under the prestigious Tibetan Scholarship Program in 2017. She completed her master’s degree in International Relations from New York University from 2017-2019. 
+            Upon her return to India, she continued working at the Central Tibetan Administration where she first joined in the year 2010 as an Office Superintendent and worked in various capacities at The Tibet Museum, Tibetan media desk and Tibet TV until she took a two-year study break in 2017. This is her 11th year working at the Central Tibetan Administration. 
+            Chemey is a student of International Relations with over 8 years of experience in the field of mass media and journalism. She is a recipient of the Davis Peace Award (2021) for her initiatives in the peace-building program in North India by co-founding the Youth Ambassador for Peace program in the region.
+          </p>
+        </div>
+        
+        
+        <section class="conversation">
+          <p class="question">
+            <span class="person">TSPAA:</span> Could you describe a typical day in your role as the director at Tibet TV? 
+          </p>
+          <div class="answer">
+            <p>
+              <span class="person">Chemey:</span> 
+              My typical day at work begins by watching and reading news of all the developments that have taken place in the last 12 hours, making a list of all the things that need to be done and a quick briefing with my colleagues on the work that needs to be done in the week or the day.
+              I would develop story or content ideas, rewrite and edit scripts and supervise program production, ensuring adherence to deadlines and budget requirements in addition to administrative work daily while my weekly and monthly tasks include writing project proposals, following up on approvals, implementation, submitting monthly project reports and evaluating videos/films and edit manuscripts submitted for publication.              
+            </p>          
+          </div>
+        </section>
+
+        <section class="conversation">
+          <p class="question">
+            <span class="person">TSPAA:</span> What led you to become a CTA civil servant and pursue journalism? Can you please share pivotal moments or experiences that ignited your passion for this field?
+          </p>
+
+          <div class="answer">
+            <p>
+              <span class="person">Chemey:</span>
+              My two years of working in the private airline sector with non-Tibetan colleagues made me realize the lack of purpose and the very little satisfaction in the work I was committed to despite excellent learning experiences and extremely helpful colleagues. It was right after completing my airline Load Control Officer’s training, that my best friend sent me the announcement from CTA on an upcoming staff recruitment exam. I took that as a sign to pursue the purpose I was looking for and started preparing for the exam. And here I am.
+            </p>
+
+            <p>
+              My transfer to CTA’s media section prompted me to learn more about journalism and much more about world politics. To inform the world about Tibet and the Tibetan diaspora, I felt we needed to have adequate knowledge of the developments around the world. Without a theoretical background on the interactions of states in the global interstate system, I always found myself in doubt. That is why I sought to pursue my master’s in International Relations with Journalism as my elective.
+            </p>
+          </div>
+        </section>
+
+        <section class="conversation">
+          <p class="question">
+            <span class="person">TSPAA:</span> What sets TTV apart from other news outlets, and how do you assess its impact on the community and its role in shaping global perspectives, especially considering its multilingual broadcasts?
+          </p>
+
+          <div class="answer">
+            <p>
+              <span class="person">Chemey:</span>
+              Being the only official media channel of the Central Tibetan Administration with about 236k followers on Facebook and 112k subscribers on YouTube, Tibet TV is more focused on ‘Getting It Right’ rather than ‘Getting It First’. Tibet TV focuses on providing authentic and accurate information and acts as a counterbalance to the influence of private media companies. Tibet TV provides coverage of events and issues that private media may not be interested in, such as stories related to government policies and actions.
+Tibet TV’s weekly update in about 11 languages has been playing a pivotal role in informing Tibet supporters and non-Tibetan-speaking Tibetans worldwide on the latest developments in Tibet and CTA’s activities and by bringing all of them together under one umbrella when it comes to initiating Tibet advocacy activities and prioritizing agendas under the leadership of CTA.
+            </p>
+          </div>
+        </section>
+
+        <section class="conversation">
+          <p class="question">
+            <span class="person">TSPAA:</span>  Given that you worked at TTV prior to leaving to pursue your graduate studies in the US, in what ways has your education in the US been beneficial in your current role?
+          </p>
+
+          <div class="answer">
+            <p>
+              <span class="person">Chemey:</span>
+              My two years of graduate studies were full of exposure to learning, unlearning, and contributing in many ways. Those experiences have not only made me more confident to work in the role I was assigned to but also helped me develop a better-informed mindset with a wider perspective towards all things in life and at work.
+            </p>
+          </div>
+        </section>
+
+        <section class="conversation">
+          <p class="question">
+            <span class="person">TSPAA:</span>  What were your most memorable moments as a TSP scholar in the US?
+          </p>
+
+          <div class="answer">
+            <p>
+              <span class="person">Chemey:</span>
+              All moments that led to the development of a unique affinity, and a life-long friendship with my cohort based on our shared journey of being TSP scholars are blessings and will always be memorable.
+            </p>
+          </div>
+        </section>
+
+        <section class="conversation">
+          <p class="question">
+            <span class="person">TSPAA:</span> As an NYU alumna and a former TSP scholar, what values or lessons from your association with these institutions have you found most valuable in your personal and professional life?
+          </p>
+
+          <div class="answer">
+            <p>
+              <span class="person">Chemey:</span>
+              Besides academic credibility, my association with the most prestigious scholarship award in the exiled Tibetan community and with one of the top private universities in the United States have made me realize my potential and the strength in my growth mindset that I consider the most valuable.            </p>
+            </p>
+            </div>
+        </section>
+
+        <section class="conversation">
+          <p class="question">
+            <span class="person">TSPAA:</span> Could you share some insights into the most significant stories or interviews you've covered throughout your career? How did these experiences impact you both professionally and personally?
+          </p>
+
+          <div class="answer">
+            <p>
+              <span class="person">Chemey:</span>
+              I consider all the stories and interviews I work on equally significant since they are meant to disseminate information on the under-represented stories and under-reported cases of the human rights situation in Tibet, the developments in China, particularly related to Tibet, and CTA’s policies and programs. However, the stories and interviews we have covered during the COVID-19 pandemic have been extremely helpful for the viewers to cope with the uncertain times, particularly the interview with Kyabje Yonge Mingyur Rinpoche. The advice and perspectives Rinpoche gave me on life, work and the world during the interaction for the interviews were of immense help in overcoming many challenges I faced personally and professionally. I reflect on those time and again.           
+            </p>
+            </div>
+        </section>
+
+        <section class="conversation">
+          <p class="question">
+            <span class="person">TSPAA:</span> What is the significance of TSP for the Tibetan community in exile?
+          </p>
+
+          <div class="answer">
+            <p>
+              <span class="person">Chemey:</span>
+              Since its initial years in the 1980s, the Tibetan Scholarship Program has not only helped about 500 Tibetans realize their dreams of achieving new heights that people of displaced communities can only imagine. But also, built their capacities in ways that prepared them to uplift their community in all aspects. TSP scholars bring their unique experiences, perspectives, and cultural diversity to their host schools. Their presence, participation, and representation hold a great deal of significance for the under-represented exiled Tibetan community.
+The Tibetan Scholarship Program awards the selected candidates. Nevertheless, it is not just a group of young Tibetans whose education is being facilitated, but the entire Tibetan community in exile that is being uplifted through them.
+            </p>
+            </div>
+        </section>
+      </div>
+    </div>
+  </div>
+</section>
