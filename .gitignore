@@ -4,3 +4,5 @@ package-lock.json
 Vagrantfile
 node_modules
 .DS_Store
+
+.hallmark/

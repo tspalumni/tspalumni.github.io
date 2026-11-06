@@ -1,36 +1,50 @@
-<div class="section-wrapper alumni-list">
-  <h3>Alumni Records</h3>
-  
-  <table id="alumni-datatable">
-    <thead>
-      <th>Name</th>
-      <th>Gender</th>
-      <th>Batch</th>
-      <th>Program</th>
-      <th>Course</th>
-      <th>Category</th>
-    </thead>
-    <tbody>
-      <% for(index in public.alumni._data.list) { %>
-        <% person = public.alumni._data.list[index] %>
-        <tr>
-          <td><%= person.name %></td>
-          <td><%= person.gender %></td>
-          <td><%= person.batch %></td>
-          <td><%= person.program %></td>
-          <td><%= person.course %></td>
-          <td><%= person.category %></td>
-        </tr>
-      <% } %>
-    </tbody>
-  </table>
-</div>
+<section class="page-banner">
+  <div class="container">
+    <div class="page__head">
+      <h1>Alumni records</h1>
+      <p class="lead">Search TSP alumni by name, batch, program or university.</p>
+    </div>
+  </div>
+</section>
+
+<section class="page alumni-list">
+  <div class="container">
+
+    <div class="alumni-table-wrap">
+      <table id="alumni-datatable">
+        <thead>
+          <tr>
+            <th>Name</th>
+            <th>Gender</th>
+            <th>Batch</th>
+            <th>Program</th>
+            <th>Course</th>
+            <th>Category</th>
+          </tr>
+        </thead>
+        <tbody>
+          <% for(index in public.alumni._data.list) { %>
+            <% person = public.alumni._data.list[index] %>
+            <tr>
+              <td><%= person.name %></td>
+              <td><%= person.gender %></td>
+              <td class="num"><%= person.batch %></td>
+              <td><%= person.program %></td>
+              <td><%= person.course %></td>
+              <td><%= person.category %></td>
+            </tr>
+          <% } %>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</section>
 
 <script>
   $(document).ready( function () {
     $('#alumni-datatable').DataTable({
       responsive: true
     });
-    
+
   });
 </script>

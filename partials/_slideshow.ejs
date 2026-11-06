@@ -1,0 +1,17 @@
+<figure class="slideshow slideshow--<%= effect %> <%= className %>" data-slideshow data-effect="<%= effect %>" data-interval="<%= interval %>" aria-roledescription="carousel" aria-label="<%= label %>">
+  <div class="photo slideshow__frame <%= frameClass %>" data-slot="<%= name %>" data-alt="<%= label %>">
+    <% slides.forEach(function (s, i) { %>
+    <img class="slideshow__slide<%= i === 0 ? ' is-current' : '' %>" src="<%= s.src %>" width="<%= s.width %>" height="<%= s.height %>" alt="<%= s.alt %>" style="object-position: <%= s.position || '50% 50%' %>" data-caption="<%= s.caption %>" <%- i === 0 && priority ? 'fetchpriority="high"' : 'loading="lazy"' %><%- i === 0 ? '' : ' aria-hidden="true"' %>>
+    <% }) %>
+  </div>
+  <div class="slideshow__bar">
+    <figcaption class="caption slideshow__caption"><%= slides[0].caption %></figcaption>
+    <% if (slides.length > 1) { %>
+    <div class="slideshow__controls">
+      <button type="button" class="slideshow__btn" data-prev aria-label="Previous photo"><span class="fa fa-chevron-left" aria-hidden="true"></span></button>
+      <button type="button" class="slideshow__btn slideshow__btn--toggle" data-toggle aria-label="Pause slideshow">Pause</button>
+      <button type="button" class="slideshow__btn" data-next aria-label="Next photo"><span class="fa fa-chevron-right" aria-hidden="true"></span></button>
+    </div>
+    <% } %>
+  </div>
+</figure>
