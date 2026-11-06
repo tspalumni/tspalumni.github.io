@@ -12,43 +12,30 @@ This repository uses [HarpJs](http://harpjs.com/) to generate static site and de
 
 2. Install harp
 
-        npm install -g harp 
+        npm install -g harp@0.31.0
         
 3. Run
 
         harp . --port 4000
         
-4. Hit http://locahost:4000
+4. Open http://localhost:4000
 
 
-5. After you have made changes. Push to `master`
+5. After you have made changes, push to `master`:
 
         git add .
         git commit -m "<meaningful commit message>"
         git push origin master
 
+6. That's it. The **Publish site** GitHub Action (`.github/workflows/publish.yml`) builds the site with Harp 0.31
+   and publishes it to the `gh-pages` branch, which is served at https://tspalumni.org. Watch it run under the
+   repository's **Actions** tab; it takes about a minute. You can also start it by hand from that tab
+   (**Publish site**, then **Run workflow**).
 
-6. Compile static sites to directory named `build` in parent 
+Note: install Harp for local preview with `npm install -g harp@0.31.0`. Newer Harp versions fail on this site.
 
-        harp . ../build
+## Updating the home page slideshows
 
-7. Checkout `gh-pages` branch inside tspalumni.github.io repository
-
-        git checkout gh-pages
-
-8. Copy the compiled static sites from `build` directory to `gh-pages` branch
-
-        cp -a ../build/* .
-        
-9. Remove README.md
-        
-        rm README.md
-
-10. Push to `gh-pages` remote branch
-
-        git add .
-        git commit -m "<meaningful message for your change>"
-        git push origin gh-pages
-
-11. You're set. The change has gone live now. 🚀
-      
+The three slideshows on the home page read their photos from `slideshows/_data.json`. To add a photo, put the
+file in `assets/` (a short name with no spaces) and add an entry with its `src`, `width`, `height`, `alt` (what
+the photo shows) and `caption`.
