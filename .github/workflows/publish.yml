@@ -36,6 +36,13 @@ jobs:
           rm -f "$RUNNER_TEMP/site/README.html"
           test -f "$RUNNER_TEMP/site/index.html"
 
+      # Stamp the stylesheet and script links with this commit, so browsers fetch the new files
+      # right after a deploy instead of reusing their cached copies for up to 10 minutes.
+      - name: Stamp asset links with the commit
+        run: |
+          find "$RUNNER_TEMP/site" -name '*.html' -exec sed -i "s/__BUILD__/${GITHUB_SHA::8}/g" {} +
+          ! grep -rl "__BUILD__" "$RUNNER_TEMP/site" --include='*.html'
+
       - name: Publish to gh-pages
         uses: peaceiris/actions-gh-pages@v4
         with:
