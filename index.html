@@ -1,266 +1,316 @@
 <!DOCTYPE html>
-<html>
-<head>
-<meta charset="UTF-8">
-<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon.png">
-<title>TSP Alumni Association</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap" rel="stylesheet">
-<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/jq-3.3.1/dt-1.10.22/fh-3.1.7/r-2.2.6/datatables.min.css"/>
-<link href="/styles/main.css" rel="stylesheet"/>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-<script type="text/javascript" src="https://cdn.datatables.net/v/dt/jq-3.3.1/dt-1.10.22/r-2.2.6/datatables.min.js"></script>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<script src="/js/app.js" async></script>
-</head>
-<body>
-<header>
-<input type="checkbox" id='nav-toggle' class="nav-toggle">
-<div class="logo">
-<a href="/">
-<img src="/assets/logo.png"/>
-</a>
-</div>
-<label for="nav-toggle" class="nav-toggle-label">
-<span></span>
-</label>
-<nav>
-<ul>
-<li><a class="" href="/about-us">About Us</a></li>
-<li><a class="" href="/alumni-services">Alumni Services</a></li>
-<li><a class="" href="/tsp-stories">TSP Stories</a></li>
-<li><a class="" href="/alumni">Alumni database</a></li>
-<li><a class="" href="/contact">Contact</a></li>
-</ul>
-</nav>
-</header>
-<main>
-<section class="top-section">
-<div class="featured">
-<h3>TSP 2026</h3>
-<p>Announcement for TSP 2026 is out. Apply before February 28. </p>
-<a class="action" href="https://sherig.org/en/2026-tibetan-scholarship-program/">Details here</a>
-</div>
-<div class="programs">
-<h2>Programs & Events</h2>
-<div class="event-calendar">
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>TSP Alumni Association</title>
+    <meta name="description" content="The alumni association of the Tibetan Scholarship Program: mentorship, stories and resources from more than 450 Tibetan alumni of U.S. graduate study.">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://api.fontshare.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@400;600&display=swap" rel="stylesheet">
+    <link href="https://api.fontshare.com/v2/css?f[]=gambetta@600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/jq-3.3.1/dt-1.10.22/fh-3.1.7/r-2.2.6/datatables.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="/styles/site.css" rel="stylesheet"/>
+    <script>document.documentElement.classList.add('js');</script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/v/dt/jq-3.3.1/dt-1.10.22/r-2.2.6/datatables.min.js"></script>
+    <script src="/js/app.js" defer></script>
+  </head>
+  <body>
+    <a class="skip" href="#main">Skip to content</a>
+    <header class="site-header">
+      <div class="container site-header__bar">
+        <input type="checkbox" id="nav-toggle" class="nav-toggle">
+        <a class="logo" href="/" aria-label="TSP Alumni Association, home">
+          <img src="/assets/logo.png" width="2602" height="415" alt="Tibetan Scholarship Program Alumni Association"/>
+        </a>
+        <label for="nav-toggle" class="nav-toggle-label">
+          <span class="visually-hidden">Menu</span>
+          <span class="nav-toggle-label__bars" aria-hidden="true"></span>
+        </label>
+        <nav class="site-nav" aria-label="Main">
+          <ul>
+            <li><a class=""  href="/about-us">About us</a></li>
+            <li><a class=""  href="/alumni-services">Alumni services</a></li>
+            <li><a class=""  href="/tsp-stories">TSP stories</a></li>
+            <li><a class=""  href="/alumni">Alumni database</a></li>
+            <li><a class=""  href="/contact">Contact</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+    <main id="main">
+      <section class="hero">
+  <div class="container hero__grid">
+    <div class="hero__text">
+      <h1>The alumni of the Tibetan Scholarship Program</h1>
+      <p class="lead">More than 450 alumni across thirty years, guiding the next cohort.</p>
+      <div class="actions">
+        <a class="btn" href="https://forms.gle/eoe9v9Em7PHeDKFMA">Find a mentor</a>
+        <a class="btn btn--quiet" href="/alumni">Search alumni records</a>
+      </div>
+    </div>
+    <figure class="slideshow slideshow--fade hero__figure" data-slideshow data-effect="fade" data-interval="5000" aria-roledescription="carousel" aria-label="Photos from TSP alumni gatherings">
+  <div class="photo slideshow__frame hero__photo" data-slot="hero" data-alt="Photos from TSP alumni gatherings">
+    
+    <img class="slideshow__slide is-current" src="/assets/alumni-embassy-meet-2025.jpg" width="1440" height="1080" alt="TSP alumni standing with U.S. Embassy and State Department program staff in a painted Tibetan hall" style="object-position: 50% 40%" data-caption="Alumni meet and greet with the U.S. Embassy in Delhi and the program officer from Washington, D.C., May 2025." fetchpriority="high">
+    
+    <img class="slideshow__slide" src="/assets/tsp.jpg" width="2048" height="1536" alt="A group of TSP scholars and alumni gathered around a conference table" style="object-position: 50% 62%" data-caption="TSP scholars and alumni." loading="lazy" aria-hidden="true">
+    
+  </div>
+  <div class="slideshow__bar">
+    <figcaption class="caption slideshow__caption">Alumni meet and greet with the U.S. Embassy in Delhi and the program officer from Washington, D.C., May 2025.</figcaption>
+    
+    <div class="slideshow__controls">
+      <button type="button" class="slideshow__btn" data-prev aria-label="Previous photo"><span class="fa fa-chevron-left" aria-hidden="true"></span></button>
+      <button type="button" class="slideshow__btn slideshow__btn--toggle" data-toggle aria-label="Pause slideshow">Pause</button>
+      <button type="button" class="slideshow__btn" data-next aria-label="Next photo"><span class="fa fa-chevron-right" aria-hidden="true"></span></button>
+    </div>
+    
+  </div>
+</figure>
 
-<div class="event__item">
-<a href="./events/handbook"></a>
-<div class="event__date">
-<span>06th</span>
-<span>July</span>
-<span>2021</span>
-</div>
-<div class="event__summary">
-A Handbook on Graduate Studies in the United States
-</div>
-</div>
-
-<div class="event__item">
-<a href="./events/tcgf"></a>
-<div class="event__date">
-<span>30th</span>
-<span>May</span>
-<span>2021</span>
-</div>
-<div class="event__summary">
-Announcement: The Tibetan Community Grants Fund (TCGF) is here.
-</div>
-</div>
-
-<div class="event__item">
-<a href="./events/5th-yop"></a>
-<div class="event__date">
-<span>30th</span>
-<span>June</span>
-<span>2021</span>
-</div>
-<div class="event__summary">
-5th Youth Outreach Programme Session
-</div>
-</div>
-
-<div class="event__item">
-<a href="./events/4th-yop"></a>
-<div class="event__date">
-<span>31st</span>
-<span>Oct</span>
-<span>2020</span>
-</div>
-<div class="event__summary">
-4th Youth Outreach Programme session
-</div>
-</div>
-
-<div class="event__item">
-<a href="./events/3rd-yop"></a>
-<div class="event__date">
-<span>24th</span>
-<span>Oct</span>
-<span>2020</span>
-</div>
-<div class="event__summary">
-3rd Youth Outreach Programme Session
-</div>
-</div>
-
-</div>
-</div>
+  </div>
 </section>
-<section class="mission-wrapper">
-<div class="content">
-<h2>Who we are?</h2>
-<div class="statement">
-<p>
-The Tibetan Scholarship Program Alumni Association (TSPAA) was established with the primary purpose of
-strengthening the network between all the cohorts of the Tibetan Scholarship Program (TSP), providing
-them a platform to reach out to their peers along with assisting them in their various social endeavors.
-</p>
-<p>
-With a cohort size exceeding 450 members, spread across more than thirty years, the TSP remains the
-most prestigious and influential scholarship for Tibetans, in India and Nepal, towards pursuing
-graduate studies in the United States.
-</p>
-</div>
-</div>
+
+<section class="who">
+  <div class="container who__grid">
+    <div class="who__text">
+      <h2>Who we are</h2>
+      <p class="lead">
+        The Tibetan Scholarship Program Alumni Association (TSPAA) was established with the primary purpose of
+        strengthening the network between all the cohorts of the Tibetan Scholarship Program (TSP), providing
+        them a platform to reach out to their peers along with assisting them in their various social endeavors.
+      </p>
+      <p>
+        With a cohort size exceeding 450 members, spread across more than thirty years, the TSP remains the
+        most prestigious and influential scholarship for Tibetans, in India and Nepal, towards pursuing
+        graduate studies in the United States.
+      </p>
+      <p><a class="text-link" href="/about-us">About the association</a></p>
+    </div>
+    <figure class="slideshow slideshow--slide who__figure" data-slideshow data-effect="slide" data-interval="6500" aria-roledescription="carousel" aria-label="Photos of TSPAA with the cohorts and partners">
+  <div class="photo slideshow__frame who__photo" data-slot="who" data-alt="Photos of TSPAA with the cohorts and partners">
+    
+    <img class="slideshow__slide is-current" src="/assets/cohort-evening-2025-stairs.jpg" width="1440" height="1800" alt="TSP alumni and new cohort members posing together on a lit wooden staircase" style="object-position: 50% 45%" data-caption="An evening celebrating the TSP 2025 and 2026 cohorts, May 2025." loading="lazy">
+    
+    <img class="slideshow__slide" src="/assets/access-microscholarship-meeting.jpg" width="1440" height="1920" alt="TSPAA members with representatives from ECA, the U.S. Embassy and the Tibet Fund under prayer flags at night" style="object-position: 50% 62%" data-caption="TSPAA with two representatives from ECA, the U.S. Embassy and the Tibet Fund, exploring the English Access Microscholarship Program." loading="lazy" aria-hidden="true">
+    
+    <img class="slideshow__slide" src="/assets/cohort-evening-2025-dinner.jpg" width="1440" height="1800" alt="Alumni and new cohort members around a long dinner table" style="object-position: 50% 70%" data-caption="Dinner with the TSP 2025 and 2026 cohorts, May 2025." loading="lazy" aria-hidden="true">
+    
+  </div>
+  <div class="slideshow__bar">
+    <figcaption class="caption slideshow__caption">An evening celebrating the TSP 2025 and 2026 cohorts, May 2025.</figcaption>
+    
+    <div class="slideshow__controls">
+      <button type="button" class="slideshow__btn" data-prev aria-label="Previous photo"><span class="fa fa-chevron-left" aria-hidden="true"></span></button>
+      <button type="button" class="slideshow__btn slideshow__btn--toggle" data-toggle aria-label="Pause slideshow">Pause</button>
+      <button type="button" class="slideshow__btn" data-next aria-label="Next photo"><span class="fa fa-chevron-right" aria-hidden="true"></span></button>
+    </div>
+    
+  </div>
+</figure>
+
+  </div>
 </section>
-<section class="alumni-words">
-<h2>Words from Alumni</h2>
-<div class="content">
-<div class="photo">
-<img src="assets/pema_yangchen.jpg"/>
-</div>
-<div class="statement">
-<p class="comments">
-"TSP was the gateway to achieve my dream of education. It has given me the courage and confidence to serve my community with efficiency, passion and pride. I will remain ever grateful to the government of the U. S. and its people and the US State government for the “gift of education”
-My education in the US at the University of Northern Iowa (UNI), Cedar Falls, Iowa has been the most wonderful thing that could possibly happen to a Tibetan refugee woman. My education at UNI has provided me with a wide range of knowledge and skills that an educator needs today and challenged me to do my best. The quality of professors, the camaraderie of fellow classmates, and the safe and cooperative environment at UNI have made my UNI education experience a very fulfilling one."
-</p>
-<p class= "speaker">
-- Dr. Pema Yangchen
-</p>
-</div>
-</div>
-<hr>
-<div class="content right">
-<div class="photo">
-<img src="assets/tsering-tsomo.jpg"/>
-</div>
-<div class="statement">
-<p class="comments">
-"I believe TSP has made immense contribution to exile Tibetan community, and by
-extension the Tibetan movement at large. Many TSP alumni continue to serve in exile
-Tibetan institutions and organisations. Generally the importance of scholarships
-for deserving students cannot be overstated. But TSP assumes greater importance in
-that it provides support to young and dynamic Tibetans who are expected to serve
-their own community after completion of their studies. Over the years, TSP alumni
-have played an important role in the rejuvenation and sustainability of the Tibetan movement."
-</p>
-<p class= "speaker">
-- Tsering Tsomo
-</p>
-</div>
-</div>
-<hr>
-<div class="content">
-<div class="photo">
-<img src="assets/thupten_samphel.jpeg"/>
-</div>
-<div class="statement">
-<p class="comments">
-"The Tibetan Scholarship Program which enables young Tibetans to pursue further studies
-in America is extremely useful in improving the capacity of the Tibetan exile community.
-I was one of the first to greatly benefit from this program way back 1988 when the
-program gave me a scholarship to study journalism at Columbia University from 1988
-to 1989. The course I took at the Graduate School of Journalism greatly helped me to
-improve the quality and design of the Tibetan Bulletin which I edited for many years”
-</p>
-<p class= "speaker">
-- Thupten Samphel
-</p>
-</div>
-</div>
+
+<section class="programs">
+  <div class="container programs__grid">
+    <div class="programs__head">
+      <h2>Programs and events</h2>
+      <p class="programs__line">Youth outreach sessions, grants and guides run by TSP alumni.</p>
+    </div>
+    <ol class="index" role="list">
+      
+      <li class="index__row">
+        <a class="index__link" href="./events/handbook">
+          <span class="index__date">06th July 2021</span>
+          <span class="index__title">A Handbook on Graduate Studies in the United States</span>
+        </a>
+      </li>
+      
+      <li class="index__row">
+        <a class="index__link" href="./events/tcgf">
+          <span class="index__date">30th May 2021</span>
+          <span class="index__title">Announcement: The Tibetan Community Grants Fund (TCGF) is here.</span>
+        </a>
+      </li>
+      
+      <li class="index__row">
+        <a class="index__link" href="./events/5th-yop">
+          <span class="index__date">30th June 2021</span>
+          <span class="index__title">5th Youth Outreach Programme Session</span>
+        </a>
+      </li>
+      
+      <li class="index__row">
+        <a class="index__link" href="./events/4th-yop">
+          <span class="index__date">31st Oct 2020</span>
+          <span class="index__title">4th Youth Outreach Programme session</span>
+        </a>
+      </li>
+      
+      <li class="index__row">
+        <a class="index__link" href="./events/3rd-yop">
+          <span class="index__date">24th Oct 2020</span>
+          <span class="index__title">3rd Youth Outreach Programme Session</span>
+        </a>
+      </li>
+      
+    </ol>
+  </div>
 </section>
-<section class="services-section">
-<h2>Services & Resources</h2>
-<div class="services-container">
 
-<div class="service-card">
-<a href="../services/dulam"></a>
-<div class="photo">
-<img src="../assets/dulam.jpg"/>
-</div>
-<div class="summary">
-<h3>Consultation</h3>
-<p>Free consulting services in education &amp; career for Tibetan students by Tashi Namgyal , TSP 2018 Cohort<p>
-</div>
-</div>
+<section class="voices band band--field">
+  <div class="container">
+    <h2>Words from alumni</h2>
+    <div class="voices__grid">
+      <figure class="voice">
+        <blockquote>
+          <p>“TSP was the gateway to achieve my dream of education. It has given me the courage and confidence to serve my community with efficiency, passion and pride. I will remain ever grateful to the government of the U. S. and its people and the US State government for the ‘gift of education’.</p>
+          <p>My education in the US at the University of Northern Iowa (UNI), Cedar Falls, Iowa has been the most wonderful thing that could possibly happen to a Tibetan refugee woman. My education at UNI has provided me with a wide range of knowledge and skills that an educator needs today and challenged me to do my best. The quality of professors, the camaraderie of fellow classmates, and the safe and cooperative environment at UNI have made my UNI education experience a very fulfilling one.”</p>
+        </blockquote>
+        <figcaption>
+          <img src="/assets/pema_yangchen.jpg" width="96" height="96" alt="" loading="lazy">
+          <span>Dr. Pema Yangchen</span>
+        </figcaption>
+      </figure>
 
-<div class="service-card">
-<a href="../services/navigating-path"></a>
-<div class="photo">
-<img src="../assets/navigating-path.jpg"/>
-</div>
-<div class="summary">
-<h3>Mentorship</h3>
-<p>Navigating the Path to Graduate Studies in the U.S.<p>
-</div>
-</div>
+      <figure class="voice">
+        <blockquote>
+          <p>“I believe TSP has made immense contribution to exile Tibetan community, and by extension the Tibetan movement at large. Many TSP alumni continue to serve in exile Tibetan institutions and organisations. Generally the importance of scholarships for deserving students cannot be overstated. But TSP assumes greater importance in that it provides support to young and dynamic Tibetans who are expected to serve their own community after completion of their studies. Over the years, TSP alumni have played an important role in the rejuvenation and sustainability of the Tibetan movement.”</p>
+        </blockquote>
+        <figcaption>
+          <img src="/assets/tsering-tsomo.jpg" width="96" height="96" alt="" loading="lazy">
+          <span>Tsering Tsomo</span>
+        </figcaption>
+      </figure>
 
-<div class="service-card">
-<a href="../services/handbook"></a>
-<div class="photo">
-<img src="../assets/handbook.jpg"/>
-</div>
-<div class="summary">
-<h3>Guidance</h3>
-<p>A Handbook on Graduate Studies in the United States<p>
-</div>
-</div>
-
-<div class="service-card">
-<a href="https://tibetfund.org/programs/education-vocational-training/scholarships-2/"></a>
-<div class="photo">
-<img src="../assets/TSP-application.jpg"/>
-</div>
-<div class="summary">
-<h3>Application Assistance</h3>
-<p>Learn about upcoming TSP Application here<p>
-</div>
-</div>
-
-</div>
+      <figure class="voice">
+        <blockquote>
+          <p>“The Tibetan Scholarship Program which enables young Tibetans to pursue further studies in America is extremely useful in improving the capacity of the Tibetan exile community. I was one of the first to greatly benefit from this program way back 1988 when the program gave me a scholarship to study journalism at Columbia University from 1988 to 1989. The course I took at the Graduate School of Journalism greatly helped me to improve the quality and design of the Tibetan Bulletin which I edited for many years.”</p>
+        </blockquote>
+        <figcaption>
+          <img src="/assets/thupten_samphel.jpeg" width="96" height="96" alt="" loading="lazy">
+          <span>Thupten Samphel</span>
+        </figcaption>
+      </figure>
+    </div>
+    <p class="voices__more"><a class="text-link" href="/tsp-stories">Watch the alumni interviews</a></p>
+  </div>
 </section>
-</main>
-<footer>
-<div class="link-groups">
-<div class="col">
-<ul class="socialmedia">
-<li><a class="fa fa-facebook" href="https://www.facebook.com/TSPAlumniAssociation1/" alt="TSP Alumni Association Facebook Page"></a></li>
-<li><a class="fa fa-instagram" href="https://www.instagram.com/tspalumni/?hl=en" alt="TSP Alumni Instagram Profile"></a></li>
-<li><a class="fa fa-youtube" href="https://www.youtube.com/channel/UCWgh3s4L0aeXHP4IodMZLKg" alt="TSP Alumni Youtube Channel"></a></li>
-</ul>
-</div>
-<div class="col">
-<ul>
-<li><a href="https://tibetfund.org/programs/education-vocational-training/scholarships-2/">The Tibet Fund</a></li>
-<li><a href="https://sherig.org/en/">Department of Education, CTA (Sherig)</a></li>
-</ul>
-</div>
-<div class="col">
-<ul>
-<li><a href="https://in.usembassy.gov/">U.S. Embassy in New Delhi Official Website</a></li>
-<li><a href="https://www.facebook.com/India.usembassy/?fref=ts">U.S. Embassy in New Delhi Facebook Page</a></li>
-<li><a href="https://twitter.com/USAndIndia">U.S. Embassy in New Delhi Twitter</a></li>
-<li><a href="http://www.alumni.state.gov/">International Exchange Alumni Official Website</a></li>
-<li><a href="https://www.facebook.com/InternationalExchangeAlumni">International Exchange Alumni Facebook Page</a></li>
-<li><a href="https://twitter.com/exchangealumni">International Exchange Alumni Twitter: @ExchangeAlumni</a></li>
-<li><a href="https://www.facebook.com/americancenternewdelhi/?fref=ts">American Center New Delhi Facebook Page</a></li>
-</ul>
-</div>
-</div>
-</footer>
-</body>
+
+<section class="services">
+  <div class="container">
+    <div class="services__head">
+      <h2>Services and resources</h2>
+      <p class="lead">Free help for Tibetan students heading to graduate study in the U.S.</p>
+    </div>
+    <ul class="services__grid" role="list">
+      
+      <li class="service">
+        <a class="service__link" href="../services/dulam">
+          <h3>Consultation</h3>
+          <p>Free consulting services in education &amp; career for Tibetan students by Tashi Namgyal , TSP 2018 Cohort</p>
+        </a>
+      </li>
+      
+      <li class="service">
+        <a class="service__link" href="../services/navigating-path">
+          <h3>Mentorship</h3>
+          <p>Navigating the Path to Graduate Studies in the U.S.</p>
+        </a>
+      </li>
+      
+      <li class="service">
+        <a class="service__link" href="../services/handbook">
+          <h3>Guidance</h3>
+          <p>A Handbook on Graduate Studies in the United States</p>
+        </a>
+      </li>
+      
+      <li class="service">
+        <a class="service__link" href="https://tibetfund.org/programs/education-vocational-training/scholarships-2/">
+          <h3>Application Assistance</h3>
+          <p>Learn about upcoming TSP Application here</p>
+        </a>
+      </li>
+      
+    </ul>
+  </div>
+</section>
+
+<section class="mentor band band--well">
+  <div class="container mentor__grid">
+    <div class="mentor__body">
+      <h2>Looking for a mentor?</h2>
+      <p>Our mentors offer guidance and encouragement to help set academic and career goals.</p>
+      <a class="btn" href="https://forms.gle/eoe9v9Em7PHeDKFMA">Fill in the mentor form</a>
+    </div>
+    <figure class="slideshow slideshow--rise mentor__figure" data-slideshow data-effect="rise" data-interval="8000" aria-roledescription="carousel" aria-label="Photos from TSPAA meetings and outreach">
+  <div class="photo slideshow__frame mentor__photo" data-slot="mentor" data-alt="Photos from TSPAA meetings and outreach">
+    
+    <img class="slideshow__slide is-current" src="/assets/meeting-sarita-vanka-2.jpeg" width="1280" height="960" alt="Sarita Vanka holding a gift and khata as TSPAA member Tenzin Kelsang la greets her with folded hands" style="object-position: 50% 55%" data-caption="TSPAA member Tenzin Kelsang la meets Sarita Vanka of the U.S. Senate." loading="lazy">
+    
+    <img class="slideshow__slide" src="/assets/meeting-sarita-vanka-1.jpeg" width="1280" height="960" alt="Sarita Vanka receiving a gift from TSPAA member Tenzin Kelsang la" style="object-position: 50% 55%" data-caption="TSPAA member Tenzin Kelsang la meets Sarita Vanka of the U.S. Senate." loading="lazy" aria-hidden="true">
+    
+    <img class="slideshow__slide" src="/assets/onewithworkshopattendees.jpeg" width="962" height="543" alt="Workshop attendees holding the TSPAA graduate studies handbook" style="object-position: 50% 50%" data-caption="Workshop attendees with the TSPAA handbook on graduate studies in the United States." loading="lazy" aria-hidden="true">
+    
+  </div>
+  <div class="slideshow__bar">
+    <figcaption class="caption slideshow__caption">TSPAA member Tenzin Kelsang la meets Sarita Vanka of the U.S. Senate.</figcaption>
+    
+    <div class="slideshow__controls">
+      <button type="button" class="slideshow__btn" data-prev aria-label="Previous photo"><span class="fa fa-chevron-left" aria-hidden="true"></span></button>
+      <button type="button" class="slideshow__btn slideshow__btn--toggle" data-toggle aria-label="Pause slideshow">Pause</button>
+      <button type="button" class="slideshow__btn" data-next aria-label="Next photo"><span class="fa fa-chevron-right" aria-hidden="true"></span></button>
+    </div>
+    
+  </div>
+</figure>
+
+  </div>
+</section>
+
+    </main>
+    <footer class="site-footer">
+      <div class="container site-footer__grid">
+        <div class="site-footer__about">
+          <img class="site-footer__logo" src="/assets/logo.png" width="2602" height="415" alt="Tibetan Scholarship Program Alumni Association" loading="lazy"/>
+          <p>Strengthening the network between all the cohorts of the Tibetan Scholarship Program.</p>
+          <p><a href="mailto:tspalumni@gmail.com">tspalumni@gmail.com</a></p>
+          <ul class="socialmedia">
+            <li><a class="fa fa-facebook" href="https://www.facebook.com/TSPAlumniAssociation1/" aria-label="TSP Alumni Association Facebook page"></a></li>
+            <li><a class="fa fa-instagram" href="https://www.instagram.com/tspalumni/?hl=en" aria-label="TSP Alumni Instagram profile"></a></li>
+            <li><a class="fa fa-youtube" href="https://www.youtube.com/channel/UCWgh3s4L0aeXHP4IodMZLKg" aria-label="TSP Alumni YouTube channel"></a></li>
+          </ul>
+        </div>
+        <div class="site-footer__col">
+          <p class="site-footer__head">Program partners</p>
+          <ul>
+            <li><a href="https://tibetfund.org/programs/education-vocational-training/scholarships-2/">The Tibet Fund</a></li>
+            <li><a href="https://sherig.org/en/">Department of Education, CTA (Sherig)</a></li>
+          </ul>
+        </div>
+        <div class="site-footer__col site-footer__col--wide">
+          <p class="site-footer__head">U.S. Embassy and exchange alumni</p>
+          <ul>
+            <li><a href="https://in.usembassy.gov/">U.S. Embassy in New Delhi Official Website</a></li>
+            <li><a href="https://www.facebook.com/India.usembassy/?fref=ts">U.S. Embassy in New Delhi Facebook Page</a></li>
+            <li><a href="https://twitter.com/USAndIndia">U.S. Embassy in New Delhi Twitter</a></li>
+            <li><a href="http://www.alumni.state.gov/">International Exchange Alumni Official Website</a></li>
+            <li><a href="https://www.facebook.com/InternationalExchangeAlumni">International Exchange Alumni Facebook Page</a></li>
+            <li><a href="https://twitter.com/exchangealumni">International Exchange Alumni Twitter</a></li>
+            <li><a href="https://www.facebook.com/americancenternewdelhi/?fref=ts">American Center New Delhi Facebook Page</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="container site-footer__legal">
+        <p>Tibetan Scholarship Program Alumni Association (TSPAA)</p>
+      </div>
+    </footer>
+  </body>
 </html>

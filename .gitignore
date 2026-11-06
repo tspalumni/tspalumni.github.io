@@ -1,7 +1,0 @@
-.vagrant
-package.json
-package-lock.json
-Vagrantfile
-node_modules
-.DS_Store
-README.html

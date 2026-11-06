@@ -1,81 +1,101 @@
 <!DOCTYPE html>
-<html>
-<head>
-<meta charset="UTF-8">
-<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon.png">
-<title>TSP Alumni Association</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap" rel="stylesheet">
-<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/jq-3.3.1/dt-1.10.22/fh-3.1.7/r-2.2.6/datatables.min.css"/>
-<link href="/styles/main.css" rel="stylesheet"/>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-<script type="text/javascript" src="https://cdn.datatables.net/v/dt/jq-3.3.1/dt-1.10.22/r-2.2.6/datatables.min.js"></script>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<script src="/js/app.js" async></script>
-</head>
-<body>
-<header>
-<input type="checkbox" id='nav-toggle' class="nav-toggle">
-<div class="logo">
-<a href="/">
-<img src="/assets/logo.png"/>
-</a>
-</div>
-<label for="nav-toggle" class="nav-toggle-label">
-<span></span>
-</label>
-<nav>
-<ul>
-<li><a class="" href="/about-us">About Us</a></li>
-<li><a class="" href="/alumni-services">Alumni Services</a></li>
-<li><a class="" href="/tsp-stories">TSP Stories</a></li>
-<li><a class="" href="/alumni">Alumni database</a></li>
-<li><a class="" href="/contact">Contact</a></li>
-</ul>
-</nav>
-</header>
-<main>
-<section class="event-post">
-<h2 class="title">Our 3rd YOP Session </h2>
-<div class="content">
-<div class="event__photo">
-<img src="../assets/yop-session.png">
-</div>
-<p>
-Our 3rd YOP session successfully concluded with STS Poanta high school students on 24 October , 2020.
-</p>
-</div>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>TSP Alumni Association</title>
+    <meta name="description" content="The alumni association of the Tibetan Scholarship Program.">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://api.fontshare.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@400;600&display=swap" rel="stylesheet">
+    <link href="https://api.fontshare.com/v2/css?f[]=gambetta@600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/jq-3.3.1/dt-1.10.22/fh-3.1.7/r-2.2.6/datatables.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="/styles/site.css" rel="stylesheet"/>
+    <script>document.documentElement.classList.add('js');</script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/v/dt/jq-3.3.1/dt-1.10.22/r-2.2.6/datatables.min.js"></script>
+    <script src="/js/app.js" defer></script>
+  </head>
+  <body>
+    <a class="skip" href="#main">Skip to content</a>
+    <header class="site-header">
+      <div class="container site-header__bar">
+        <input type="checkbox" id="nav-toggle" class="nav-toggle">
+        <a class="logo" href="/" aria-label="TSP Alumni Association, home">
+          <img src="/assets/logo.png" width="2602" height="415" alt="Tibetan Scholarship Program Alumni Association"/>
+        </a>
+        <label for="nav-toggle" class="nav-toggle-label">
+          <span class="visually-hidden">Menu</span>
+          <span class="nav-toggle-label__bars" aria-hidden="true"></span>
+        </label>
+        <nav class="site-nav" aria-label="Main">
+          <ul>
+            <li><a class=""  href="/about-us">About us</a></li>
+            <li><a class=""  href="/alumni-services">Alumni services</a></li>
+            <li><a class=""  href="/tsp-stories">TSP stories</a></li>
+            <li><a class=""  href="/alumni">Alumni database</a></li>
+            <li><a class=""  href="/contact">Contact</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+    <main id="main">
+      <section class="page-banner">
+  <div class="container">
+    <header class="post__head"><h1 class="title">Our 3rd YOP Session</h1></header>
+  </div>
 </section>
-</main>
-<footer>
-<div class="link-groups">
-<div class="col">
-<ul class="socialmedia">
-<li><a class="fa fa-facebook" href="https://www.facebook.com/TSPAlumniAssociation1/" alt="TSP Alumni Association Facebook Page"></a></li>
-<li><a class="fa fa-instagram" href="https://www.instagram.com/tspalumni/?hl=en" alt="TSP Alumni Instagram Profile"></a></li>
-<li><a class="fa fa-youtube" href="https://www.youtube.com/channel/UCWgh3s4L0aeXHP4IodMZLKg" alt="TSP Alumni Youtube Channel"></a></li>
-</ul>
-</div>
-<div class="col">
-<ul>
-<li><a href="https://tibetfund.org/programs/education-vocational-training/scholarships-2/">The Tibet Fund</a></li>
-<li><a href="https://sherig.org/en/">Department of Education, CTA (Sherig)</a></li>
-</ul>
-</div>
-<div class="col">
-<ul>
-<li><a href="https://in.usembassy.gov/">U.S. Embassy in New Delhi Official Website</a></li>
-<li><a href="https://www.facebook.com/India.usembassy/?fref=ts">U.S. Embassy in New Delhi Facebook Page</a></li>
-<li><a href="https://twitter.com/USAndIndia">U.S. Embassy in New Delhi Twitter</a></li>
-<li><a href="http://www.alumni.state.gov/">International Exchange Alumni Official Website</a></li>
-<li><a href="https://www.facebook.com/InternationalExchangeAlumni">International Exchange Alumni Facebook Page</a></li>
-<li><a href="https://twitter.com/exchangealumni">International Exchange Alumni Twitter: @ExchangeAlumni</a></li>
-<li><a href="https://www.facebook.com/americancenternewdelhi/?fref=ts">American Center New Delhi Facebook Page</a></li>
-</ul>
-</div>
-</div>
-</footer>
-</body>
+
+<section class="post event-post">
+  <div class="container">
+  <div class="post__body content">
+    <figure class="post__photo event__photo"><img src="../assets/yop-session.png" alt="Youth Outreach Programme session with STS Poanta high school students"></figure>
+    <p>
+      Our 3rd YOP session successfully concluded with STS Poanta high school students on 24 October , 2020.
+    </p>
+  </div>
+  </div>
+</section>
+
+    </main>
+    <footer class="site-footer">
+      <div class="container site-footer__grid">
+        <div class="site-footer__about">
+          <img class="site-footer__logo" src="/assets/logo.png" width="2602" height="415" alt="Tibetan Scholarship Program Alumni Association" loading="lazy"/>
+          <p>Strengthening the network between all the cohorts of the Tibetan Scholarship Program.</p>
+          <p><a href="mailto:tspalumni@gmail.com">tspalumni@gmail.com</a></p>
+          <ul class="socialmedia">
+            <li><a class="fa fa-facebook" href="https://www.facebook.com/TSPAlumniAssociation1/" aria-label="TSP Alumni Association Facebook page"></a></li>
+            <li><a class="fa fa-instagram" href="https://www.instagram.com/tspalumni/?hl=en" aria-label="TSP Alumni Instagram profile"></a></li>
+            <li><a class="fa fa-youtube" href="https://www.youtube.com/channel/UCWgh3s4L0aeXHP4IodMZLKg" aria-label="TSP Alumni YouTube channel"></a></li>
+          </ul>
+        </div>
+        <div class="site-footer__col">
+          <p class="site-footer__head">Program partners</p>
+          <ul>
+            <li><a href="https://tibetfund.org/programs/education-vocational-training/scholarships-2/">The Tibet Fund</a></li>
+            <li><a href="https://sherig.org/en/">Department of Education, CTA (Sherig)</a></li>
+          </ul>
+        </div>
+        <div class="site-footer__col site-footer__col--wide">
+          <p class="site-footer__head">U.S. Embassy and exchange alumni</p>
+          <ul>
+            <li><a href="https://in.usembassy.gov/">U.S. Embassy in New Delhi Official Website</a></li>
+            <li><a href="https://www.facebook.com/India.usembassy/?fref=ts">U.S. Embassy in New Delhi Facebook Page</a></li>
+            <li><a href="https://twitter.com/USAndIndia">U.S. Embassy in New Delhi Twitter</a></li>
+            <li><a href="http://www.alumni.state.gov/">International Exchange Alumni Official Website</a></li>
+            <li><a href="https://www.facebook.com/InternationalExchangeAlumni">International Exchange Alumni Facebook Page</a></li>
+            <li><a href="https://twitter.com/exchangealumni">International Exchange Alumni Twitter</a></li>
+            <li><a href="https://www.facebook.com/americancenternewdelhi/?fref=ts">American Center New Delhi Facebook Page</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="container site-footer__legal">
+        <p>Tibetan Scholarship Program Alumni Association (TSPAA)</p>
+      </div>
+    </footer>
+  </body>
 </html>
