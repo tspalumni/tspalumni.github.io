@@ -1,0 +1,48 @@
+name: Publish site
+
+# Every push to master builds the Harp source and publishes the result to the
+# gh-pages branch, which GitHub Pages serves at tspalumni.org.
+on:
+  push:
+    branches: [master]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publish-site
+  cancel-in-progress: true
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the source
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      # The site uses classic Harp (EJS, Jade, SCSS). Harp 0.46 from npm fails on it, so pin 0.31.
+      - name: Install Harp
+        run: npm install --global harp@0.31.0
+
+      - name: Build the site
+        run: |
+          harp compile . "$RUNNER_TEMP/site"
+          rm -f "$RUNNER_TEMP/site/README.html"
+          test -f "$RUNNER_TEMP/site/index.html"
+
+      - name: Publish to gh-pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ${{ runner.temp }}/site
+          publish_branch: gh-pages
+          cname: tspalumni.org
+          user_name: github-actions[bot]
+          user_email: 41898282+github-actions[bot]@users.noreply.github.com
+          commit_message: Publish site from ${{ github.sha }}
