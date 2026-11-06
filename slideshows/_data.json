@@ -1,0 +1,87 @@
+{
+  "hero": {
+    "label": "Photos from TSP alumni gatherings",
+    "effect": "fade",
+    "interval": 5000,
+    "slides": [
+      {
+        "src": "/assets/alumni-embassy-meet-2025.jpg",
+        "width": 1440,
+        "height": 1080,
+        "position": "50% 40%",
+        "alt": "TSP alumni standing with U.S. Embassy and State Department program staff in a painted Tibetan hall",
+        "caption": "Alumni meet and greet with the U.S. Embassy in Delhi and the program officer from Washington, D.C., May 2025."
+      },
+      {
+        "src": "/assets/tsp.jpg",
+        "width": 2048,
+        "height": 1536,
+        "position": "50% 62%",
+        "alt": "A group of TSP scholars and alumni gathered around a conference table",
+        "caption": "TSP scholars and alumni."
+      }
+    ]
+  },
+  "who": {
+    "label": "Photos of TSPAA with the cohorts and partners",
+    "effect": "slide",
+    "interval": 6500,
+    "slides": [
+      {
+        "src": "/assets/cohort-evening-2025-stairs.jpg",
+        "width": 1440,
+        "height": 1800,
+        "position": "50% 45%",
+        "alt": "TSP alumni and new cohort members posing together on a lit wooden staircase",
+        "caption": "An evening celebrating the TSP 2025 and 2026 cohorts, May 2025."
+      },
+      {
+        "src": "/assets/access-microscholarship-meeting.jpg",
+        "width": 1440,
+        "height": 1920,
+        "position": "50% 62%",
+        "alt": "TSPAA members with representatives from ECA, the U.S. Embassy and the Tibet Fund under prayer flags at night",
+        "caption": "TSPAA with two representatives from ECA, the U.S. Embassy and the Tibet Fund, exploring the English Access Microscholarship Program."
+      },
+      {
+        "src": "/assets/cohort-evening-2025-dinner.jpg",
+        "width": 1440,
+        "height": 1800,
+        "position": "50% 70%",
+        "alt": "Alumni and new cohort members around a long dinner table",
+        "caption": "Dinner with the TSP 2025 and 2026 cohorts, May 2025."
+      }
+    ]
+  },
+  "mentor": {
+    "label": "Photos from TSPAA meetings and outreach",
+    "effect": "rise",
+    "interval": 8000,
+    "slides": [
+      {
+        "src": "/assets/meeting-sarita-vanka-2.jpeg",
+        "width": 1280,
+        "height": 960,
+        "position": "50% 55%",
+        "alt": "Sarita Vanka holding a gift and khata as TSPAA member Tenzin Kelsang la greets her with folded hands",
+        "caption": "TSPAA member Tenzin Kelsang la meets Sarita Vanka of the U.S. Senate."
+      },
+      {
+        "src": "/assets/meeting-sarita-vanka-1.jpeg",
+        "width": 1280,
+        "height": 960,
+        "position": "50% 55%",
+        "alt": "Sarita Vanka receiving a gift from TSPAA member Tenzin Kelsang la",
+        "caption": "TSPAA member Tenzin Kelsang la meets Sarita Vanka of the U.S. Senate."
+      },
+      {
+        "src": "/assets/onewithworkshopattendees.jpeg",
+        "width": 962,
+        "height": 543,
+        "position": "50% 50%",
+        "alt": "Workshop attendees holding the TSPAA graduate studies handbook",
+        "caption": "Workshop attendees with the TSPAA handbook on graduate studies in the United States."
+      }
+    ]
+  }
+}
